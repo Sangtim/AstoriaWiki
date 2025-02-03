@@ -7,7 +7,7 @@
 	- Chasse prolifique de nombreux monstres rares
 	- Habitants forgés par le climat difficile et les créatures
 	- Alchimie et métallurgie très développé
-- **Villes majeures**
+- **Villes majeures** :
 	- Kragvar, capitale et plus grande ville de l'empire.
 	- Durak-Tor, deuxième plus grande ville de l'empire et ancienne capitale des nains.
 	- Drakenvold, seul ville pouvant vivre de l'agriculture seul, immense forteresse servant de point d'entrée de l'empire.

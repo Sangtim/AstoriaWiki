@@ -6,7 +6,7 @@
 	- Extraction des cristaux aetherique chargé d'énergie élémentaire
 	- Magie gravitationnelle
 	- Technologie avancée, automates, aéronefs et poudre magique.
-- **Villes majeures**
+- **Villes majeures** :
 	- **[Aetherforge](obsidian://open?vault=Campagne%20%231&file=Astoria%2FRoyaume%2FTechnocratie%20Edarion%2FVilles%2FAetherforge)**, capitale et plus grande ville de l'empire.
 	- **[Myrastis](obsidian://open?vault=Campagne%20%231&file=Astoria%2FRoyaume%2FTechnocratie%20Edarion%2FVilles%2FMyrastis)**, deuxième plus grande ville d’Edarion, centré sur le commerce et sur l'extraction de cristaux magiques.
 	- **[Arcavell](obsidian://open?vault=Campagne%20%231&file=Astoria%2FRoyaume%2FTechnocratie%20Edarion%2FVilles%2FArcavell)**, centre de recherche important d'Edarion, tourné autour de la recherche magique élémentaire et des cristaux aetherique.
