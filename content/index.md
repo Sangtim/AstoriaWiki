@@ -13,7 +13,14 @@ title: Astoria Wiki
 	- [[Théocratie Ondaile]]
 
 - **Aventuriers**
-	- Tifanny
-	- Célestin
-	- Martin
-	- Nono ?
+	- [[Tifanny]]
+	- [[Célestin]]
+	- [[Martin]]
+	- [[Nono]] ?
+
+- **Items**
+	- [[Armes]]
+	- [[Armures]]
+
+- **Notes de séances**
+	- [[Séance 1]]
