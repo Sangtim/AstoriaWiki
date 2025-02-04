@@ -1,0 +1,4 @@
+- **Nom** : 
+- **Espèce** : Monke
+- **Classe** : Barbare
+- **Historique** : Monke
