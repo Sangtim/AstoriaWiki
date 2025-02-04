@@ -1,5 +1,3 @@
-- **Nom** : 
-- **Espèce** : Aasimar
-- **Classe** : Barde
-- **Historique** : Noble
 
+![[Tifanny - Personnage-1.png]]
+![[Tifanny - Personnage-2.png]]
