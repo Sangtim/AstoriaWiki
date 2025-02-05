@@ -19,3 +19,14 @@ Lorsqu'un joueur tombe au sol, les règles suivantes seront appliquées :
 - **Secret** : Les jets de sauvegarde contre la mort seront fait uniquement devant le MJ, les autres joueurs ne doivent pas voir le résultat.
 - **Souvenirs** : Le joueur peut décider de raconter un souvenir de ses aventures ou de son historique avec chaque jet de sauvegarde.
 - **Second Souffle** : Le joueur peut décider de noter 2 échecs à ses jets de sauvegardes contre la mort contre une dernière action. Cette dernière action ne peut lui permettre de récupérer des points de vie et il retombera forcément au sol à la fin de son tour. 
+
+
+### **Métiers**
+
+Chaque joueur peut choisir un hobby d'artisanat qu'il maitrise au moment de la création de son personnage. Chaque hobby dépend d'une caractéristiques et utilisera le bonus correspondant. 
+Les hobbys disponible sont :
+
+- **[[Alchimie]]**
+- **[[Enchantement]]**
+- **[[Forgeage]]**
+- **[[Artisanat]]**
