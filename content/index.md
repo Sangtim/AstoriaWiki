@@ -24,3 +24,6 @@ title: Astoria Wiki
 
 - **Notes de séances**
 	- [[Séance 1]]
+
+- **Règles**
+	- **[[Règles maisons]]**
