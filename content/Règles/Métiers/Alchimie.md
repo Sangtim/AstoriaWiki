@@ -13,7 +13,6 @@ Permet de créer des potions à partir d'ingrédients alchimiques et de collecte
 | 3             | Créature | Grande               | -          |
 | 4             | Créature | Très grande          | -          |
 | 5             | Créature | Gigantesque          |            |
-
 - **Récompense** : Détermine la récompense récupéré par l'alchimiste à partir du résultats de ses dés.
 
 | Difficulté | Récompense        | Rareté     |

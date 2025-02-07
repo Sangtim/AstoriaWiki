@@ -11,16 +11,16 @@ Permet d'enchanter des objets à partir d'essence de créatures et d'objets non 
 | DC 25      | Essence légendaire    | Légendaire |
 - **Enchantement** - plusieurs types d'enchantement sont disponibles : 
 
-| Type d'enchantement              | Ingrédients                                           | Difficulté | Durée  | Charge |
-| -------------------------------- | ----------------------------------------------------- | ---------- | ------ | ------ |
-| Passage à +1 sur un objet 0      | Essence intermédiaire + objet + emplacement de sort 1 | DC 14      | 2 jets | -      |
-| Passage à +2 sur un objet +1     | Essence importante + objet +1 + emplacement de sort 2 | DC 17      | 3 jets | -      |
-| Passage à +3 sur un objet +2     | Essence  majeure + objet +2 + emplacement de sort 3   | DC 20      | 4 jets | -      |
-| Ajout d'un sort de niveau 1 ou 2 | Essence basique + objet + parchemin ou sort           | DC 12      | 3 jets | 1d3    |
-| Ajout d'un sort de niveau 3 ou 4 | Essence intermédiaire + objet +1 + parchemin ou sort  | DC 15      | 4 jets | 1d3    |
-| Ajout d'un sort de niveau 5 ou 6 | Essence importante + objet +2 + parchemin ou sort     | DC 18      | 5 jets | 1      |
-| Ajout d'un sort de niveau 7 ou 8 | Essence majeure + objet +3 + parchemin ou sort        | DC 20      | 6 jets | 1      |
-| Ajout d'un sort de niveau 9      | Essence légendaire + objet +3 + parchemin ou sort     | DC 23      | 7 jets | 1      |
+| Type d'enchantement              | Ingrédients                                           | Difficulté | Durée  | Charge | Harmonisation |
+| -------------------------------- | ----------------------------------------------------- | ---------- | ------ | ------ | ------------- |
+| Passage à +1 sur un objet 0      | Essence intermédiaire + objet + emplacement de sort 1 | DC 14      | 2 jets | -      | -             |
+| Passage à +2 sur un objet +1     | Essence importante + objet +1 + emplacement de sort 2 | DC 17      | 3 jets | -      | -             |
+| Passage à +3 sur un objet +2     | Essence  majeure + objet +2 + emplacement de sort 3   | DC 20      | 4 jets | -      | -             |
+| Ajout d'un sort de niveau 1 ou 2 | Essence basique + objet + parchemin ou sort           | DC 12      | 3 jets | 1d3    | -             |
+| Ajout d'un sort de niveau 3 ou 4 | Essence intermédiaire + objet +1 + parchemin ou sort  | DC 15      | 4 jets | 1d3    | oui           |
+| Ajout d'un sort de niveau 5 ou 6 | Essence importante + objet +2 + parchemin ou sort     | DC 18      | 5 jets | 1      | oui           |
+| Ajout d'un sort de niveau 7 ou 8 | Essence majeure + objet +3 + parchemin ou sort        | DC 20      | 6 jets | 1      | oui           |
+| Ajout d'un sort de niveau 9      | Essence légendaire + objet +3 + parchemin ou sort     | DC 23      | 7 jets | 1      | oui           |
 - **Emplacement de sort** : Les emplacements de sorts ou sorts peuvent être fournis par l'enchanteur mais aussi par ses compagnons qui peuvent l'assister dans l'enchantement.
 - **Ingrédients** : Les ingrédients ne sont utilisés que sur le premier jet hormis les emplacements de sorts ou les parchemins ou sorts qui devront être utilisés à chaque jets.
 	Dans le cas d'une utilisation de parchemin, le parchemin n'est nécessaire que sur le premier jet, un emplacement de sort du niveau correspondant pourra être utilisé sur les jets suivants.
