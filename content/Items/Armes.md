@@ -17,6 +17,7 @@
 | Arc court                              | 1d6 perforant  | 1 kg      | 25 po    | Munitions (portée 24 m/96 m), à deux mains                           |
 | Fléchette                              | 1d4 perforant  | 100 g     | 5 pc     | Finesse, lancer (portée 6 m/18 m)                                    |
 | Fronde                                 | 1d4 contondant | -         | 1 pa     | Munitions (portée 9 m/36 m)                                          |
+| Revolver                               | 1d8 perforant  | 2kg       | 50 po    | Munitions (24m/96m), rechargeant                                     |
 | _**Armes de guerre de corps à corps**_ |                |           |          |                                                                      |
 | Cimeterre                              | 1d6 tranchant  | 1,5 kg    | 25 po    | Finesse, légère                                                      |
 | Coutille                               | 1d10 tranchant | 3 kg      | 20 po    | Lourde, allonge, à deux mains                                        |
@@ -42,3 +43,4 @@
 | Arc long                               | 1d8 perforant  | 1 kg      | 50 po    | Munitions (portée 45 m/180 m), lourde, à deux mains                  |
 | Filet                                  |                | 1,5 kg    | 1 po     | Spécial, lancer (portée 1,50 m/ 4,50 m)                              |
 | Sarbacane                              | 1 perforant    | 500 g     | 10 po    | Munitions (portée 7,50 m/30 m), chargement                           |
+| Carabine                               | 1d10 perforant | 9kg       | 100 po   | Munitions (portée 45m/180m), chargement, à deux mains.               |
