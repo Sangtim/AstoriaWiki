@@ -1,3 +1,6 @@
+---
+title: Confédération de Valdoria
+---
 ![[Astoria - Final.jpg]]
 ### **Description**
 - **Origine** : Formé de 5 Cités-Etats ayant signé un pacte d'alliance mutuelle pour faire face aux dangers des empires expansionnistes voisins.

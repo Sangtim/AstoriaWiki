@@ -1,3 +1,6 @@
+---
+title: Sultanat d'Arcantor
+---
 ![[Astoria - Final.jpg]]
 ### **Description**
 - **Origine** : Crée par un peuple nomade décidant de s'installer sur les îles au Sud d'Astoria, Arcantor est vite devenu une gigantesque plateforme commerciale où tout les produits peuvent se trouver.

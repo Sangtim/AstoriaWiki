@@ -1,3 +1,6 @@
+---
+title: Technocratie Edarion
+---
 ![[Astoria - Final.jpg]]
 ### **Description**
 - **Origine** : Formé suite à l'association des plus grandes Guildes installés pour étudier les anomalies magiques en Mer d'Elathar, Edarion s'est étendu en revendiquant des bouts de Terres Perdues.

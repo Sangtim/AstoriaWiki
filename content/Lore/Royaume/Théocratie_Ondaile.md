@@ -1,3 +1,6 @@
+---
+title: Théocratie Ondaile
+---
 ![[Astoria - Final.jpg]]
 ### **Description**
 - **Origine** : Etat saint, formé autour de la ville du même nom qui abrite les Temples Eternels encore en état et qui abrite les sièges de tout les clergés d'Astoria.

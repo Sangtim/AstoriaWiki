@@ -1,3 +1,6 @@
+---
+title: Terres Perdues
+---
 ![[Astoria - Final.jpg]]
 ### **Description**
 - **Origine** : Terres perdues lors de la Guerre Divine et encore trop dangereuse pour autorisé l'installation de colonie. Des anomalies magiques et créatures mutés y résident.

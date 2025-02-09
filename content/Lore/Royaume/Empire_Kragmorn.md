@@ -1,3 +1,7 @@
+---
+title: Empire Kragmorn
+---
+
 ![[Astoria - Final.jpg]]
 ### **Description**
 - **Origine** : Forgé dans le combat et la guerre, Kragmorn est un empire militariste qui a grandit en intégrant par la force les tribus établis dans les montagnes du Nord d'Astoria.
