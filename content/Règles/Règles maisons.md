@@ -29,4 +29,47 @@ Les hobbys disponible sont :
 - **[[Alchimie]]**
 - **[[Enchantement]]**
 - **[[Forgeage]]**
-- **[[Artisanat]]**
+
+### **Renommée**
+
+La renommée représente la facilité avec laquelle le groupe d'aventuriers est reconnu dans des lieux publics.
+La renommée est à la fois individuelle par aventuriers et collective au niveau de l'équipe.
+- **Gain** : Il existe plusieurs moyens de gagner de la renommée mais dans l'ensemble les actions positives (sauver des gens, supprimer des bandits ou réaliser des performances) permettent de gagner de la renommée là ou des actions négatives (commettre des crimes, voler et mentir en se faisant prendre) en fait perdre.
+- **Répartition** : La renommée individuelle augmente ou diminue en fonction d'action solitaire et la renommée collective en fonction d'action de groupe. 
+	**Exemple** : Un concert effectué par une Barde va augmenter sa renommée individuelle et une quête rendu va augmenter la renommée collective. 
+	La moitié de la renommée individuelle de chacun sera calculé dans la renommée collective.
+- **Infamie** : La renommée peut se transformer en infamie si les actions des joueurs sont trop négatives.
+- **Calcul** : 
+	- **Individuelle** : Somme de la renommée gagnées pour toutes les actions individuelles.
+	- **Collective** : Moitié de la renommée individuelle de tout ses membres plus la somme de la renommée gagnées par des actions collectives.
+
+- **Conséquences** : 
+
+| Renommée/Infamie | Titre             | Police                                                                                                                 | Réductions                                         | Pouvoir politique | Persuasion                                                                    |
+| ---------------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------- | ----------------------------------------------------------------------------- |
+| -1000            | Ennemi public n°1 | Recherché par toute les forces de la zone même dans d'autres juridictions                                              | Impossible d'acheter                               | -                 | Avantage sur les ennemis de la juridiction<br>Impossible dans la juridiction  |
+| -800             | -                 | Recherché par toute les forces de la zone au sein de sa juridiction                                                    | +200% du prix et <br>uniquement sur le marché noir | -                 | Avantage sur les ennemis de la juridiction<br>Désavantage dans la juridiction |
+| -600             | -                 | Arrêté si vu par les forces de l'ordre dans la juridiction, 10% de chance d'être balancé par la population             | +150% du prix et <br>uniquement sur le marché noir | -                 | +4 sur les ennemis de la juridiction<br>-4 dans la jurdiction                 |
+| -400             | -                 | Force de l'ordre et population aux aguets en votre présence, moindre problème peut être une cause pour une arrestation | +100% du prix                                      | -                 | +2 sur les ennemis de la juridiction<br>-2 dans la juridiction                |
+| -200             | -                 | Population méfiante à votre égard, elle vous évite et refuse votre aide                                                | +50% du prix                                       | -                 | +1 sur les ennemis de la juridiction<br>-1 dans la juridiction                |
+| -100             | -                 | -                                                                                                                      | +10% du prix                                       | -                 | -                                                                             |
+| 0                | -                 | -                                                                                                                      | -                                                  | -                 | -                                                                             |
+| 100              | -                 | Quelques gens vous reconnaisse dans la rue et peuvent vous rendre de petits service gracieusement                      | -                                                  | -                 | +1 sur les personnes vous reconnaissant                                       |
+| 200              | -                 | La population vous connait et vous apprécie, vous êtes bien accueilli en lieu public                                   | -5% du prix                                        | Très faible       | +2 sur la population hors force de l'ordre                                    |
+| 400              | Gardien           | Les gens vous écoutent et prenne en compte vos paroles. Ils peuvent parfois vous apporter leur aide spontanément       | -10% du prix                                       | Léger             | +4 sur la population et +2 sur les forces de l'ordre                          |
+| 600              | Baron             | Vous êtes respecté dans la zone, une aide vous sera apporté si vous en exprimé le besoin.                              | -15% du prix                                       | Moyen             | Avantage sur la population                                                    |
+| 800              | Comte             | Vous êtes escorté par les forces de l'ordre local dans la zone, ceux-ci peuvent répondre à certaines de vos demandes   | -20% du prix                                       | Fort              | Avantage dans la zone hors royauté                                            |
+| 1000             | Duc               | Vous pouvez avoir votre propre milice et toutes les portes vous sont ouvertes                                          | -25% du prix                                       | Extrême           | Avantage dans la zone                                                         |
+
+### **Piété**
+
+La piété représente le degré d'appréciation de votre Dieu envers vos actes et actions. 
+- **Gain** : Certaines actions jugés dignes par votre déité de choix vous apporterons des points de Piété. Inversement des actions clairement à l'encontre des valeurs de votre déité vous feront perdre des points de piété.
+- **Points de Piété** : Les points de piétés s'accumulent, permettant d'accéder à des pouvoirs divins supplémentaires à certains paliers.
+
+| Points de Piété | Rang     | Avantages                                                  |
+| --------------- | -------- | ---------------------------------------------------------- |
+| 3               | Acolyte  | Permet de gagner inspiration dans certaines circonstances  |
+| 10              | Prêtre   | Permet de gagner une compétence/sort lié à la déité        |
+| 25              | Evêques  | Permet de gagner une compétence/sort avancé lié à la déité |
+| 50              | Cardinal | Permet d'augmenter le score d'une caractéristique de 2     |

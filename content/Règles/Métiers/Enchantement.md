@@ -1,5 +1,5 @@
 Permet d'enchanter des objets à partir d'essence de créatures et d'objets non enchantés. Il est possible de faire un jet de collecte et un jet d'enchantement par jour. 
-- **Caractéristiques** : Sagesse
+- **Caractéristiques** : Caractéristique de sort
 - **Collecte** : Permet de récupérer des essences sur les cadavres de créatures.
 
 | Difficulté | Récompense            | Rareté     |
@@ -28,11 +28,11 @@ Permet d'enchanter des objets à partir d'essence de créatures et d'objets non 
 - **Charge** : Nombre d'utilisation par jour du sort en question
 - **Echec** : en cas de deux échecs successifs au jet d'enchantement, il faudra lancer un d6 qui déterminera ce qu'il se passe :
 
-| Résultat du dé | Conséquences                                                                                                                 |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 1              | Le pire est évité, rien ne se passe                                                                                          |
-| 2              | Votre magie vous échappe, vous explosant à la figure et infligeant 3d10 de dégâts d'arcane                                   |
-| 3              | Vous avez mis trop d'énergie dans l'enchantement, vous ne pouvez plus lancer de sort jusqu'au prochain long repos            |
-| 4              | A force d'observer la magie arcanique, vous vous en brulez les yeux, vous rendant aveugle jusqu'au prochain long repos       |
-| 5              | L'échec sape la force magique autours, aspirant l'énergie d'1d4 objets magiques aux alentours et brisant leurs enchantements |
-| 6              | L'enchantement échoue, il faut recommencer du début, les ingrédients hormis l'objet sont perdus                              |
+| Résultat du dé | Conséquences                                                                                                                                  |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1              | Le pire est évité, rien ne se passe                                                                                                           |
+| 2              | Votre magie vous échappe, vous explosant à la figure et infligeant un nombre égal au niveau de l'emplacement de sort de d6 de dégâts d'arcane |
+| 3              | Vous avez mis trop d'énergie dans l'enchantement, vous ne pouvez plus lancer de sort jusqu'au prochain long repos                             |
+| 4              | A force d'observer la magie arcanique, vous vous en brulez les yeux, vous rendant aveugle jusqu'au prochain long repos                        |
+| 5              | L'échec sape la force magique autours, aspirant l'énergie d'1d4 objets magiques aux alentours et brisant leurs enchantements                  |
+| 6              | L'enchantement échoue, il faut recommencer du début, les ingrédients hormis l'objet sont perdus                                               |

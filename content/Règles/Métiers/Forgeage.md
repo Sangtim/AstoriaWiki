@@ -1,5 +1,5 @@
 Permet de fabriquer des objets à partir de barre de métal et d'ingrédients supplémentaires. Il est possible de réaliser un jet de collecte et de forge par jour.
-- **Caractéristique** : Force
+- **Caractéristique** : Force ou Dextérité
 - **Collecte** : Permet de récupérer des matériaux de forge sur des créatures ou de miner des minerais dans la nature.
 
 | Nombre de jet | Type     | Taille               | Rareté     |
@@ -81,9 +81,9 @@ Permet de fabriquer des objets à partir de barre de métal et d'ingrédients su
 - **Ressources** : Correspond au nombre de ressources du même type qu'il faut utiliser. Plusieurs types de ressources peuvent être utilisés mais le résultat dépendra du type de ressources le plus faible utilisé. Une ressource est consommé par jet.
 - **Echec** : En cas de deux échecs consécutifs, l'avancement de la fabrication perd un niveau d'avancement. Si le niveau d'avancement revient à 0, le projet et les ingrédients le composant sont perdus. De plus à chaque échec, il faut lancer un dé 4 pour définir ce qu'il se passe avec la ressource utilisé avec ce jet.
 
-| Résultat du dé | Conséquences                                                                                                                                    |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1              | Le pire est évité, la ressource est préservé                                                                                                    |
-| 2              | Votre enthousiasme se ressent dans la chaleur de votre four, celui ci vous renvoi une boule de feu à la figure infligeant 3d10 de dégâts de feu |
-| 3              | Vous avez laissé la ressource trop longtemps au four, elle a totalement fondu et est perdu                                                      |
-| 4              | Vous avez tapez trop fort, la ressource est perdu et le projet perd un niveau d'avancement                                                      |
+| Résultat du dé | Conséquences                                                                                                                                                                                        |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1              | Le pire est évité, la ressource est préservé                                                                                                                                                        |
+| 2              | Votre enthousiasme se ressent dans la chaleur de votre four, celui ci vous renvoi une boule de feu à la figure infligeant un nombre égale au niveau de l'emplacement de sort de d6 de dégâts de feu |
+| 3              | Vous avez laissé la ressource trop longtemps au four, elle a totalement fondu et est perdu                                                                                                          |
+| 4              | Vous avez tapez trop fort, la ressource est perdu et le projet perd un niveau d'avancement                                                                                                          |
