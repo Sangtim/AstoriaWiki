@@ -73,3 +73,4 @@ La piété représente le degré d'appréciation de votre Dieu envers vos actes 
 | 10              | Prêtre   | Permet de gagner une compétence/sort lié à la déité        |
 | 25              | Evêques  | Permet de gagner une compétence/sort avancé lié à la déité |
 | 50              | Cardinal | Permet d'augmenter le score d'une caractéristique de 2     |
+- **Equipe** : Dans le cas où plusieurs membres de l'équipe vénère la même déité ou si l'équipe choisit une divinité comme patron, les bonus accordé par la déité seront partagé.
