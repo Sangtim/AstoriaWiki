@@ -8,4 +8,4 @@
 
 - **Clergé** : Ses fidèles incluent des druides, des rangers et des êtres élémentaires qui recherchent sa bénédiction pour protéger les terres sauvages ou pour puiser dans leur propre connexion à la nature.
 - **Symbole** : 
-- ![[AstoriaWiki/Images/Symbole/Sylvannor - Symbole.png]]
+![[Sylvannor - Symbole.png]]

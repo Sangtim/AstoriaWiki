@@ -8,4 +8,4 @@
 
 - **Clergé** : Vénéré par les forgerons, les artisans et les sculpteurs.
 - **Symbole** : 
-![[AstoriaWiki/Images/Symbole/Kraëlor - Symbole.png]]
+![[Kraëlor - Symbole.png]]

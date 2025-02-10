@@ -8,4 +8,4 @@
 
 - **Clergé** : Vénéré par les juges, avocats, enquêteurs, et paladins cherchant à préserver l’ordre et la justice.
 - **Symbole** :
-![[AstoriaWiki/Images/Symbole/Thyrenia - Symbole.png]]
+![[Thyrenia - Symbole.png]]

@@ -8,4 +8,4 @@
 
 - **Clergé** : Vénéré par les fermiers, les sages-femmes et les guérisseurs. 
 - **Symbole** :
-![[AstoriaWiki/Images/Symbole/Elvara - Symbole.png]]
+![[Elvara - Symbole.png]]

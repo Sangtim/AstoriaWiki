@@ -8,4 +8,4 @@
 
 - **Clergé** : Vénéré par les médecins et les professions en contact régulier avec la mort, il n'est pas rare que certains soldats ou guerriers la vénère plutôt que des Dieux guerriers.
 - **Symbole** : 
-![[AstoriaWiki/Images/Symbole/Nivara - Symbole.png]]
+![[Nivara - Symbole.png]]

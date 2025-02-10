@@ -9,5 +9,5 @@
 
 - **Clergé** : Majoritairement vénéré par les sages, les érudits et les mages.
 - **Symbole** :
-![[AstoriaWiki/Images/Symbole/Aelrith - Symbole.png]]
+![[Aelrith - Symbole.png]]
 

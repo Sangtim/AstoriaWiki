@@ -8,4 +8,4 @@
 
 - **Clergé** : Vénéré par les astronomes et les utilisateurs de la magie célestes.
 - **Symbole** : 
-- ![[AstoriaWiki/Images/Symbole/Eryndis - Symbole.png]]
+![[Eryndis - Symbole.png]]

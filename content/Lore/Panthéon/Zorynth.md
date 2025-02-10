@@ -8,4 +8,4 @@
 
 - **Clergé** : Vénéré par les révolutionnaires, les penseurs souhaitant renverser le pouvoir en place ou instaurer de nouvelles règles plus juste et par les paladins et chevaliers luttant contre l'oppression.
 - **Symbole** : 
-- ![[AstoriaWiki/Images/Symbole/Zorynth - Symbole.png]]
+![[Zorynth - Symbole.png]]

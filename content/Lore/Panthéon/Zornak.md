@@ -8,4 +8,4 @@
 
 - **Clergé** : Patron des sentinelles, gardiens et éclaireurs, il veille à ce que ceux qui s’aventurent dans l’inconnu aient la force de résister et la sagesse de survivre.
 - **Symbole** : 
-![[AstoriaWiki/Images/Symbole/Zornak - Symbole.png]]
+![[Zornak - Symbole.png]]

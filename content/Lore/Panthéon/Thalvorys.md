@@ -8,4 +8,4 @@
 
 - **Clergé** : Vénéré par les marins, navigateurs et les créatures aquatiques comme une protectrice des navires mais aussi crainte comme la source des tempêtes.  
 - **Symbole** : 
-![[AstoriaWiki/Images/Symbole/Thalvorys - Symbole.png]]
+![[Thalvorys - Symbole.png]]
