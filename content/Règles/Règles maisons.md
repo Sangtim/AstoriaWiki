@@ -13,6 +13,17 @@ Lorsqu'un jet de discrétion sera nécessaire ou demandé, les règles suivantes
 	Tifanny décide d'aider Célestin à rester caché, elle lance un nouveau jet de discrétion (DC 12 + 6/2 = DC  15) et elle fait 18. 
 	Tifanny et Célestin restent alors caché.
 
+### **Critique**
+
+- **Jet de caractéristiques** : Les réussites critiques apporteront toujours le résultat le plus positif possible.
+	- **Disclaimer** : le résultat le plus positif n'est pas toujours le résultat attendu par le joueur.
+
+- **Jet d'attaque** : les réussites critique d'attaques toucheront forcément et les dégâts seront calculé de la manière suivante :
+	- Dégâts de l'attaque maximum + jet des dégâts d'attaque 
+	**Exemple** : Attaque réussite à l'arme = 1d6 dégâts tranchant + 1d8 châtiment divin
+	Si la réussite est critique, au total des jets ci dessus se rajouterons 6 + 8 = 14 dégâts supplémentaires.
+	- **Disclaimer** : Les dégâts seront ainsi très élevé sur un critique, très satisfaisant côté joueur mais peut aussi arriver côté ennemi.
+
 ### **Mort**
 
 Lorsqu'un joueur tombe au sol, les règles suivantes seront appliquées :

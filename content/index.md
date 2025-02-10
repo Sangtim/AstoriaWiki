@@ -18,16 +18,16 @@ title: Astoria Wiki
 
 - **Lore** :
 	- **Panthéon :**
-		- [Aelrith, le Tisseur de la Trame](Aelrith,_le_Tisseur_de_la_Trame)
-		- [Kraëlor, le Forgeron du Monde](Kraëlor,_le_Forgeron_du_Monde)
-		- [Thalvorys, l'Infini Océan](Thalvorys,_l'Infini_Océan)
-		- [Elvara, l'Eternelle Mère](Elvara,_l'Eternelle_Mère)
-		- [Nivara, la Gardienne des Âmes](Nivara,_la_Gardienne_des_Âmes)
-		- [Sylvannor, le Seigneur des Forêts](Sylvannor,_le_Seigneur_des_Forêts)
-		- [Thyrenia, la Balance Equitable](Thyrenia,_la_Balance_Equitable)
-		- [Zornak, le Veilleur des Frontières](Zornak,_le_Veilleur_des_Frontières)
-		- [Eryndis, la Voix des Etoiles](Eryndis,_la_Voix_des_Etoiles)
-		- [Zorynth, l'Eclat Eternel](Zorynth,_l'Eclat_Eternel)
+		- [Aelrith](Aelrith.md)
+		- [Kraëlor](Kraëlor.md)
+		- [Thalvorys](Thalvorys.md)
+		- [Elvara](Elvara.md)
+		- [Nivara](Nivara.md)
+		- [Sylvannor](Sylvannor.md)
+		- [Thyrenia](Thyrenia.md)
+		- [Zornak](Zornak.md)
+		- [Eryndis](Eryndis.md)
+		- [Zorynth](Zorynth.md)
 	- **Royaume** :
 		- [Confédération de Valdoria](Confédération_de_Valdoria)
 		- [Empire Kragmorn](Empire_Kragmorn)
