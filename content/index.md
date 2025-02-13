@@ -9,12 +9,11 @@ title: Astoria Wiki
 	- [[Martin]]
 	- [[Nono]] ?
 
-- **Items**
+- **Liens utiles**
+	- **[[Règles maisons]]**
+	- [[Sorts]]
 	- [[Armes]]
 	- [[Armures]]
-
-- **Règles**
-	- **[[Règles maisons]]**
 
 - **Lore** :
 	- **Panthéon :**
@@ -29,13 +28,13 @@ title: Astoria Wiki
 		- [Eryndis](Eryndis.md)
 		- [Zorynth](Zorynth.md)
 	- **Royaume** :
-		- [Confédération de Valdoria](Confédération_de_Valdoria)
+		- [Confédération de Valdoria](Confédération_de_Valdoria.md)
 		- [Empire Kragmorn](Empire_Kragmorn)
 		- [Royaume d'Elvaris](Royaume_d'Elvaris)
 		- [Sultanat d'Arcantor](Sultanat_d'Arcantor)
 		- [Technocratie Edarion](Technocratie_Edarion)
 		- [Terres Perdues](Terres_Perdues)
-		- [Théocratie Ondaile](Théocratie_Ondaile)
+		- [Théocratie Ondaile](Théocratie_Ondaile.md)
 
 - **Notes de séances**
 	- [[Séance 1]]
