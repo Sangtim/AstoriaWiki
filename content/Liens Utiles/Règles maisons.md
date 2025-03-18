@@ -83,6 +83,9 @@ De plus, lorsqu'un joueur tombe au sol, les règles suivantes seront appliquées
 		- Un barbare ne sachant pas lancer la magie peut utiliser un parchemin de Boule de Feu (sort lvl 3) en passant un jet d'intelligence à 11.
 		- Un barde ayant accès au sort de lvl 2 peut utiliser un parchemin de Boule de Feu (sort lvl 3) en passant un jet de Charisme à 11.
 
+- **Règles du style avant tout** :
+	- Une action ou discussion détaillé et logique apportera des bonus au jet lors de la réalisation de cette action ou discussion. Si le détails est particulièrement cool, le jet pourra être automatiquement considéré comme un succès à la discrétion du MJ. 
+
 ### **Métiers**
 
 Chaque joueur peut choisir un hobby d'artisanat qu'il maitrise au moment de la création de son personnage. Chaque hobby dépend d'une caractéristiques et utilisera le bonus correspondant. 
