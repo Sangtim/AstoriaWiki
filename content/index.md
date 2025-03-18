@@ -6,7 +6,7 @@ title: Astoria Wiki
 - **Aventuriers**
 	- [[Tifanny]]
 	- [[Célestin]]
-	- [[Martin]]
+	- [[AstoriaWiki/Aventuriers/Martin]]
 	- [[Nono]] ?
 
 - **Liens utiles**
@@ -33,7 +33,7 @@ title: Astoria Wiki
 		- [Royaume d'Elvaris](Royaume_d'Elvaris)
 		- [Sultanat d'Arcantor](Sultanat_d'Arcantor)
 		- [Technocratie Edarion](Technocratie_Edarion)
-		- [Terres Perdues](Terres_Perdues)
+		- [Terres Perdues](AstoriaWiki/Lore/Royaume/Terres_Perdues.md)
 		- [Théocratie Ondaile](Théocratie_Ondaile.md)
 
 - **Notes de séances**

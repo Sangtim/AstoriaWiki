@@ -24,13 +24,63 @@ Lorsqu'un jet de discrétion sera nécessaire ou demandé, les règles suivantes
 	Si la réussite est critique, au total des jets ci dessus se rajouterons 6 + 8 = 14 dégâts supplémentaires.
 	- **Disclaimer** : Les dégâts seront ainsi très élevé sur un critique, très satisfaisant côté joueur mais peut aussi arriver côté ennemi.
 
-### **Mort**
+### **Dégâts persistants et morts**
 
-Lorsqu'un joueur tombe au sol, les règles suivantes seront appliquées :
+Lorsqu'un joueur subit plus de la moitié de ses PVs maximum en une attaque, le joueur lancera un d4 qui donnera le résultat suivant :
+
+| Résultat | Conséquence                                             |
+| -------- | ------------------------------------------------------- |
+| 1        | Vous résistez à la douleur, rien ne se passe            |
+| 2        | Vous êtes étourdie jusqu'à la fin de son prochain tour. |
+| 3        | Vous tombez à terre.                                    |
+| 4        | Vous roulez sur la table des blessures persistantes.    |
+Si le joueur tombe à 0 pv suite à cette attaque, il doit automatiquement rouler un dé 20 sur la table des blessures persistantes suivantes :
+
+| Résultat | Conséquence                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1        | Votre corps résiste au trauma, vous évitez la blessure persistantes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 2        | **Perdez un trait du visage.** Le MJ détermine quel trait en fonction du récit. <br>Si c'est un œil, vous êtes désavantagé aux tests de Sagesse (Perception) qui reposent sur la vue et sur les jets d'attaque à distance, si vous perdez les deux yeux, vous êtes aveuglé. Si c'est une oreille, vous avez un désavantage aux tests de Sagesse (Perception) qui reposent sur l'audition, si vous perdez les deux oreilles, vous êtes assourdi. <br>Si c'est le nez, vous êtes désavantagé aux tests de Sagesse (Perception) qui reposent sur l'odorat.<br>Chacun d’entre eux subit également les conséquences d’une horrible cicatrice. La magie telle que le sort de régénération peut restaurer la partie perdue. |
+| 3—4      | **Horrible cicatrice.** Vous êtes défiguré au point que la blessure ne peut pas être facilement dissimulée. Vous avez un désavantage aux tests de Charisme (Persuasion) et un avantage aux tests de Charisme (Intimidation). Les soins magiques de niveau 6 ou supérieur, tels que les soins, suppriment la cicatrice.                                                                                                                                                                                                                                                                                                                                                                                               |
+| 5—6      | **Commotion cérébrale ou Contusion.** Le MJ détermine l'emplacement selon le récit. <br>S'il s'agit d'un traumatisme crânien, vous perdez 1d4 points en capacité mentale. <br>S'il s'agit d'une perforation corporelle, vous perdez 1d4 points en capacité physique.<br>Dans les deux cas, vous gagnez également un niveau d’épuisement. La blessure guérit si vous passez cinq jours à ne rien faire d'autre que vous reposer ou si vous recevez des soins magiques de niveau 5 ou supérieur.                                                                                                                                                                                                                       |
+| 7—9      | **Os brisés.** Le MJ détermine l'emplacement en fonction du récit. <br>Si c'est un membre, vous souffrez des adversités d'un membre perdu.<br>S'il s'agit d'un trait du visage, vous subissez les inconvénients d'un trait du visage perdu.<br>Si c'est sur le torse, vous subissez les inconvénients d'une blessure interne. La blessure guérit si vous passez dix jours à ne rien faire d'autre que vous reposer ou si vous recevez des soins magiques de niveau 2 ou supérieur.                                                                                                                                                                                                                                   |
+| 10—12    | **Cicatrice mineure.** La cicatrice n'a aucun effet indésirable. Les soins magiques de niveau 1 ou supérieur suppriment la cicatrice.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 13—15    | **Membre mou ou estropié.** Le MJ détermine le membre en fonction du récit. <br>S'il s'agit d'une jambe, votre vitesse à pied est réduite de 1,50 mètre et vous devez effectuer un jet de sauvegarde de Dextérité DD 10 après avoir utilisé l'action Dash, si vous échouez à la sauvegarde, vous tombez à terre.<br>Si c'est un bras, vous êtes désavantagé sur tous les contrôles ou attaques effectués avec ce bras. <br>Les soins magiques de niveau 2 ou supérieur suppriment l'effet paralysant.                                                                                                                                                                                                                |
+| 16—17    | **Blessure purulente.** Votre maximum de points de vie est réduit de 1 toutes les 24 heures pendant lesquelles la blessure persiste. Si votre maximum de points de vie tombe à 0, vous mourez. Quelqu'un peut soigner la blessure et effectuer un test de Sagesse (Médecine) DD 15 une fois toutes les 24 heures ; après dix succès, la blessure guérit. Alternativement, la blessure guérit si vous recevez des soins magiques de niveau 5 ou supérieur.                                                                                                                                                                                                                                                            |
+| 18—19    | **Blessure interne.** Chaque fois que vous tentez une action en combat, vous devez effectuer un jet de sauvegarde de Constitution DD 15. En cas d'échec, vous perdez votre action et ne pouvez pas utiliser de réactions avant le début de votre prochain tour. La blessure guérit si vous passez dix jours à ne rien faire d'autre que vous reposer ou si vous recevez des soins magiques de niveau 6 ou supérieur.                                                                                                                                                                                                                                                                                                 |
+| 20       | **Perdez un membre.** Le MJ détermine quel membre en fonction du récit. <br>S'il s'agit d'un bras ou d'une main, on ne peut plus rien tenir à deux mains, et on ne peut tenir qu'un seul objet à la fois.<br>S'il s'agit d'un pied ou d'une jambe, votre vitesse à pied est réduite de moitié et vous devez utiliser une canne ou une béquille pour vous déplacer, à moins que vous n'ayez une jambe de force ou une autre prothèse. Vous tombez à terre après avoir utilisé l'action Dash. Vous êtes désavantagé lors des tests de Dextérité effectués pour équilibrer. <br>La magie telle que le sort de régénération peut restaurer l'appendice perdu.                                                            |
+De plus, lorsqu'un joueur tombe au sol, les règles suivantes seront appliquées :
 - **Secret** : Les jets de sauvegarde contre la mort seront fait uniquement devant le MJ, les autres joueurs ne doivent pas voir le résultat.
 - **Souvenirs** : Le joueur peut décider de raconter un souvenir de ses aventures ou de son historique avec chaque jet de sauvegarde.
-- **Second Souffle** : Le joueur peut décider de noter 2 échecs à ses jets de sauvegardes contre la mort contre une dernière action. Cette dernière action ne peut lui permettre de récupérer des points de vie et il retombera forcément au sol à la fin de son tour. 
+- **Second Souffle** : Le joueur peut décider de noter 2 échecs à ses jets de sauvegardes contre la mort contre une dernière action. Cette dernière action ne peut lui permettre de récupérer des points de vie et il retombera forcément au sol à la fin de son tour. L'utilisation de cette action entraînera forcément un lancer sur la table des blessures persistantes. 
 
+### **Autres**
+
+- **Potions** : 
+	- La consommation d'une potion est considéré comme une Action Bonus. 
+	- La consommation d'une potion de soin peut-être considéré comme une Action Bonus ou une Action complète, octroyant le maximum de PV dans ce dernier cas.
+	- Faire boire une potion à une autre créature prend une Action complète. Dans le cas d'une potion de soin, celle ci rend automatiquement le maximum de PV.
+
+- **Encerclement** :
+	- Attaquer dans le dos ou sur le flanc d'une créature déjà au contact d'un de vos alliés accordera un bonus de +2 à votre jet d'attaque **et** à celui de votre allié. 
+	- Attention, valable pour les ennemis aussi.
+	![[Règle Flanking.png]]
+
+- **Monnaie** :
+	- Règle de conversion de la monnaie :
+		- 10 pièces de cuivres = 1 pièce d'argent
+		- 10 pièces d'argent = 1 pièce d'or
+		- 10 pièce d'or = 1 pièce de platine
+		Pas de pièce d'électrum.
+
+- **Parchemins** :
+	Tout le monde peut utiliser les parchemins. Cependant un jet sera demandé si :
+	- Le lanceur ne sait pas utilisé la magie
+		- Jet d'intelligence à 8 + niveau du sort noté sur le parchemin
+	- Le lanceur ne possède pas le niveau de sort du parchemin
+		- Jet de caractéristique de sort à 10 + différence entre niveau du sort max du lanceur et niveau du sort du parchemin.
+	- Exemple :
+		- Un barbare ne sachant pas lancer la magie peut utiliser un parchemin de Boule de Feu (sort lvl 3) en passant un jet d'intelligence à 11.
+		- Un barde ayant accès au sort de lvl 2 peut utiliser un parchemin de Boule de Feu (sort lvl 3) en passant un jet de Charisme à 11.
 
 ### **Métiers**
 
