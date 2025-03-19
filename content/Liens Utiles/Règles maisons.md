@@ -26,7 +26,7 @@ Lorsqu'un jet de discrétion sera nécessaire ou demandé, les règles suivantes
 
 ### **Dégâts persistants et morts**
 
-Lorsqu'un joueur subit plus de la moitié de ses PVs maximum en une attaque, le joueur lancera un d4 qui donnera le résultat suivant :
+Lorsqu'un joueur subit plus de la moitié de ses PVs maximum en une attaque (et que l'attaque fait plus de 20 de dégâts), le joueur lancera un d4 qui donnera le résultat suivant :
 
 | Résultat | Conséquence                                             |
 | -------- | ------------------------------------------------------- |
@@ -34,6 +34,7 @@ Lorsqu'un joueur subit plus de la moitié de ses PVs maximum en une attaque, le 
 | 2        | Vous êtes étourdie jusqu'à la fin de son prochain tour. |
 | 3        | Vous tombez à terre.                                    |
 | 4        | Vous roulez sur la table des blessures persistantes.    |
+
 Si le joueur tombe à 0 pv suite à cette attaque, il doit automatiquement rouler un dé 20 sur la table des blessures persistantes suivantes :
 
 | Résultat | Conséquence                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -61,10 +62,11 @@ De plus, lorsqu'un joueur tombe au sol, les règles suivantes seront appliquées
 	- La consommation d'une potion de soin peut-être considéré comme une Action Bonus ou une Action complète, octroyant le maximum de PV dans ce dernier cas.
 	- Faire boire une potion à une autre créature prend une Action complète. Dans le cas d'une potion de soin, celle ci rend automatiquement le maximum de PV.
 
-- **Encerclement** :
-	- Attaquer dans le dos ou sur le flanc d'une créature déjà au contact d'un de vos alliés accordera un bonus de +2 à votre jet d'attaque **et** à celui de votre allié. 
-	- Attention, valable pour les ennemis aussi.
-	![[Règle Flanking.png]]
+- **Positionnement** :
+	- **Encerclement** : Attaquer dans le dos ou sur le flanc d'une créature déjà au contact d'un de vos alliés accordera un bonus de +2 à votre jet d'attaque **et** à celui de votre allié. 
+		- Attention, valable pour les ennemis aussi.
+		![[Règle Flanking.png]]
+	- **The High Ground** : Attaquer à distance depuis un endroit surélevé accorde un +2 à son jet d'attaque. Inversement, attaquer à distance vers un endroit surélevé accorde un -2 à son jet d'attaque.
 
 - **Monnaie** :
 	- Règle de conversion de la monnaie :
@@ -84,7 +86,7 @@ De plus, lorsqu'un joueur tombe au sol, les règles suivantes seront appliquées
 		- Un barde ayant accès au sort de lvl 2 peut utiliser un parchemin de Boule de Feu (sort lvl 3) en passant un jet de Charisme à 11.
 
 - **Règles du style avant tout** :
-	- Une action ou discussion détaillé et logique apportera des bonus au jet lors de la réalisation de cette action ou discussion. Si le détails est particulièrement cool, le jet pourra être automatiquement considéré comme un succès à la discrétion du MJ. 
+	- Une action ou discussion détaillé et logique pourra apportera des bonus au jet lors de la réalisation de cette action ou discussion. Si le détails est particulièrement cool, le jet pourra être automatiquement considéré comme un succès à la discrétion du MJ. 
 
 ### **Métiers**
 
