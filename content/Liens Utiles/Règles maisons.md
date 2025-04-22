@@ -15,8 +15,7 @@ Lorsqu'un jet de discrétion sera nécessaire ou demandé, les règles suivantes
 
 ### **Critique**
 
-- **Jet de caractéristiques** : Les réussites critiques apporteront toujours le résultat le plus positif possible.
-	- **Disclaimer** : le résultat le plus positif n'est pas toujours le résultat attendu par le joueur.
+- **Jet de caractéristiques** : Les réussites critiques seront toujours considéré comme des réussites, peu importe la difficulté du jet. De même les échecs critiques seront toujours considérés comme des échecs, même si les bonus ajoutés au dé permettent de compenser.
 
 - **Jet d'attaque** : les réussites critique d'attaques toucheront forcément et les dégâts seront calculé de la manière suivante :
 	- Dégâts de l'attaque maximum + jet des dégâts d'attaque 
@@ -51,6 +50,8 @@ Si le joueur tombe à 0 pv suite à cette attaque, il doit automatiquement roule
 | 20       | **Perdez un membre.** Le MJ détermine quel membre en fonction du récit. <br>S'il s'agit d'un bras ou d'une main, on ne peut plus rien tenir à deux mains, et on ne peut tenir qu'un seul objet à la fois.<br>S'il s'agit d'un pied ou d'une jambe, votre vitesse à pied est réduite de moitié et vous devez utiliser une canne ou une béquille pour vous déplacer, à moins que vous n'ayez une jambe de force ou une autre prothèse. Vous tombez à terre après avoir utilisé l'action Dash. Vous êtes désavantagé lors des tests de Dextérité effectués pour équilibrer. <br>La magie telle que le sort de régénération peut restaurer l'appendice perdu.                                                            |
 
 De plus, lorsqu'un joueur tombe au sol, les règles suivantes seront appliquées :
+- **Insta-Death** : Si l'attaque qui fait tomber le joueur au sol inflige plus de dégâts que les PVs max du joueur + ses PVs actuels, le joueur meure instantanément sans lancer de jet de sauvegarde contre la mort.
+	- **Exemple** : Le joueur a 60 PV max et 20 PV actuel. Si l'attaque qui le fait tomber a 0 fait des dégâts supérieur a 80, le joueur meur instantanément.
 - **Secret** : Les jets de sauvegarde contre la mort seront fait uniquement devant le MJ, les autres joueurs ne doivent pas voir le résultat.
 - **Souvenirs** : Le joueur peut décider de raconter un souvenir de ses aventures ou de son historique avec chaque jet de sauvegarde.
 - **Second Souffle** : Le joueur peut décider de noter 2 échecs à ses jets de sauvegardes contre la mort contre une dernière action. Cette dernière action ne peut lui permettre de récupérer des points de vie et il retombera forcément au sol à la fin de son tour. L'utilisation de cette action entraînera forcément un lancer sur la table des blessures persistantes. 
@@ -67,6 +68,7 @@ De plus, lorsqu'un joueur tombe au sol, les règles suivantes seront appliquées
 		- Attention, valable pour les ennemis aussi.
 		![[Règle Flanking.png]]
 	- **The High Ground** : Attaquer à distance depuis un endroit surélevé accorde un +2 à son jet d'attaque. Inversement, attaquer à distance vers un endroit surélevé accorde un -2 à son jet d'attaque.
+	- **Opportunité** : Les attaques d'opportunité disparaissent totalement, pour les aventuriers comme pour les ennemis.
 
 - **Monnaie** :
 	- Règle de conversion de la monnaie :
@@ -81,7 +83,7 @@ De plus, lorsqu'un joueur tombe au sol, les règles suivantes seront appliquées
 		- Jet d'intelligence à 8 + niveau du sort noté sur le parchemin
 	- Le lanceur ne possède pas le niveau de sort du parchemin
 		- Jet de caractéristique de sort à 10 + différence entre niveau du sort max du lanceur et niveau du sort du parchemin.
-	- Exemple :
+	- **Exemple** :
 		- Un barbare ne sachant pas lancer la magie peut utiliser un parchemin de Boule de Feu (sort lvl 3) en passant un jet d'intelligence à 11.
 		- Un barde ayant accès au sort de lvl 2 peut utiliser un parchemin de Boule de Feu (sort lvl 3) en passant un jet de Charisme à 11.
 
