@@ -23,6 +23,8 @@ Lorsqu'un jet de discrétion sera nécessaire ou demandé, les règles suivantes
 	Si la réussite est critique, au total des jets ci dessus se rajouterons 6 + 8 = 14 dégâts supplémentaires.
 	- **Disclaimer** : Les dégâts seront ainsi très élevé sur un critique, très satisfaisant côté joueur mais peut aussi arriver côté ennemi.
 
+- **Jet de sauvegarde** : Lorsqu'une créature fera un échec critique sur son jet de sauvegarde contre votre attaque, cela comptera comme une réussite critique de votre part, suivant alors la règle précédente.
+
 ### **Dégâts persistants et morts**
 
 Lorsqu'un joueur subit plus de la moitié de ses PVs maximum en une attaque (et que l'attaque fait plus de 20 de dégâts), le joueur lancera un d4 qui donnera le résultat suivant :
@@ -67,8 +69,8 @@ De plus, lorsqu'un joueur tombe au sol, les règles suivantes seront appliquées
 	- **Encerclement** : Attaquer dans le dos ou sur le flanc d'une créature déjà au contact d'un de vos alliés accordera un bonus de +2 à votre jet d'attaque **et** à celui de votre allié. 
 		- Attention, valable pour les ennemis aussi.
 		![[Règle Flanking.png]]
-	- **The High Ground** : Attaquer à distance depuis un endroit surélevé accorde un +2 à son jet d'attaque. Inversement, attaquer à distance vers un endroit surélevé accorde un -2 à son jet d'attaque.
-	- **Opportunité** : Les attaques d'opportunité disparaissent totalement, pour les aventuriers comme pour les ennemis.
+	- **The High Ground** : Attaquer depuis un endroit surélevé accorde un bonus de +2 à son jet d'attaque à distance et de +1 à son jet d'attaque de mêlée. Inversement, attaquer vers un endroit surélevé accorde un malus de -2 à son jet d'attaque à distance et -1 à son jet d'attaque de mêlée.
+	- **Opportunité** : Les attaques d'opportunité disparaissent totalement, pour les aventuriers comme pour les ennemis. Les Dons et autres caractéristiques de classes utilisant les attaques d'opportunités permettent cependant de les réactiver et de profiter des bonus correspondants.
 
 - **Monnaie** :
 	- Règle de conversion de la monnaie :
@@ -79,13 +81,14 @@ De plus, lorsqu'un joueur tombe au sol, les règles suivantes seront appliquées
 
 - **Parchemins** :
 	Tout le monde peut utiliser les parchemins. Cependant un jet sera demandé si :
-	- Le lanceur ne sait pas utilisé la magie
+	- Le lanceur ne sait pas utiliser la magie
 		- Jet d'intelligence à 8 + niveau du sort noté sur le parchemin
 	- Le lanceur ne possède pas le niveau de sort du parchemin
 		- Jet de caractéristique de sort à 10 + différence entre niveau du sort max du lanceur et niveau du sort du parchemin.
 	- **Exemple** :
-		- Un barbare ne sachant pas lancer la magie peut utiliser un parchemin de Boule de Feu (sort lvl 3) en passant un jet d'intelligence à 11.
+		- Un barbare ne sachant pas lancer la magie peut utiliser un parchemin de Boule de Feu (sort lvl 3) en passant un jet d'Intelligence à 11.
 		- Un barde ayant accès au sort de lvl 2 peut utiliser un parchemin de Boule de Feu (sort lvl 3) en passant un jet de Charisme à 11.
+	- **Echec** : En cas d'échec non critique, il ne se passe rien et le parchemin n'est pas consommé.
 
 - **Règles du style avant tout** :
 	- Une action ou discussion détaillé et logique pourra apportera des bonus au jet lors de la réalisation de cette action ou discussion. Si le détails est particulièrement cool, le jet pourra être automatiquement considéré comme un succès à la discrétion du MJ. 

@@ -3,7 +3,7 @@ Récapitulatif de quelques éléments de lore important du monde d'Astoria.
 ### **Géographie**
 
 - Carte d'Astoria :
-	![[AstoriaWiki/Images/Astoria - Final.jpg]]
+	![[AstoriaWiki/Images/Astoria - Final.png]]
 - Astoria est un continent séparé en 7 royaumes.
 - Il y a 6 royaumes continentales :
 	- [Technocratie Edarion](Technocratie_Edarion) :
