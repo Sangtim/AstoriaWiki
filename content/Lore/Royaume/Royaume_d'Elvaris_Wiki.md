@@ -1,7 +1,7 @@
 ---
 title: Royaume d'Elvaris
 ---
-![[Astoria - Final.png]]
+![[Campagne/AstoriaWiki/Images/Astoria - Final.png]]
 ### **Description**
 - **Origine** : Formé suite à la migration d'une grande partie des elfes durant la Guerre Divine dans l'une des dernières Anciennes Forêts.
 - **Géographie** : Situé au Sud-Ouest d'Astoria enclavé entre la Cordillère de Tharn et l'Océan Azuréen. Le climat assez tempéré a permis la croissances d'une forêt aux arbres gigantesques. 

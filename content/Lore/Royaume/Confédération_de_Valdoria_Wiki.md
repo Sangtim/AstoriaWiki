@@ -1,7 +1,7 @@
 ---
 title: Confédération de Valdoria
 ---
-![[Astoria - Final.png]]
+![[Campagne/AstoriaWiki/Images/Astoria - Final.png]]
 ### **Description**
 - **Origine** : Formé de 5 Cités-Etats ayant signé un pacte d'alliance mutuelle pour faire face aux dangers des empires expansionnistes voisins.
 - **Géographie** : Situé au centre d'Astoria sur une vaste plaine arable. Le climat y est particulièrement clément. 
