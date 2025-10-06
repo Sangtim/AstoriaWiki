@@ -9,4 +9,4 @@ title: Thalvorys
 - **Popularité** : Chez les marins et les explorateurs
 
 Son symbole représente un trident sur une mer déchaîné. 
-![[Campagne/Astoria/Banques d'images/Panthéon/Thalvorys/Thalvorys - Symbole.png]]
+![[Thalvorys - Symbole Wiki.png]]

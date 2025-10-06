@@ -12,8 +12,11 @@ title: Astoria Wiki
 - **Liens utiles**
 	- [[Règles maisons]]
 	- [[Sorts]]
-	- [[Armes]]
-	- [[Armures]]
+	- [[Marchandises]]
+	- **Métiers** 
+		- [[Alchimie]]
+		- [[Enchantement]]
+		- [[Forgeage]]
 
 - **Lore** :
 	- **Panthéon :**

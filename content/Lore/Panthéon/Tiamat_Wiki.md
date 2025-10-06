@@ -9,4 +9,4 @@ title: Tiamat
 - **Popularité** : Chez les tueurs, pyromanes et guerriers
 
 Son symbole représente un grand dragon cracheur de feu.
-![[Tiamat - Symbole.png]]
+![[Tiamat - Symbole Wiki.png]]

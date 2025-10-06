@@ -9,4 +9,4 @@ title: Thyrenia
 - **Popularité** : Chez les paladins et les juges
 
 Son symbole représente une balance, signe de son domaine du jugement et de l'équilibre.
-![[Campagne/Astoria/Banques d'images/Panthéon/Thyrenia/Thyrenia - Symbole.png]]
+![[Thyrenia - Symbole Wiki.png]]

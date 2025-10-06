@@ -9,4 +9,4 @@ title: Morgrin
 - **Popularité** : Chez les alchimistes et les estropiés
 
 Son symbole représente une fiole remplit d'un liquide avec un bras squelettique entourant la fiole.
-![[Morgrin - Symbole.png]]
+![[Morgrin - Symbole Wiki.png]]

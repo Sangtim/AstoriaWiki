@@ -9,4 +9,4 @@ title: Sylvannor
 - **Popularité** : Chez les elfes, les druides et les chasseurs
 
 Son symbole représente un cerf puissant, symbole des bêtes et de la vie sauvage.
-![[Campagne/Astoria/Banques d'images/Panthéon/Sylvannor/Sylvannor - Symbole.png]]
+![[Sylvannor - Symbole Wiki.png]]

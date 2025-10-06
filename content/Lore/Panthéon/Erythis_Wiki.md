@@ -9,4 +9,4 @@ title: Erythis
 - **Popularité** : Chez les ambitieux, marchands, réfugiés
 
 Son symbole représente une étoile doré, symbole de richesse et objet de désir. 
-![[Erythis - Symbole.png]]
+![[Erythis - Symbole Wiki.png]]

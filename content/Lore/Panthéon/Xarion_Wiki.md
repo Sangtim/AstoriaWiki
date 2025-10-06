@@ -9,4 +9,4 @@ title: Xarion
 - **Popularité** : Chez les fous, les drogués et les addictes
 
 Son symbole représente un œil rouge entouré de tentacules, semblant l'enfermer dans un état constant cauchemardesque.
-![[Xarion - Symbole.png]]
+![[Xarion - Symbole Wiki.png]]

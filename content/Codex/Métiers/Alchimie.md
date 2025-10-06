@@ -3,65 +3,89 @@ Permet de créer des potions à partir d'ingrédients alchimiques et de collecte
 - **Caractéristique** : Sagesse
 - **Collecte** : Détermine le nombre de jet de collecte qui peut être effectué par l'alchimiste.
 
-| Nombre de jet | Type     | Taille               | Rareté     |
-| ------------- | -------- | -------------------- | ---------- |
-| 1             | Nature   | -                    | -          |
-| 2             | Nature   | -                    | Rare       |
-| 3             | Nature   | -                    | Légendaire |
-| 1             | Créature | Très petite à petite | -          |
-| 2             | Créature | Moyenne              | -          |
-| 3             | Créature | Grande               | -          |
-| 4             | Créature | Très grande          | -          |
-| 5             | Créature | Gigantesque          |            |
-- **Récompense** : Détermine la récompense récupéré par l'alchimiste à partir du résultats de ses dés.
-
-| Difficulté | Récompense        | Rareté     |
-| ---------- | ----------------- | ---------- |
-| DC 12      | Set basique       | /          |
-| DC 15      | Set intermédiaire | /          |
-| DC 18      | Set important     | /          |
-| DC 21      | Set majeure       | Rare       |
-| DC 25      | Set légendaire    | Légendaire |
-- **Concoction** : Liste les potions qu'il est possible de fabriquer. Si le jet d'alchimie fait 20 ou plus du double de la difficulté requise pour la concoction choisi, cela double le nombre de potions récupérés.
-
-| Potions                               | Description                                                                                                                                                                                                                                                | Difficulté | Ingrédients       | Résultat  | Temps | Prix     |
-| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------- | --------- | ----- | -------- |
-| Potion de soin                        | Soigne 2d4+2                                                                                                                                                                                                                                               | DC 8       | Set basique       | 2 potions | 1h    | 50 po    |
-| Potion de repos vigilant              | Permet de rester éveillé pendant un long repos.<br>Sans effet sur les utilisateurs de la Trance.                                                                                                                                                           | DC 8       | Set basique       | 2 potions | 1h    | 50 po    |
-| Potion d'escalade                     | Avantage sur les jets d'escalade                                                                                                                                                                                                                           | DC 8       | Set basique       | 2 potions | 1h    | 200 po   |
-| Potion de soin majeure                | Soigne 4d4+4                                                                                                                                                                                                                                               | DC 12      | Set intermédiaire | 1 potion  | 4h    | 150 po   |
-| Potion de force de géant des collines | Donne 21 de force pendant 1h                                                                                                                                                                                                                               | DC 12      | Set intermédiaire | 1 potion  | 4h    | 400 po   |
-| Potion de respiration                 | Peut être inhalé pour ne plus avoir besoin d'oxygène ou exhalé pour lancer le sort Bourrasque                                                                                                                                                              | DC 12      | Set intermédiaire | 1 potion  | 4h    | 200 po   |
-| Philtre d'amour                       | Vous êtes charmé par la prochaine créature aperçue pendant 1h                                                                                                                                                                                              | DC 12      | Set intermédiaire | 1 potion  | 4h    | 500 po   |
-| Potion d'Avantage                     | Donne avantage sur un jet d'attaque, de compétences ou de sauvegarde au choix. A utiliser avant 1h.                                                                                                                                                        | DC 12      | Set intermédiaire | 1 potion  | 4h    | 250 po   |
-| Potion d'ami des animaux              | Permet de lancer le sort Amitié avec les Animaux pendant 1h (DC 13)                                                                                                                                                                                        | DC 12      | Set intermédiaire | 1 potion  | 4h    | 200 po   |
-| Potion de Souffle de feu              | Permet de cracher du feu pendant 1h ou 3 fois avec une action bonus sur une créature. Si elle réussi un jet de sauvegarde de Dextérité (DC 13) elle prend la moitié des 4d6 dégâts de feu.                                                                 | DC 12      | Set intermédiaire | 1 potion  | 4h    | 150 po   |
-| Potion d'agrandissement               | Permet de doubler sa taille et 8x de son poids. Donne avantage sur les jets de Force et permet de faire 1d4 de dégâts supplémentaires à l'arme. Dure 1d4h.                                                                                                 | DC 12      | Set intermédiaire | 1 potion  | 4h    | 250 po   |
-| Poison                                | Fait 3d6 de dégâts. Si la victime rate son jet de sauvegarde de Constitution (DC 13), elle devient empoisonné, prenant 3d6 de dégâts par tour. Elle peut refaire son jet à la fin de son tour, réduisant les dégâts par tour de 1d6 en cas de réussite.    | DC 12      | Set intermédiaire | 1 potion  | 4h    | 100 po   |
-| Potion de résistance                  | Permet de gagner résistance sur un des 10 types de dégâts pendant 1h.                                                                                                                                                                                      | DC 12      | Set intermédiaire | 1 potion  | 4h    | 300 po   |
-| Potion de soin supérieure             | Soigne 8d4+8                                                                                                                                                                                                                                               | DC 15      | Set important     | 1 potion  | 8h    | 450 po   |
-| Potion de force de géant de pierre    | Donne 23 de force pendant 1h                                                                                                                                                                                                                               | DC 15      | Set important     | 1 potion  | 8h    | 1000 po  |
-| Potion d'extrait de chaméléon         | Permet d'avoir avantage sur les jet de discrétion pendant 1h                                                                                                                                                                                               | DC 15      | Set important     | 1 potion  | 8h    | 800 po   |
-| Elixir de santé                       | Soigne tous les effets négatifs                                                                                                                                                                                                                            | DC 15      | Set important     | 1 potion  | 8h    | 125 po   |
-| Potion de Clairvoyance                | Permet de placer un détecteur dans un rayon de 1km permettant de voir ou d'entendre à travers le détecteur pendant 10min.                                                                                                                                  | DC 15      | Set important     | 1 potion  | 8h    | 1000 po  |
-| Potion de rétrécissement              | Permet de diviser sa taille par 2 et par 8 son poids. Donne désavantage sur les jets de Force et réduit les dégâts à l'arme de 1d4. Dure 1d4h.                                                                                                             | DC 15      | Set important     | 1 potion  | 8h    | 250 po   |
-| Potion de forme gazeuse               | Permet de devenir un nuage gazeux pouvant traverser par les plus petits interstices. Donne résistance au dégâts non magique et avantage sur les jets de Force, Dextérité et Constitution. Limite les actions au seul mouvement. Dure 1h.                   | DC 15      | Set important     | 1 potion  | 8h    | 300 po   |
-| Potion d'Héroisme                     | Donne 10 points de vie temporaire et ajoute 1d4 bonus sur les jets d'attaque et de sauvegarde.                                                                                                                                                             | DC 15      | Set important     | 1 potion  | 8h    | 200 po   |
-| Potion d'Invulnérabilité              | Donne résistance à tout les types de dégâts.                                                                                                                                                                                                               | DC 15      | Set important     | 1 potion  | 8h    | 4000 po  |
-| Potion de Frappe Maximale             | Le premier sort de niveau 4 ou moins réussit après avoir bu la potion fera toujours le maximum de dégâts possible.                                                                                                                                         | DC 15      | Set important     | 1 potion  | 8h    | 2500 po  |
-| Potion de lecture des pensées         | Permet de choisir une créature par tour et de lire ses pensées si elle rate son jet de sauvegarde de Sagesse (DC 13). Dure 1 min.                                                                                                                          | DC 15      | Set important     | 1 potion  | 8h    | 200 po   |
-| Potion de soin suprême                | Soigne 10d4+20                                                                                                                                                                                                                                             | DC 18      | Set majeure       | 1 potion  | 8h    | 1350 po  |
-| Potion de force de géant de feu       | Donne 25 de force pendant 1h                                                                                                                                                                                                                               | DC 18      | Set majeure       | 1 potion  | 8h    | 1600 po  |
-| Potion de Chance                      | Permet de relancer un dé 20 par tour pendant 1 minute. A la fin de la minute, donne désavantage aux jets pendant 10 min.                                                                                                                                   | DC 18      | Set  majeure      | 1 potion  | 8h    | 1200 po  |
-| Huile d'affutage                      | Permet de tremper une arme ou 5 projectiles, donnant +3 aux jets d'attaques et aux dégâts de ceux-ci pendant 1h.                                                                                                                                           | DC 18      | Set majeure       | 1 potion  | 8h    | 3000 po  |
-| Potion de vol                         | Permet de voler pendant 1h.                                                                                                                                                                                                                                | DC 18      | Set majeure       | 1 potion  | 8h    | 500 po   |
-| Potion d'invisibilité                 | Permet de devenir invisible pendant 1h.                                                                                                                                                                                                                    | DC 18      | Set majeure       | 1 potion  | 8h    | 200 po   |
-| Elixir de Phénix                      | Si dans les 8h après avoir bu cette potion, la personne décède, son corps explose, infligeant 3d6 de dégâts de feu à toute les créatures dans un rayon de 30m et la personne renait ensuite de ses cendres avec 1pv +5pv par personne tué par l'explosion. | DC 18      | Set majeure       | 1 potion  | 8h    | 1800 po  |
-| Potion de longévité                   | Réduit son âge de 1d6+6 ans. Si utilisé une deuxième fois, 10% de chance de rendre plus âgé de 1d6+6/                                                                                                                                                      | DC 18      | Set majeure       | 1 potion  | 8h    | 9000 po  |
-| Potion de possibilité                 | Permet d'avoir deux fragments de possibilité pendant 8h qui donne avantage ou désavantage au choix quand utiliser. Avantage et Désavantage peuvent se combiner avec Avantage et Désavantage original                                                       | DC 18      | Set majeure       | 1 potion  | 8h    | 4000 po  |
-| Potion de vitesse                     | Permet d'avoir Hâte sans concentration (vitesse x2, +2 AC, avantage sur les jets de sauvegarde de Dextérité et une action supplémentaire)                                                                                                                  | DC 18      | Set majeure       | 1 potion  | 8h    | 400 po   |
-| Potion de force de géant des nuages   | Donne 27 de force pendant 1h                                                                                                                                                                                                                               | DC 22      | Set légendaire    | 1 potion  | 8h    | 3000 po  |
-| Potion de Dragonification             | Permet de se transformer en un dragon adulte pendant 1h.                                                                                                                                                                                                   | DC 25      | Set légendaire    | 1 potion  | 8h    | 9000 po  |
-| Potion de force de géants de tempêtes | Donne 29 de force pendant 1h                                                                                                                                                                                                                               | DC 25      | Set légendaire    | 1 potion  | 8h    | 5000 po  |
+| Nombre de jet      | Type     | Taille               |
+| ------------------ | -------- | -------------------- |
+| 3                  | Nature   | -                    |
+| 1 avec désavantage | Créature | Très petite à petite |
+| 1                  | Créature | Moyenne              |
+| 2                  | Créature | Grande               |
+| 3                  | Créature | Très grande          |
+| 4                  | Créature | Gigantesque          |
+- **Récompense** : L'alchimiste peut additionner le/les résultat(s) de son/ses jets pour obtenir un score de collecte (SC). Il peut ensuite dépenser ces SC pour obtenir un certains nombres de matériaux d'alchimie.  
+	- Exemple : Je fais 3 jets de collecte sur une créature très grande, j'obtiens au dés : 5, 10 et 18 pour un total de 33 SC. Je dépense ensuite ces SC pour obtenir une ressource légendaire (25 SC) et une ressource commune (2 SC) et peu commune (5 SC) pour un total de 32 SC dépensés.
 
 
+| Coût en SC | Récompense                | Modificateur d'Alchimie |
+| ---------- | ------------------------- | ----------------------- |
+| 2 SC       | Une ressource commune     | -                       |
+| 5 SC       | Une ressource peu commune | -                       |
+| 10 SC      | Une ressources rare       | +1 MA                   |
+| 15 SC      | Une ressource très rare   | +2 MA                   |
+| 25 SC      | Une ressource légendaire  | +3 MA                   |
+- **Concoction** : L'alchimiste peut créer la totalité des potions présents dans la catégorie Potions dans [Marchandises](Marchandises). Chaque niveau de rareté de potions (séparé dans le tableau par des =) nécessite l'utilisation d'une ressource de rareté équivalente. Des ressources de rareté supérieur peuvent être utilisés pour améliorer le rendement de la concoction. 
+
+L'alchimie se découpe en plusieurs étapes, chacune permettant d'accumuler des Modificateur d'Alchimie qui améliore le résultat finale.
+
+- **Etape 1** : Le choix des ressources
+Une potion nécessite un nombre de ressources égales à son niveau de rareté. 
+
+| Rareté      | Ingrédients |
+| ----------- | ----------- |
+| Commune     | 1           |
+| Peu commune | 2           |
+| Rare        | 3           |
+| Très rare   | 4           |
+| Légendaire  | 5           |
+- **Etape 2** : La préparation des ingrédients alchimique
+L'alchimiste choisit un style de préparation, définissant la difficulté du jet et son effet.
+
+| Style                    | Jet                                       | DC  | Effet                          |
+| ------------------------ | ----------------------------------------- | --- | ------------------------------ |
+| Préparation traditionnel | Intelligence (Nature) ou Sagesse (Survie) | 10  | +1 MA si réussite, -1 si échec |
+| Préparation de précision | Intelligence (Nature) ou Sagesse (Survie) | 13  | +2 MA si réussite, -1 si échec |
+| Préparation de maître    | Sagesse (Médecine)                        | 15  | +3 MA si réussite, -1 si échec |
+- **Etape 3** : le mélange des ingrédients
+L'alchimiste choisit un style de mélange, définissant la difficulté du jet et son effet. Le mélange arcanique utilise aussi un niveau d'emplacement de niveau 2.
+
+| Méthode           | Jet                   | DC  | Effet                          |
+| ----------------- | --------------------- | --- | ------------------------------ |
+| Mélange à froid   | Sagesse (Médecine)    | 10  | +1 MA si réussite, -1 si échec |
+| Mélange à chaud   | Sagesse (Médecine)    | 13  | +2 MA si réussite, -1 si échec |
+| Mélange arcanique | Intelligence (Arcane) | 16  | +3 MA si réussite, -1 si échec |
+- **Etape 4** : L'infusion des ingrédients
+L'alchimiste choisit un style d'infusion, définissant la difficulté du jet et son effet.
+
+| Style                | Jet                   | Coût                            | DC  | Effet                          |
+| -------------------- | --------------------- | ------------------------------- | --- | ------------------------------ |
+| Infusion simple      | Intelligence (Arcana) | Emplacement de sort de niveau 1 | 12  | +1 MA si réussite, -1 si échec |
+| Infusion élémentaire | Intelligence (Arcana) | Emplacement de sort de niveau 2 | 15  | +2 MA si réussite, -1 si échec |
+| Infusion légendaire  | Intelligence (Arcana) | Emplacement de sort de niveau 3 | 20  | +3 MA si réussite, -1 si échec |
+- **Etape 5** : Les événements de l'alchimie
+L'alchimie est dangereuse et imprévisible. A chaque étape, un dé 10 sera lancé, permettant de déterminer ce qu'il se passe.
+
+| Résultat du dé | Conséquences                                                 | Effet                                                     |
+| -------------- | ------------------------------------------------------------ | --------------------------------------------------------- |
+| 1              | Les ingrédients perdent de leurs effets                      | -1 MA                                                     |
+| 2              | Un ingrédient est de qualité supérieur                       | +2 MA                                                     |
+| 3              | Les ingrédients provoquent une réaction en chaîne et explose | 1d6 de dégâts de force par niveau de rareté de la recette |
+| 4              | Les forces élémentaires favorise l'infusion                  | +2 MA                                                     |
+| 5              | L'appareil de mélange craque pendant l'infusion              | -1 MA                                                     |
+| 6              | Inspiration divine                                           | Permet de relancer un dé si échoué (+1 MA sinon)          |
+| 7              | Un esprit de la nature se manifeste                          | +3 MA                                                     |
+| 8              | Un ingrédient se révèlent pourri                             | -1 MA                                                     |
+| 9              | Rien ne se passe                                             | Aucun effet                                               |
+| 10             | Le Dieu de la nature vous observe                            | +2 MA                                                     |
+- **Etape 6** : La mise en bouteille
+La concoction est prête est doit être mise en bouteille. L'alchimiste lance un dé 20 auquel il ajoute le modificateur d'alchimie (MA).
+
+| Résultat | Effet                                           |
+| -------- | ----------------------------------------------- |
+| 1-5      | La potion est raté, les ressources sont perdues |
+| 6-10     | Une potion commune est réussi                   |
+| 11-15    | Une potion peu commune est réussi               |
+| 16-18    | Une potion rare est réussi                      |
+| 19-24    | Une potion très rare est réussi                 |
+| 25-27    | Une potion légendaire est réussi                |
+| 28+      | La potion est sublimée                          |
+Chaque fourchette de résultat supérieur à celui nécessaire permet de créer une potion supplémentaire avec la concoction.
+_Exemple_ : Je cherche à faire une potion de soin majeure qui est donc peu commune. Je dois faire pour réussir un score d'alchimie entre 11 et 15. Je fais un score de 20 au total ce qui me permet de produire non pas une seule potion mais 3 car deux fourchettes au dessus de l'objectif.

@@ -1,89 +1,88 @@
 Permet de fabriquer des objets à partir de barre de métal et d'ingrédients supplémentaires. Il est possible de réaliser un jet de collecte et de forge par jour.
-- **Caractéristique** : Force ou Dextérité
-- **Collecte** : Permet de récupérer des matériaux de forge sur des créatures ou de miner des minerais dans la nature.
+- **Caractéristique** : Force (Athlétique) ou Force (Outil de forgeron) en fonction de l'étape. 
+- **Collecte** : Permet de récupérer des matériaux de forge sur des créatures ou de miner des minerais dans la nature. Les ressources dépendent du lieu ou de la créature ciblé. 
+	- Exemple une mine de mithril donnera du mithril ou un dragon donnera des écailles de dragon.
 
-| Nombre de jet | Type     | Taille               | Rareté     |
-| ------------- | -------- | -------------------- | ---------- |
-| 1             | Nature   | -                    | -          |
-| 2             | Nature   | -                    | Rare       |
-| 3             | Nature   | -                    | Légendaire |
-| 1             | Créature | Très petite à petite | -          |
-| 2             | Créature | Moyenne              | -          |
-| 3             | Créature | Grande               | -          |
-| 4             | Créature | Très grande          | -          |
-| 5             | Créature | Gigantesque          |            |
-- **Récompense** :  Détermine les ressources récupérées lors de la collecte.
+| Nombre de jet      | Type     | Taille               |
+| ------------------ | -------- | -------------------- |
+| 3                  | Nature   | -                    |
+| 1 avec désavantage | Créature | Très petite à petite |
+| 1                  | Créature | Moyenne              |
+| 2                  | Créature | Grande               |
+| 3                  | Créature | Très grande          |
+| 4                  | Créature | Gigantesque          |
+- **Récompense** :  Le forgeron peut additionner le/les résultat(s) de son/ses jets pour obtenir un score de collecte (SC). Il peut ensuite dépenser ces SC pour obtenir un certains nombres de matériaux de forge.  
+	- Exemple : Je fais 3 jets de collecte sur une créature très grande, j'obtiens au dés : 5, 10 et 18 pour un total de 33 SC. Je dépense ensuite ces SC pour obtenir une ressource légendaire (25 SC) et une ressource commune (2 SC) et peu commune (5 SC) pour un total de 32 SC dépensés.
 
-| Difficulté | Récompense               | Rareté     | Prix de revente | Statistiques | Difficulté | Durée   |
-| ---------- | ------------------------ | ---------- | --------------- | ------------ | ---------- | ------- |
-| DC 12      | Ressources basiques      | /          | -               | -            |            |         |
-| DC 15      | Ressources intermédiaire | /          | +5 po           | +3           | DC + 3     | +1 jet  |
-| DC 18      | Ressources important     | /          | +50 po          | +1d6+1       | DC + 6     | +2 jets |
-| DC 21      | Ressources majeure       | Rare       | +150 po         | +2d6+2       | DC + 9     | +3 jets |
-| DC 25      | Ressources légendaire    | Légendaire | +500 po         | +3d6+3       | DC + 12    | +5 jets |
-- **Revente** : les modificateurs de revente sont valables pour les armes. Il faut faire fois 10 pour les modificateurs de revente pour les armures.
-- **Forge** : Le forgeron peut fabriquer les objets suivants. Chaque objet peut être fabriquer avec les ressources de grade supérieur pour lui donner des statistiques et un prix plus attractif.
+| Coût en SC | Récompense                | Modificateur de Forge |
+| ---------- | ------------------------- | --------------------- |
+| 2 SC       | Une ressource commune     | -                     |
+| 5 SC       | Une ressource peu commune | -                     |
+| 10 SC      | Une ressources rare       | +1 MF                 |
+| 15 SC      | Une ressource très rare   | +2 MF                 |
+| 25 SC      | Une ressource légendaire  | +3 MF                 |
 
-| **Arme**                               | **Dégât**      | **Prix** | **Propriétés**                                                       | Ingrédients  | Difficulté | Durée  |
-| -------------------------------------- | -------------- | -------- | -------------------------------------------------------------------- | ------------ | ---------- | ------ |
-| _**Armes courantes de corps à corps**_ |                |          |                                                                      |              |            |        |
-| Dague                                  | 1d4 perforant  | 2 po     | Finesse, légère, lancer (portée 6 m/18 m)                            | 1 ressource  | DC 8       | 1 jet  |
-| Hachette                               | 1d6 tranchant  | 5 po     | Légère, lancer (portée 6 m/18 m)                                     | 1 ressource  | DC 8       | 1 jet  |
-| Javeline                               | 1d6 perforant  | 5 pa     | Lancer (portée 9 m/36 m)                                             | 1 ressource  | DC 8       | 1 jet  |
-| Lance                                  | 1d6 perforant  | 1 po     | Lancer (portée 6 m/18 m), polyvalente (1d8)                          | 2 ressources | DC 10      | 2 jets |
-| Marteau léger                          | 1d4 contondant | 2 po     | Légère, lancer (portée 6 m/18 m)                                     | 1 ressource  | DC 8       | 1 jet  |
-| Masse d'armes                          | 1d6 contondant | 5 po     | -                                                                    | 2 ressources | DC 10      | 2 jets |
-| Massue                                 | 1d8 contondant | 2 pa     | À deux mains                                                         | 1 ressource  | DC 8       | 1 jet  |
-| Serpe                                  | 1d4 tranchant  | 1 po     | Légère                                                               | 1 ressource  | DC 8       | 1 jet  |
-| _**Armes courantes à distance**_       |                |          |                                                                      |              |            |        |
-| Arbalète légère                        | 1d8 perforant  | 25 po    | Munitions (portée 24 m/96 m), chargement, à deux mains               | 2 ressources | DC 10      | 2 jets |
-| Arc court                              | 1d6 perforant  | 25 po    | Munitions (portée 24 m/96 m), à deux mains                           | 1 ressource  | DC 8       | 1 jet  |
-| Fléchette                              | 1d4 perforant  | 5 pc     | Finesse, lancer (portée 6 m/18 m)                                    | 1 ressource  | DC 8       | 1 jet  |
-| Revolver                               | 1d8 perforant  | 50 po    | Munitions (24m/96m), rechargeant                                     | 3 ressources | DC 12      | 3 jets |
-| _**Armes de guerre de corps à corps**_ |                |          |                                                                      |              |            |        |
-| Cimeterre                              | 1d6 tranchant  | 25 po    | Finesse, légère                                                      | 2 ressources | DC 10      | 2 jets |
-| Coutille                               | 1d10 tranchant | 20 po    | Lourde, allonge, à deux mains                                        | 2 ressources | DC 10      | 2 jets |
-| Épée à deux mains                      | 2d6 tranchant  | 50 po    | Lourde, à deux mains                                                 | 3 ressources | DC 12      | 3 jets |
-| Épée courte                            | 1d6 perforant  | 10 po    | Finesse, légère                                                      | 1 ressource  | DC 8       | 1 jet  |
-| Épée longue                            | 1d8 tranchant  | 15 po    | Polyvalente (1d10)                                                   | 2 ressources | DC 10      | 2 jets |
-| Fléau d'armes                          | 1d8 contondant | 10 po    | -                                                                    | 3 ressources | DC 12      | 3 jets |
-| Hache à deux mains                     | 1d12 tranchant | 30 po    | Lourde, à deux mains                                                 | 3 ressources | DC 12      | 3 jets |
-| Hache d'armes                          | 1d8 tranchant  | 10 po    | Polyvalente (1d10)                                                   | 2 ressources | DC 10      | 2 jets |
-| Hallebarde                             | 1d10 tranchant | 20 po    | Lourde, allonge, à deux mains                                        | 2 ressources | DC 10      | 2 jets |
-| Lance d’arçon                          | 1d12 perforant | 10 po    | Allonge, spécial                                                     | 2 ressources | DC 10      | 2 jets |
-| Maillet                                | 2d6 contondant | 10 po    | Lourde, à deux mains                                                 | 1 ressource  | DC 8       | 1 jet  |
-| Marteau de guerre                      | 1d8 contondant | 15 po    | Polyvalente (1d10)                                                   | 2 ressources | DC 10      | 2 jets |
-| Morgenstern                            | 1d8 perforant  | 15 po    | -                                                                    | 3 ressources | DC 12      | 3 jets |
-| Pic de guerre                          | 1d8 perforant  | 5 po     | -                                                                    | 3 ressources | DC 12      | 3 jets |
-| Pique                                  | 1d10 perforant | 5 po     | Lourde, allonge, à deux mains                                        | 2 ressources | DC 10      | 2 jets |
-| Rapière                                | 1d8 perforant  | 25 po    | Finesse                                                              | 2 ressources | DC 10      | 2 jets |
-| Trident                                | 1d6 perforant  | 5 po     | Lancer (portée 6 m/18 m), polyvalente (1d8)                          | 3 ressources | DC 12      | 3 jets |
-| _**Armes de guerre à distance**_       |                |          |                                                                      |              |            |        |
-| Arbalète de poing                      | 1d6 perforant  | 75 po    | Munitions (portée 9 m/36 m), légère, chargement                      | 3 ressources | DC 12      | 3 jets |
-| Arbalète lourde                        | 1d10 perforant | 50 po    | Munitions (portée 30 m/120 m), lourde, chargement,  <br>à deux mains | 3 ressources | DC 12      | 3 jets |
-| Arc long                               | 1d8 perforant  | 50 po    | Munitions (portée 45 m/180 m), lourde, à deux mains                  | 2 ressources | DC 10      | 2 jets |
-| Carabine                               | 1d10 perforant | 100 po   | Munitions (portée 45m/180m), chargement, à deux mains.               | 4 ressources | DC 14      | 4 jets |
+- **Forge** : Le forgeron peut fabriquer tout les objets classiques présents dans les catégories Armes et Armures dans [Marchandises](Marchandises) ainsi que ceux dont il a les plans. Chaque objet peut être fabriquer avec n'importe quels ressources, celle de grade supérieur lui donnant des statistiques et un prix plus attractif.
 
-| **Armure**                   | **CA**                | **Force** | **Discrétion** | **Prix** | Ressources   | Difficulté | Durée  |
-| ---------------------------- | --------------------- | --------- | -------------- | -------- | ------------ | ---------- | ------ |
-| _**Armures intermédiaires**_ |                       |           |                |          |              |            |        |
-| Chemise de mailles           | 13 + Mod.Dex (max +2) | -         | -              | 50 po    | 2 ressources | DC 8       | 2 jets |
-| Écailles                     | 14 + Mod.Dex (max +2) | -         | Désavantage    | 50 po    | 3 ressources | DC 10      | 3 jets |
-| Cuirasse                     | 14 + Mod.Dex (max +2) | -         | -              | 400 po   | 4 ressources | DC 12      | 4 jets |
-| Demi-plate                   | 15 + Mod.Dex (max +2) | -         | Désavantage    | 750 po   | 5 ressources | DC 14      | 5 jets |
-| _**Armures lourdes**_        |                       |           |                |          |              |            |        |
-| Broigne                      | 14                    | -         | Désavantage    | 30 po    | 3 ressources | DC 10      | 3 jets |
-| Cotte de mailles             | 16                    | For 13    | Désavantage    | 75 po    | 4 ressources | DC 12      | 4 jets |
-| Clibanion                    | 17                    | For 15    | Désavantage    | 200 po   | 5 ressources | DC 14      | 5 jets |
-| Harnois                      | 18                    | For 15    | Désavantage    | 1500 po  | 6 ressources | DC 16      | 6 jets |
-| _**Bouclier**_               |                       |           |                |          |              |            |        |
-| Bouclier                     | +2                    | -         | -              | 10 po    | 3 ressources | DC 10      | 3 jets |
-- **Ressources** : Correspond au nombre de ressources du même type qu'il faut utiliser. Plusieurs types de ressources peuvent être utilisés mais le résultat dépendra du type de ressources le plus faible utilisé. Une ressource est consommé par jet.
-- **Echec** : En cas de deux échecs consécutifs, l'avancement de la fabrication perd un niveau d'avancement. Si le niveau d'avancement revient à 0, le projet et les ingrédients le composant sont perdus. De plus à chaque échec, il faut lancer un dé 4 pour définir ce qu'il se passe avec la ressource utilisé avec ce jet.
+La forge de l'objet se découpe en plusieurs étapes, chacune permettant de récupérer des Modificateur de Forge (MF), qui améliore le jet finale.
 
-| Résultat du dé | Conséquences                                                                                                                                                                                        |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1              | Le pire est évité, la ressource est préservé                                                                                                                                                        |
-| 2              | Votre enthousiasme se ressent dans la chaleur de votre four, celui ci vous renvoi une boule de feu à la figure infligeant un nombre égale au niveau de l'emplacement de sort de d6 de dégâts de feu |
-| 3              | Vous avez laissé la ressource trop longtemps au four, elle a totalement fondu et est perdu                                                                                                          |
-| 4              | Vous avez tapez trop fort, la ressource est perdu et le projet perd un niveau d'avancement                                                                                                          |
+- **Etape 1** : Le choix des matériaux
+
+| Matériau   | Propriété                                                                                                             |
+| ---------- | --------------------------------------------------------------------------------------------------------------------- |
+| Commun     | Aucune propriété magique                                                                                              |
+| Peu Commun | Résiste à la rouille                                                                                                  |
+| Rare       | Peu gagner des propriétés d'armes ou armures                                                                          |
+| Très rare  | Fait 2d4 de dégâts supplémentaires en cas de coup critique (type de dégâts dépendant du type de matériau) ou un +1 AC |
+| Légendaire | Inflige 1d6 de dégâts supplémentaires sur les ennemis dont provient le matériau ou un +2 AC                           |
+- **Etape 2** : La forge de la pièce
+Le forgeron choisit un style de forge, définissant la difficulté du jet à effectuer et les effets de celui-ci.
+
+| Style              | Jet                       | DC  | Effet                          |
+| ------------------ | ------------------------- | --- | ------------------------------ |
+| Forge traditionnel | Force (Athlétique)        | 10  | +1 MF si réussite, -1 si échec |
+| Forge de précision | Force (Athlétique)        | 13  | +2 MF si réussite, -1 si échec |
+| Forge de maître    | Force (Outil de forgeron) | 15  | +3 MF si réussite, -1 si échec |
+- **Etape 3** : La trempe de la pièce
+Le forgeron choisit une méthode de trempe. Dans le cas de la solution arcanique, une aide extérieur peut être apporter, ajoutant cependant +3 à la difficulté du jet. La solution arcanique coûte aussi un emplacement de sort de niveau 2. 
+
+| Méthode            | Jet                       | DC  | Effet                          |
+| ------------------ | ------------------------- | --- | ------------------------------ |
+| Trempe à l'eau     | Force (Outil de forgeron) | 10  | +1 MF si réussite, -1 si échec |
+| Trempe à l'huile   | Force (Outil de forgeron) | 13  | +2 MF si réussite, -1 si échec |
+| Solution arcanique | Intelligence (Arcane)     | 16  | +3 MF si réussite, -1 si échec |
+- **Etape 4** : L'imprégnation magique
+Cette étape est optionnel, elle est cependant nécessaire pour obtenir une arme pouvant supporter des enchantements. 
+
+| Style              | Jet                   | Coût                            | DC  | Effet                          |
+| ------------------ | --------------------- | ------------------------------- | --- | ------------------------------ |
+| Gravure simple     | Intelligence (Arcana) | Emplacement de sort de niveau 1 | 12  | +1 MF si réussite, -1 si échec |
+| Gravure runique    | Intelligence (Arcana) | Emplacement de sort de niveau 2 | 15  | +2 MF si réussite, -1 si échec |
+| Gravure légendaire | Intelligence (Arcana) | Emplacement de sort de niveau 3 | 20  | +3 MF si réussite, -1 si échec |
+- **Etape 5** : Les événements de forge
+La forge est imprévisible. A chaque étape, le forgeron lance 1D10 pour déterminer ce qu'il se passe. 
+
+| D10 | Evénement                          | Effet                                                        |
+| --- | ---------------------------------- | ------------------------------------------------------------ |
+| 1   | Du mobilier s'écroule              | - 1 MF                                                       |
+| 2   | Un esprit de la forge te bénit     | + 2 MF                                                       |
+| 3   | Le feu de la forge t'échappe       | 1d6 de dégâts de feu                                         |
+| 4   | Le métal chante en rythme          | + 1 MF                                                       |
+| 5   | L'enclume craque sous la pression  | - 1 MF                                                       |
+| 6   | Inspiration divine                 | Permet de relancer un dé échoué (+1 MF si le jet est réussi) |
+| 7   | Etincelle chaotique                | + 1 MF (face) ou - 1 MF (pile) sur un lancer de pièce        |
+| 8   | La forge reste calme               | Aucun changement                                             |
+| 9   | Un esprit des flammes se manifeste | + 3 MF                                                       |
+| 10  | Le Dieu de la création t'observe   | + 2 MF                                                       |
+- **Etape 6** : La pierre de puissance 
+La pièce est forgé et il ne reste que la pierre de puissance à ajouter. Le forgeron lance alors un dé 20 et ajoute à ce score son score totale de modificateur de Forge. 
+
+| Résultat | Effet                                                                                                            | Enchantement      |
+| -------- | ---------------------------------------------------------------------------------------------------------------- | ----------------- |
+| 1-5      | Un objet impeccable mais la magie ne l'habite pas                                                                | Impossible        |
+| 6-10     | L'objet ne rouille pas ou ne se tache pas apparaissant toujours propre                                           | Impossible        |
+| 11-15    | L'objet possède le sort de lumière, permettant de l'illuminer pendant 1h                                         | Possible          |
+| 16-18    | L'objet vibre et brille doucement si une créature hostile est à moins de 18m                                     | Possible          |
+| 19-24    | Une fois par long repos, l'objet peut-être chargé d'éclair, infligeant ou protégeant d'1d6 dégâts                | Possible et +1 ME |
+| 25-27    | Les critiques permettent d'infliger 2d6 dégâts supplémentaire ou d'en protéger le porteur au prochain coup subit | Possible et +2 ME |
+| 28+      | L'objet est infusé par un élément, infligeant 1d8 dégât de cette élément ou accordant résistance à cette élément | Possible et +3 ME |

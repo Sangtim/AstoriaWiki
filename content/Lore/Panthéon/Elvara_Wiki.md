@@ -9,4 +9,4 @@ title: Elvara
 - **Popularité** : chez les agriculteurs et le corps médical
 
 Son symbole représente une jeune pousse grandissant sur une gemme. 
-![[Campagne/Astoria/Banques d'images/Panthéon/Elvara/Elvara - Symbole.png]]
+![[Elvara - Symbole Wiki.png]]

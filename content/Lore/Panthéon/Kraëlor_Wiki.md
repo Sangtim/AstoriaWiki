@@ -9,4 +9,4 @@ title: Kraëlor
 - **Clergé** : Chez les forgerons, inventeurs et artisans
 
 Son symbole représente une enclume et un marteau entourés des flames de la création.
-![[Campagne/Astoria/Banques d'images/Panthéon/Kraelor/Kraëlor - Symbole.png]]
+![[Kraëlor - Symbole Wiki.png]]

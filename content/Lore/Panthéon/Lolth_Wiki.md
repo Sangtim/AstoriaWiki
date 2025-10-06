@@ -9,6 +9,5 @@ title: Lolth
 - **Popularité** : Chez les drows et les assassins
 
 Son symbole représente une araignée avec une tête de mort et des crocs prêt à frapper.
-
-![[Lolth - Symbole.png]]
+![[Lolth - Symbole Wiki.png]]
 
