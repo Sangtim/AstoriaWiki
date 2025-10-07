@@ -39,19 +39,19 @@ Une potion nécessite un nombre de ressources égales à son niveau de rareté.
 - **Etape 2** : La préparation des ingrédients alchimique
 L'alchimiste choisit un style de préparation, définissant la difficulté du jet et son effet.
 
-| Style                    | Jet                                       | DC  | Effet                          |
-| ------------------------ | ----------------------------------------- | --- | ------------------------------ |
-| Préparation traditionnel | Intelligence (Nature) ou Sagesse (Survie) | 10  | +1 MA si réussite, -1 si échec |
-| Préparation de précision | Intelligence (Nature) ou Sagesse (Survie) | 13  | +2 MA si réussite, -1 si échec |
-| Préparation de maître    | Sagesse (Médecine)                        | 15  | +3 MA si réussite, -1 si échec |
+| Style                    | Jet                           | DC  | Effet                          |
+| ------------------------ | ----------------------------- | --- | ------------------------------ |
+| Préparation traditionnel | Sagesse (Outils d'alchimiste) | 10  | +1 MA si réussite, -1 si échec |
+| Préparation de précision | Sagesse (Outils d'alchimiste) | 13  | +2 MA si réussite, -1 si échec |
+| Préparation de maître    | Sagesse (Médecine)            | 15  | +3 MA si réussite, -1 si échec |
 - **Etape 3** : le mélange des ingrédients
 L'alchimiste choisit un style de mélange, définissant la difficulté du jet et son effet. Le mélange arcanique utilise aussi un niveau d'emplacement de niveau 2.
 
-| Méthode           | Jet                   | DC  | Effet                          |
-| ----------------- | --------------------- | --- | ------------------------------ |
-| Mélange à froid   | Sagesse (Médecine)    | 10  | +1 MA si réussite, -1 si échec |
-| Mélange à chaud   | Sagesse (Médecine)    | 13  | +2 MA si réussite, -1 si échec |
-| Mélange arcanique | Intelligence (Arcane) | 16  | +3 MA si réussite, -1 si échec |
+| Méthode           | Jet                           | DC  | Effet                          |
+| ----------------- | ----------------------------- | --- | ------------------------------ |
+| Mélange à froid   | Sagesse (Outils d'alchimiste) | 10  | +1 MA si réussite, -1 si échec |
+| Mélange à chaud   | Sagesse (Outils d'alchimiste) | 13  | +2 MA si réussite, -1 si échec |
+| Mélange arcanique | Intelligence (Arcane)         | 16  | +3 MA si réussite, -1 si échec |
 - **Etape 4** : L'infusion des ingrédients
 L'alchimiste choisit un style d'infusion, définissant la difficulté du jet et son effet.
 

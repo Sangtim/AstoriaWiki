@@ -55,8 +55,8 @@ L'enchanteur prépare l'objet à être enchanté, gravant l'objet selon le style
 
 | Style              | Jet                                                    | Coût                            | DC  | Effet                          |
 | ------------------ | ------------------------------------------------------ | ------------------------------- | --- | ------------------------------ |
-| Gravure simple     | Intelligence (Arcane) ou caractéristique d'incantation | Emplacement de sort de niveau 1 | 10  | +1 ME si réussite, -1 si échec |
-| Gravure runique    | Intelligence (Arcane) ou caractéristique d'incantation | Emplacement de sort de niveau 2 | 13  | +2 ME si réussite, -1 si échec |
+| Gravure simple     | Dextérité (Outils d'enchanteur)                        | Emplacement de sort de niveau 1 | 10  | +1 ME si réussite, -1 si échec |
+| Gravure runique    | Dextérité (Outils d'enchanteur)                        | Emplacement de sort de niveau 2 | 13  | +2 ME si réussite, -1 si échec |
 | Gravure légendaire | Intelligence (Arcane) ou caractéristique d'incantation | Emplacement de sort de niveau 3 | 16  | +3 ME si réussite, -1 si échec |
 - **Etape 4** : L'enchantement de l'objet
 L'enchanteur imbue l'essence dans l'objet.
