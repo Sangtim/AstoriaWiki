@@ -7,7 +7,7 @@ title: Astoria Wiki
 	- [[Tifanny]]
 	- [[Célestin]]
 	- [[Martin]]
-	- [[Nono]]
+	- [[Campagne/AstoriaWiki/Aventuriers/Nono]]
 
 - **Liens utiles**
 	- [[Règles maisons]]
