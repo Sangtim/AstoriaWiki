@@ -99,6 +99,9 @@ De plus, lorsqu'un joueur tombe au sol, les règles suivantes seront appliquées
 - **Règles du style avant tout** :
 	- Une action ou discussion détaillé et logique pourra apportera des bonus au jet lors de la réalisation de cette action ou discussion. Si le détails est particulièrement cool, le jet pourra être automatiquement considéré comme un succès à la discrétion du MJ. 
 
+- **Roll avec entrain**
+	Lorsqu'un joueur doit effectuer un jet de dé 20, il peut décider une fois par séance de "roll avec entrain". Il lance alors deux dé 20 et prend le résultat le plus éloigné de 10. 
+
 ### **Métiers**
 
 Chaque joueur peut choisir un hobby d'artisanat qu'il maitrise au moment de la création de son personnage. Chaque hobby dépend d'une caractéristiques et utilisera le bonus correspondant. 

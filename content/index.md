@@ -15,6 +15,7 @@ title: Astoria Wiki
 	- [[Marchandises]]
 	- **Métiers** 
 		- [[Alchimie]]
+		- [[Cuisine]]
 		- [[Enchantement]]
 		- [[Forgeage]]
 
