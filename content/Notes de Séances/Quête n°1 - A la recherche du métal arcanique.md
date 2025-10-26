@@ -7,6 +7,7 @@
 ### **Déroulé**
 
 - **Séance 1** :
+
 Après avoir retrouvé l'archimage et que celui-ci ai présenté la quête, les aventuriers prennent la route de l'aéroport pour embarquer vers Fulminis. 
 En chemin, Cide va dans une herboristerie acheter de quoi faire un parfum masquant l'odeur nauséabonde de leur compagnon Cain. 
 Pendant ce temps les 3 autres profitent des vendeurs locaux, achetant babioles et nourriture. Ils apprennent la venue du **Festival de la Marée** dans environ une semaine, où se représentera une chanteuse connu **Rose Alford**. 
