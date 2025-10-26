@@ -1,4 +1,6 @@
-- **Nom** : 
-- **Espèce** : Monke
+- **Nom** : Cain
+- **Espèce** : Nain-Orque
 - **Classe** : Barbare
-- **Historique** : Monke
+- **Métier** : [Cuisinier](Cuisine)
+
+

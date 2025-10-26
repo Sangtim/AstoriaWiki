@@ -1,4 +1,4 @@
-- **Nom** : 
-- **Espèce** : ?
+- **Nom** : Dash
+- **Espèce** : Humain
 - **Classe** : Artificier
-- **Historique** : ?
+- **Métier** : [Forgeron](Forgeage)

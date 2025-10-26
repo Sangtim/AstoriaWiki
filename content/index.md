@@ -5,7 +5,7 @@ title: Astoria Wiki
 
 - **Aventuriers**
 	- [[Tifanny]]
-	- [[Célestin]]
+	- [[Campagne/AstoriaWiki/Aventuriers/Célestin]]
 	- [[Martin]]
 	- [[Campagne/AstoriaWiki/Aventuriers/Nono]]
 
@@ -43,4 +43,4 @@ title: Astoria Wiki
 		- [Théocratie Ondaile](Théocratie_Ondaile_Wiki.md)
 
 - **Notes de séances**
-	- [[Séance 1]]
+	- [[Quête n°1 - A la recherche du métal arcanique]]
