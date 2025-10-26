@@ -1,6 +1,6 @@
 - **Nom** : Cain
 - **Espèce** : Nain-Orque
-- **Classe** : Barbare
+- **Classe** : [Barbare](Barbare.md)
 - **Métier** : [Cuisinier](Cuisine)
 
 

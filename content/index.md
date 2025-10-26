@@ -18,6 +18,10 @@ title: Astoria Wiki
 		- [[Cuisine]]
 		- [[Enchantement]]
 		- [[Forgeage]]
+	- **Classes** : 
+		- [Barbare](Barbare)
+		- [Barde](Barde)
+		- [Roublard](Roublard)
 
 - **Lore** :
 	- **Panthéon :**

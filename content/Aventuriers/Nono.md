@@ -1,4 +1,4 @@
 - **Nom** : Cide
 - **Espèce** : Humain
-- **Classe** : Roublard
+- **Classe** : [Roublard](Roublard.md)
 - **Métier** : [Alchimiste](Alchimie)
