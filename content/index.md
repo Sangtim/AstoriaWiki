@@ -4,15 +4,16 @@ title: Astoria Wiki
 ### Sommaire 
 
 - **Aventuriers**
-	- [[Tifanny]]
-	- [[Campagne/AstoriaWiki/Aventuriers/Célestin]]
-	- [[Martin]]
-	- [[Campagne/AstoriaWiki/Aventuriers/Nono]]
+	- [Léo](Tifanny)
+	- [Cain](Célestin)
+	- [Dash](Martin)
+	- [Cide](Nono)
 
 - **Liens utiles**
 	- [[Règles maisons]]
 	- [[Sorts]]
 	- [[Marchandises]]
+	- [[Bottes d'armes]]
 	- **Métiers** 
 		- [[Alchimie]]
 		- [[Cuisine]]

@@ -3,51 +3,52 @@ Toute les marchandises ne sont pas forcément disponible chez tout les marchands
 
 ### **Armes**
 
-| **Arme**                               | **Dégât**      | **Poids** | **Propriétés**                                                       |
-| -------------------------------------- | -------------- | --------- | -------------------------------------------------------------------- |
-| _**Armes courantes de corps à corps**_ |                |           |                                                                      |
-| Bâton                                  | 1d6 contondant | 2 kg      | Polyvalente (1d8)                                                    |
-| Dague                                  | 1d4 perforant  | 500 g     | Finesse, légère, lancer (portée 6 m/18 m)                            |
-| Gourdin                                | 1d4 contondant | 1 kg      | Légère                                                               |
-| Hachette                               | 1d6 tranchant  | 1 kg      | Légère, lancer (portée 6 m/18 m)                                     |
-| Javeline                               | 1d6 perforant  | 1 kg      | Lancer (portée 9 m/36 m)                                             |
-| Lance                                  | 1d6 perforant  | 1,5 kg    | Lancer (portée 6 m/18 m), polyvalente (1d8)                          |
-| Marteau léger                          | 1d4 contondant | 1 kg      | Légère, lancer (portée 6 m/18 m)                                     |
-| Masse d'armes                          | 1d6 contondant | 2 kg      | -                                                                    |
-| Massue                                 | 1d8 contondant | 5 kg      | À deux mains                                                         |
-| Serpe                                  | 1d4 tranchant  | 1 kg      | Légère                                                               |
-| _**Armes courantes à distance**_       |                |           |                                                                      |
-| Arbalète légère                        | 1d8 perforant  | 2,5 kg    | Munitions (portée 24 m/96 m), chargement, à deux mains               |
-| Arc court                              | 1d6 perforant  | 1 kg      | Munitions (portée 24 m/96 m), à deux mains                           |
-| Fléchette                              | 1d4 perforant  | 100 g     | Finesse, lancer (portée 6 m/18 m)                                    |
-| Fronde                                 | 1d4 contondant | -         | Munitions (portée 9 m/36 m)                                          |
-| Revolver                               | 1d8 perforant  | 2kg       | Munitions (24m/96m), rechargeant                                     |
-| _**Armes de guerre de corps à corps**_ |                |           |                                                                      |
-| Cimeterre                              | 1d6 tranchant  | 1,5 kg    | Finesse, légère                                                      |
-| Coutille                               | 1d10 tranchant | 3 kg      | Lourde, allonge, à deux mains                                        |
-| Épée à deux mains                      | 2d6 tranchant  | 3 kg      | Lourde, à deux mains                                                 |
-| Épée courte                            | 1d6 perforant  | 1 kg      | Finesse, légère                                                      |
-| Épée longue                            | 1d8 tranchant  | 1,5 kg    | Polyvalente (1d10)                                                   |
-| Fléau d'armes                          | 1d8 contondant | 1 kg      | -                                                                    |
-| Fouet                                  | 1d4 tranchant  | 1,5 kg    | Finesse, allonge                                                     |
-| Hache à deux mains                     | 1d12 tranchant | 3,5 kg    | Lourde, à deux mains                                                 |
-| Hache d'armes                          | 1d8 tranchant  | 2 kg      | Polyvalente (1d10)                                                   |
-| Hallebarde                             | 1d10 tranchant | 3 kg      | Lourde, allonge, à deux mains                                        |
-| Lance d’arçon                          | 1d12 perforant | 3 kg      | Allonge, spécial                                                     |
-| Maillet                                | 2d6 contondant | 5 kg      | Lourde, à deux mains                                                 |
-| Marteau de guerre                      | 1d8 contondant | 1 kg      | Polyvalente (1d10)                                                   |
-| Morgenstern                            | 1d8 perforant  | 2 kg      | -                                                                    |
-| Pic de guerre                          | 1d8 perforant  | 1 kg      | -                                                                    |
-| Pique                                  | 1d10 perforant | 9 kg      | Lourde, allonge, à deux mains                                        |
-| Rapière                                | 1d8 perforant  | 1 kg      | Finesse                                                              |
-| Trident                                | 1d6 perforant  | 2 kg      | Lancer (portée 6 m/18 m), polyvalente (1d8)                          |
-| _**Armes de guerre à distance**_       |                |           |                                                                      |
-| Arbalète de poing                      | 1d6 perforant  | 1,5 kg    | Munitions (portée 9 m/36 m), légère, chargement                      |
-| Arbalète lourde                        | 1d10 perforant | 9 kg      | Munitions (portée 30 m/120 m), lourde, chargement,  <br>à deux mains |
-| Arc long                               | 1d8 perforant  | 1 kg      | Munitions (portée 45 m/180 m), lourde, à deux mains                  |
-| Filet                                  |                | 1,5 kg    | Spécial, lancer (portée 1,50 m/ 4,50 m)                              |
-| Sarbacane                              | 1 perforant    | 500 g     | Munitions (portée 7,50 m/30 m), chargement                           |
-| Carabine                               | 1d10 perforant | 9kg       | Munitions (portée 45m/180m), chargement, à deux mains.               |
+| **Arme**                               | **Dégât**       | **Poids** | **Propriétés**                                                       | Bottes d'armes |
+| -------------------------------------- | --------------- | --------- | -------------------------------------------------------------------- | -------------- |
+| _**Armes courantes de corps à corps**_ |                 |           |                                                                      |                |
+| Bâton                                  | 1d6 contondants | 2 kg      | Polyvalente (1d8)                                                    | Renversement   |
+| Dague                                  | 1d4 perforants  | 500 g     | Finesse, légère, lancer (portée 6 m/18 m)                            | Coup double    |
+| Gourdin                                | 1d4 contondants | 1 kg      | Légère                                                               | Ralentissement |
+| Hachette                               | 1d6 tranchants  | 1 kg      | Légère, lancer (portée 6 m/18 m)                                     | Ouverture      |
+| Javeline                               | 1d6 perforants  | 1 kg      | Lancer (portée 9 m/36 m)                                             | Ralentissement |
+| Lance                                  | 1d6 perforants  | 1,5 kg    | Lancer (portée 6 m/18 m), polyvalente (1d8)                          | Sape           |
+| Marteau léger                          | 1d4 contondants | 1 kg      | Légère, lancer (portée 6 m/18 m)                                     | Coup double    |
+| Masse d'armes                          | 1d6 contondants | 2 kg      | -                                                                    | Sape           |
+| Massue                                 | 1d8 contondants | 5 kg      | À deux mains                                                         | Poussée        |
+| Serpe                                  | 1d4 tranchants  | 1 kg      | Légère                                                               | Coup double    |
+| _**Armes courantes à distance**_       |                 |           |                                                                      |                |
+| Arbalète légère                        | 1d8 perforants  | 2,5 kg    | Munitions (portée 24 m/96 m), chargement, à deux mains               | Ralentissement |
+| Arc court                              | 1d6 perforants  | 1 kg      | Munitions (portée 24 m/96 m), à deux mains                           | Ouverture      |
+| Fléchette                              | 1d4 perforants  | 100 g     | Finesse, lancer (portée 6 m/18 m)                                    | Ouverture      |
+| Fronde                                 | 1d4 contondants | -         | Munitions (portée 9 m/36 m)                                          | Ralentissement |
+| Revolver                               | 1d8 perforants  | 2kg       | Munitions (24m/96m), rechargeant                                     | Ouverture      |
+| _**Armes de guerre de corps à corps**_ |                 |           |                                                                      |                |
+| Cimeterre                              | 1d6 tranchants  | 1,5 kg    | Finesse, légère                                                      | Coup double    |
+| Coutille                               | 1d10 tranchants | 3 kg      | Lourde, allonge, à deux mains                                        | Ecorchure      |
+| Épée à deux mains                      | 2d6 tranchants  | 3 kg      | Lourde, à deux mains                                                 | Ecorchure      |
+| Épée courte                            | 1d6 perforants  | 1 kg      | Finesse, légère                                                      | Ouverture      |
+| Épée longue                            | 1d8 tranchants  | 1,5 kg    | Polyvalente (1d10)                                                   | Sape           |
+| Fléau d'armes                          | 1d8 contondants | 1 kg      | -                                                                    | Sape           |
+| Fouet                                  | 1d4 tranchants  | 1,5 kg    | Finesse, allonge                                                     | Ralentissement |
+| Hache à deux mains                     | 1d12 tranchants | 3,5 kg    | Lourde, à deux mains                                                 | Enchainement   |
+| Hache d'armes                          | 1d8 tranchants  | 2 kg      | Polyvalente (1d10)                                                   | Renversement   |
+| Hallebarde                             | 1d10 tranchants | 3 kg      | Lourde, allonge, à deux mains                                        | Enchainement   |
+| Lance d’arçon                          | 1d12 perforants | 3 kg      | Allonge, spécial                                                     | Renversement   |
+| Maillet                                | 2d6 contondants | 5 kg      | Lourde, à deux mains                                                 | Renversement   |
+| Marteau de guerre                      | 1d8 contondants | 1 kg      | Polyvalente (1d10)                                                   | Poussée        |
+| Morgenstern                            | 1d8 perforants  | 2 kg      | -                                                                    | Sape           |
+| Pic de guerre                          | 1d8 perforants  | 1 kg      | -                                                                    | Sape           |
+| Pique                                  | 1d10 perforants | 9 kg      | Lourde, allonge, à deux mains                                        | Poussée        |
+| Rapière                                | 1d8 perforants  | 1 kg      | Finesse                                                              | Ouverture      |
+| Trident                                | 1d6 perforants  | 2 kg      | Lancer (portée 6 m/18 m), polyvalente (1d8)                          | Renversement   |
+| _**Armes de guerre à distance**_       |                 |           |                                                                      |                |
+| Arbalète de poing                      | 1d6 perforants  | 1,5 kg    | Munitions (portée 9 m/36 m), légère, chargement                      | Ouverture      |
+| Arbalète lourde                        | 1d10 perforants | 9 kg      | Munitions (portée 30 m/120 m), lourde, chargement,  <br>à deux mains | Poussée        |
+| Arc long                               | 1d8 perforants  | 1 kg      | Munitions (portée 45 m/180 m), lourde, à deux mains                  | Ralentissement |
+| Filet                                  |                 | 1,5 kg    | Spécial, lancer (portée 1,50 m/ 4,50 m)                              | -              |
+| Sarbacane                              | 1 perforants    | 500 g     | Munitions (portée 7,50 m/30 m), chargement                           | Ouverture      |
+| Carabine                               | 1d10 perforants | 9kg       | Munitions (portée 45m/180m), chargement, à deux mains.               | Ralentissement |
+| Mousquet                               | 1d12 perforants | 5kg       | Munitions (portée 12m/36m), chargement, à deux mains.                | Ralentissement |
 ### **Armures**
 
 | **Armure**                   | **CA**                | **Force** | **Discrétion** | **Poids** |
