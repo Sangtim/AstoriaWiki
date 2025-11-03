@@ -1,6 +1,6 @@
 - **Nom** : Dash
 - **Espèce** : Humain
-- **Classe** : Artificier
+- **Classe** : [Artificier](Artificier)
 - **Métier** : [Forgeron](Forgeage)
 
 ![[Dash - Wiki.png]]
