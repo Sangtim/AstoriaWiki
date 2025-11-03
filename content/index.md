@@ -8,7 +8,7 @@ title: Astoria Wiki
 	- [Cain](Célestin)
 	- [Dash](Martin)
 	- [Cide](Nono)
-
+---
 - **Liens utiles**
 	- [[Règles maisons]]
 	- [[Sorts]]
@@ -20,10 +20,11 @@ title: Astoria Wiki
 		- [[Enchantement]]
 		- [[Forgeage]]
 	- **Classes** : 
+		- [Artificier](Artificier)
 		- [Barbare](Barbare)
 		- [Barde](Barde)
 		- [Roublard](Roublard)
-
+---
 - **Lore** :
 	- **Panthéon :**
 		- [Aelrith](Aelrith_Wiki.md)
@@ -46,6 +47,6 @@ title: Astoria Wiki
 		- [Technocratie Edarion](Technocratie_Edarion_Wiki.md)
 		- [Terres Perdues](Terres_Perdues_Wiki.md)
 		- [Théocratie Ondaile](Théocratie_Ondaile_Wiki.md)
-
+---
 - **Notes de séances**
 	- [[Quête n°1 - A la recherche du métal arcanique]]
