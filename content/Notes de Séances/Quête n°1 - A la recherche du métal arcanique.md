@@ -24,7 +24,7 @@ Les mineurs escortés peuvent cependant toujours rentrer donc **Hadrik** demande
 
 En explorant la mine, les aventuriers découvrent un système de relais magique permettant de transmettre un signal dans les profondeurs de la mine. En affrontant plusieurs scarabées de métal, ils découvrent aussi des runes similaires permettant de contrôler les créatures sur leurs cadavres. L'infestation récente de la mine et l'organisation soudaines des scarabées seraient donc d'origine humaine. 
 
-Ayant profité de l'excursion pour récupérer 30 kg de minerai dont 9 kg minés des mains du nain, les aventuriers retournent à la sortie de la mine, amenant preuve et minerais à **Hadrik**. 
+Ayant profité de l'excursion pour récupérer 30 kg de minerai dont 9 kg minés des mains de Cain, les aventuriers retournent à la sortie de la mine, amenant preuve et minerais à **Hadrik**. 
 La réussite de leur expédition se fit à la surprise de tout le monde, laissant entendre l'existence d'une autre faction à l'origine de ces actes que celle des mineurs ou des policiers. 
 
 Une fois ces preuves exposés, et ayant quartier libre dans l'après-midi avant d'être invité à escorter le minerai jusqu'à la manufacture de transformation, les aventuriers décidèrent de se séparer et de continuer leur enquête, **Dash et Cain** se dirigeant vers le médecin, personne la plus lettré magiquement de la ville tandis que **Léo et Cide** allèrent vers le port pour chercher des traces d'arrivée clandestine.
