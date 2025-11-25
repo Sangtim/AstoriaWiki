@@ -49,4 +49,4 @@ title: Astoria Wiki
 		- [Théocratie Ondaile](Théocratie_Ondaile_Wiki.md)
 ---
 - **Notes de séances**
-	- [[Quête n°1 - A la recherche du métal arcanique]]
+	- [[1- A la recherche du métal arcanique]]
