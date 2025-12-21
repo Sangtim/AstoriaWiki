@@ -1,12 +1,12 @@
 - **Lieu de départ** : Myrastis ([Edarion](Technocratie_Edarion_Wiki))
-- **Donneur de quête** : Archimage Zaldrin Mykos
+- **Donneur de quête** : Archimage **Zaldrin Mykos**
 - **Quête** : Récupérer 25kg de métal arcanique pour le compte de l'Archimage
 - **Lieu de la quête** : Fulminis (Edarion)
 - **Récompense** : 100 po par personne + la monnaie sur les 500 po fourni pour l'achat des matériaux + éventuellement un plan pour Dash à la place des 100 po.
 
 ### **Déroulé**
 
-- **Séance 1** :
+- **Séance 1** 
 Après avoir retrouvé l'archimage et que celui-ci ai présenté la quête, les aventuriers prennent la route de l'aéroport pour embarquer vers Fulminis. 
 En chemin, Cide va dans une herboristerie acheter de quoi faire un parfum masquant l'odeur nauséabonde de leur compagnon Cain. 
 Pendant ce temps les 3 autres profitent des vendeurs locaux, achetant babioles et nourriture. Ils apprennent la venue du **Festival de la Marée** dans environ une semaine, où se représentera une chanteuse connue du nom de **Rose Alford**. 
@@ -18,7 +18,7 @@ Se frayant un chemin dans les rues étroites de la ville, les aventuriers trouve
 
 Etant trop tard pour y aller immédiatement, les aventuriers vont loger dans la taverne d'en face, qui leur fait les chambres gratuites suite à une représentation musicale très réussie de Léo. 
 
-- **Séance 2** :
+- **Séance 2** 
 Le lendemain, les aventuriers sont perturbés dans leur petit-déjeuner par un brouhaha dans la rue. Des dizaines de mineurs énervés se rendent à l'entrée de la mine, bloqués par la police et leur chef **Irwin Sykes**. En discutant avec **Hadrik**, ils apprennent que la dernière attaque en date à provoquer l'arrêt total des opérations minières. 
 Les mineurs escortés peuvent cependant toujours rentrer donc **Hadrik** demande aux aventuriers de servir d'escorte et d'investiguer la mine pour essayer de savoir ce qu'il s'y trame. 
 
@@ -29,7 +29,7 @@ La réussite de leur expédition se fit à la surprise de tout le monde, laissan
 
 Une fois ces preuves exposés, et ayant quartier libre dans l'après-midi avant d'être invité à escorter le minerai jusqu'à la manufacture de transformation, les aventuriers décidèrent de se séparer et de continuer leur enquête, **Dash et Cain** se dirigeant vers le médecin, personne la plus lettré magiquement de la ville tandis que **Léo et Cide** allèrent vers le port pour chercher des traces d'arrivée clandestine.
 
-- **Séance 3** :
+- **Séance 3** 
 **Dash** et **Cain** se dirigèrent vers la clinique où ils firent la connaissance du médecin de la ville, **Soren Valeheart**. Celui-ci ausculta le nain et découvrit une cicatrice préoccupante derrière l'oreille de celui-ci pouvant être signe d'un traqueur placé par ses anciens geôliers. **Soren** donna alors une lettre à l'intention de **Clark Colvin**, médecin à Myrastis qui pourra examiner plus en détails la plaie. 
 En parallèle, **Soren** aida l'investigation en affirmant que personne à Fulminis serait capable de fabriquer les runes et qu'il se souvient d'avoir soigné un "mineur" au bras brulé avec la rune marqué au fer rouge sur sa peau. 
 
@@ -40,7 +40,7 @@ Dans la ville, **Dash** et **Cain** interrogèrent **Hadrik** et les mineurs pou
 
 Les aventuriers purent se reposer un peu, profitant de leur temps libre pour effectuer quelques crafts avant de prendre la route avec le chariot de minerai vers la **Tour de l'Apogée** afin de le transformer. L'arrivée jusqu'à la tour se fit sans encombre, les aventuriers remarquant cependant une porte bloquée menant à la mine. Après avoir aidé à la transformation du minerai en lingots de métal, fabricant ainsi 30 lingots de 1kg, les aventuriers furent attaquer par le bandit restant contrôlant deux élémentaires de foudre. A la fin d'un combat laborieux, les aventuriers prirent l'ascendant, mettant fin aux actions de l'**Eclair Noir** dans la ville de Fulminis jusqu'au retour des membres partis. 
 
-- **Séance 4** : 
+- **Séance 4** 
 Après une longue nuit de sommeil bien mérité, les aventuriers se sentent plus forts pour affronter les épreuves les attendants. À leur réveil, ils sont rejoints par **Gontrant**, un moine mandaté par la police de **Myrastis** pour les escorter jusqu'au chef de la police **Flemming Townley** afin qu'il puisse les interroger sur les événements ayant eu lieu à **Fulminis**. 
 Avant de quitter la ville, les aventuriers négocient avec **Hadrik** le prix des lingots et arrivent à ne payer que 440 po pour les 22 lingots disponibles, gardant donc 60po de la somme de départ fourni par **Zaldrin**. 
 Ils ont aussi le temps de se rendre dans la mine, marquant l'entrée secrète menant à la caverne des bandits au fond de la mine et de tenter de concocter quelques potions sans succès et de forger une magnifique hache à deux mains pour le nain. 

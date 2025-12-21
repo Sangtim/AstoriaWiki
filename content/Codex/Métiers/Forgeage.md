@@ -11,7 +11,7 @@ Permet de fabriquer des objets à partir de barre de métal et d'ingrédients su
 | 2                  | Créature | Grande               |
 | 3                  | Créature | Très grande          |
 | 4                  | Créature | Gigantesque          |
-- **Récompense** :  Le forgeron peut additionner le/les résultat(s) de son/ses jets pour obtenir un score de collecte (SC). Il peut ensuite dépenser ces SC pour obtenir un certains nombres de matériaux de forge.  
+- **Récompense** :  Le forgeron peut additionner le/les résultat(s) de son/ses jets pour obtenir un score de collecte (SC). Il peut ensuite dépenser ces SC pour obtenir un certains nombres de matériaux de forge. 
 	- Exemple : Je fais 3 jets de collecte sur une créature très grande, j'obtiens au dés : 5, 10 et 18 pour un total de 33 SC. Je dépense ensuite ces SC pour obtenir une ressource légendaire (25 SC) et une ressource commune (2 SC) et peu commune (5 SC) pour un total de 32 SC dépensés.
 
 | Coût en SC | Récompense                | Modificateur de Forge |
