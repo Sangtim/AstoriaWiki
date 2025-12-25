@@ -17,3 +17,7 @@ title: Technocratie Edarion
 	- **[Fulminis](obsidian://open?vault=Campagne%20%231&file=Astoria%2FRoyaume%2FTechnocratie%20Edarion%2FVilles%2FFulminis)**, ville importante servant de batterie à tout Edarion, rechargeant les cristaux aetherique via la foudre frappant constamment.
 	- **[Brumécis](obsidian://open?vault=Campagne%20%231&file=Astoria%2FRoyaume%2FTechnocratie%20Edarion%2FVilles%2FBrum%C3%A9cis)**, porte d'entrée d'Edarion avec les autres royaumes d'Astoria, gigantesque place forte au cœur des Brumes et centre de recherche technomagique.
 	- **[Thalratis](obsidian://open?vault=Campagne%20%231&file=Astoria%2FRoyaume%2FTechnocratie%20Edarion%2FVilles%2FBrum%C3%A9cis)**, ville portuaire et hub commerciale pour toutes les ressources venant des Montagnes Brulées. Spécialisé en ingénierie navale et aéronautique. 
+- **Gouvernement** : 
+	- Dirigé par un conseil formé des 9 plus grandes Guildes de l'Empire, chacun élisant un conseiller, souvent le chef de Guilde. Tout les 5 ans, un représentant est élu parmi les Conseillers, qui sera alors le porte-parole du Conseil durant cette période.
+	- Conseil actuel : 
+	  ![[Edarion - Conseil 1.png]]
