@@ -3,9 +3,8 @@
 - **Quête** : Traquer et démanteler les réseaux souterrains de la zone d'activité de Myrastis
 - **Lieu de la quête** : Zone d'activité de Myrastis (Fulminis inclus)
 
-### **Déroulé** 
+### **Séance 7**
 
-- **Séance 7**
 Suite à la fin du festival et à l'arrêt de l'assaut sur l'atelier de **Zaldrin**, les aventuriers sont invités à témoigner au poste de la garde le lendemain. Après une bonne nuit de sommeil, ceux-ci se retrouvent donc au poste de la garde devant **Flemming Townley** en compagnie de l'équipe de **Rose Alford**. 
 Avec la récupération de multiples preuves d'implications de bandes criminelles de Myrastis dans les récents événements ayant encouru pendant le festival et avec la menace d'une attaque majeure planant sur la ville, **Flemming** identifie trois cibles à abattre. 
 - Les **Crocs Cendrées**, responsable de l'attaque sur l'atelier de Zaldrin, la garde de Myrastis se charge personnellement de lancer l'assaut sur leur QG présumé, l'entrepôt 7, lieu fourni par un des bandits capturés pendant l'assaut.
@@ -20,7 +19,8 @@ En communiquant leurs découvertes avec les autres groupes en chasses, ils déco
 Une fois le combat terminé, les aventuriers fouillent rapidement celui-ci, trouvant les esclaves attachés et les libérant et trouvant aussi des preuves des larcins de la bande et de l'organisation de celles-ci, le **Souterrain** et la **Roche Sombre** étant des branches du **Crocs Cendrées**, organisation mise en place pour minimiser le danger représenté par l'organisation dans les yeux des forces de l'ordre.
 Découvrant des preuves d'un vol très important de poudre et la phrase de **Revan** résonnant dans leur tête, les aventuriers **Léo** et **Rose** comprennent que l'entrepôt 7 est un piège menaçant les forces de l'ordre s'apprêtant à le prendre d'assaut. Stoppant celui-ci momentanément le temps de se rendre sur place afin d'expliquer la situation. Afin de prouver leur intuition, **Dash** et **Carole** construire un robot télécommandé pour observer l'intérieur du bâtiment. Son entrée dans celui-ci déclenchant la mèche qui fit exploser la totalité de l'entrepôt, les forces de l'ordre esquivant des pertes désastreuses grâce à la vivacité d'esprit des aventuriers. 
 
-- **Séance 8**
+### **Séance 8**
+
 La menace directe évitée, les aventuriers peuvent alors faire un rapport détaillé à **Flemming** avant de retourner à l'entrepôt 5 continuer leurs recherches. Ils trouvent un manifeste de transport étrange, détaillant les arrivées et départs de navires dans les quelques jours suivants, indiquant une potentiel attaque sur l'un deux. 
 De même, des runes de contrôle sont découvertes, plus puissantes que celle extraites à Fulminis, signe de l'évolution de celles-ci. 
 Grâce à l'aide de **Flemming** et **Zaldrin**, ils arrivent à découvrir que l'un des navires dans le manifeste était censé transporter un trident, artefact divin de **Thalvorys** jusqu'à la capitale. 
@@ -32,7 +32,8 @@ Une fois les interrogatoires finis, les aventuriers se rendirent au QG des charr
 Pour féliciter le travail des aventuriers, **Flemming** les invite tous alors à partager un dîner à une taverne en début de soirée. Avant cela, les aventuriers peuvent vaquer à leurs occupations, faisant des potions, vendant un véhicule ou encore discutant avec les prêtres gardant la relique de **Thalvorys**, désormais sous la protection de l'archimage. En début de soirée, se retrouve alors **la Troupe de la Rose Ardente**, les aventuriers, **Flemming** et **Zaldrin**, discutant gaiement des événements mouvementés des derniers jours. Alors que la soirée bas son plein, un garde fait irruption dans la taverne et prévient **Flemming** d'un événement catastrophique, la Tour de l'Apogée à Fulminis à été attaqué et est désormais aux mains des bandits de l'**Eclair Noir**.
 **Flemming** prépare immédiatement une force de secours et demande de l'aide aux aventuriers au vu de leur connaissance du terrain et de leurs preuves sur les derniers jours. Décollant dans la foulée dans un aéronef d'intervention rapide, les aventuriers prennent alors la route de Fulminis en compagnie d'une dizaine de gardes en équipement lourd sous les ordres de l'Adjoint **Elton Twyver**.
 
-- **Séance 9** 
+### **Séance 9** 
+
 À leur arrivée, les aventuriers et les renforts sont accueillis par un garde qui les emmène devant **Irwin** et **Hadrik**, le premier gérant le périmètre autour de la Tour de l'Apogée tandis que le deuxième aide à définir les potentiels plans d'assaut. En se rendant sur place, les aventuriers peuvent voir les traces de combats débutant depuis la mine jusqu'à la Tour, avec des multiples éclats et débris faisant foi de la violence de l'attaque. De multiples blessés sont en train d'être soigné à même la rue par **Soren** et les civils valides tandis que plusieurs draps blancs couvrent plusieurs cadavres allongés le long des bâtiments. 
 Des traces de scarabées de métal et d'élémentaire de foudre sont présentes, preuves de l'utilisation massive de ces créatures dans l'assaut des bandits. 
 Une fois la surface atteinte, les aventuriers découvrent une situation très précaire, le dôme de protection empêchant les personnels souhaitant rejoindre la Tour d'être électrocutés étant sur le point de tomber. Les aventuriers proposent une attaque par la mine, un ancien conduit abandonné rejoignant les deux lieux alors que les renforts de la garde se mettent en place pour aider les forces de l'ordre en présence. 
@@ -46,7 +47,8 @@ Après un combat d'une grande efficacité à la fois de la part des forces de l'
 **Dash** finit alors de désamorcer les bombes, sécurisant ainsi la Tour. Fier de leur succès, ils découvrirent un parchemin de téléportation sur la cheffe, l'emmenant à un endroit inconnu, et une lettre d'instruction de la **Colombe**, demandant à **Serenya**, la cheffe de l'**Eclair Noir**, d'apporter le cristal à l'endroit de téléportation où elle sera récupéré le lendemain.
 Souhaitant solliciter l'expertise de **Zaldrin** pour identifier le point d'atterrissage du parchemin, les aventuriers reprennent donc l'aéronef vers Myrastis, non sans être remercié chaleureusement par **Irwin** et **Haldrik** pour leur grande aide et la grande réussite de l'opération. 
 
-- **Séance 10** 
+### **Séance 10** 
+
 De retour à Myrastis, les aventuriers discutent avec **Zaldrin** qui trouve le point d'atterrissage du parchemin. En se concertant avec **Flemming**, ils se mettent d'accord sur le fait d'envoyer **la Troupe de la Rose Ardente** en filature plutôt que les aventuriers, au vu de la durée indéfini de celle-ci et du rendez-vous prochain des aventuriers avec le Conseiller **Caleb Morwyn** à la capitale.
 Le rendez-vous est dans deux jours, Zaldrin propose cependant aux aventuriers de partir le lendemain afin de profiter de la capitale avant l'entrevue. Les aventuriers ont alors quartier libre, effectuant différentes tâches comme la concoction de potion de vigilance, de la forge de mécanismes et de constructs ou encore de l'enchantement de sacs sans fonds. 
 Le lendemain, les aventuriers se retrouvent à l'aube à l'aéroport où **Zaldrin** les attends devant son vaisseau privé, le **Zéphyr**. Montant à bord du luxueux vaisseau accompagné des deux prêtres et de leur précieuse cargaison, les aventuriers connaissent enfin un moment de calme, leur permettant de discuter et de questionner leurs motivations et leurs leviers. 
@@ -56,7 +58,8 @@ Criant _"**Pour la libération de l'esprit !!**"_ avant d'utiliser un parchemin 
 Les moteurs furent redémarrés par **Zaldrin** et **Dash**, trop tard cependant pour stopper la chute, forçant **Zaldrin** à utiliser un puissant sort de feuille-morte pour stopper le navire au-dessus de la mer. 
 Le calme étant revenu, les aventuriers et **Zaldrin** peuvent se poser sur ce qui vient de se passer, le vol d'un artefact sous les yeux d'un archimage, l'utilisation de technologie anti-magie et l'implication du mouvement terroriste athéiste, complexifiant une fois encore l'affaire.
 
-- **Séance 11** - Nouvel an yeaaaah ! 
+### **Séance 11** - Nouvel an yeaaaah ! 
+
 Arrivant enfin à **Aetherforge**, les aventuriers n'ayant pas encore pu visiter la capitale découvrirent les îles flottantes de l'archipel d'Aetheris, sur lesquelles est installé la capitale. Découvrant de haut les différents quartiers principaux de la ville, le **Zéphyr** atterrit rapidement dans un aéroport privé. Le contrôleur fut repoussé par une lettre officielle du Conseiller **Morwyn** et les aventuriers et **Dismas** furent ensuite entraînés par **Zaldrin** au sein de la capitale jusqu'à la place des Expositions, la place principale de la ville. **Zaldrin** les quitta alors avec **Dismas**, l'emmenant se faire soigner et laissant les aventuriers maîtres de leur temps, leur demandant juste de se retrouver au même endroit le lendemain à 14h. 
 Les aventuriers profitèrent alors de la ville, commençant par des emplettes à la **Maison des Couleurs**, une boutique de vêtements chics gérée par un certains **Jamal al-Zahir**. Une fois leurs achats complétés, les aventuriers se séparèrent, **Cain** se dirigeant vers la bibliothèque de l'Académie des mages pour continuer son apprentissage de la lecture et l'écriture, **Cide** et **Léo** se rendant dans une boutique huppée d'armes et armures, achetant un arc long et un bouclier magique. **Dash**, quant à elle, se dirigea vers l'académie pour récupérer quelques affaires avant de se rendre dans le quartier souterrain de la capitale pour y chercher information et matériel pour améliorer son arme. 
 Les aventuriers se retrouvèrent alors tous à la taverne des 1000 rencontres, une taverne confortable du Quartier de l'Échange conseillé par l'archimage. **Dash** les retrouva en retard, mais ils prirent leur dîner sur place. **Dash** et **Léo** partirent ensuite vers l'Académie des Artificiers, accédant à la forge pour fabriquer et enchanter une cuirasse pour **Léo**, réussissant à produire un chef d'œuvre d'armure défensive magique. **Cide** profita de ce répit pour rattraper le sommeil perdu et **Cain** pour continuer son apprentissage. 
@@ -66,7 +69,8 @@ La rencontre fut chaleureuse, discutant d'abord des événements récents et de 
 Elle exposa quelques informations supplémentaires, confortant l'intuition des aventuriers sur la présence d'un groupe travaillant avec le Syndicat et organisant des vols d'artefacts divins à une échelle toujours plus grande. Semblant bien connaître le passé secret de chacun des aventuriers, ceux-ci profitèrent de l'instant pour partager certains de ces secrets, comme l'appartenance de **Cide** au Syndicat et sa volonté de le faire tomber où les familles puissantes de **Léo** et **Dash**, deux familles nobles de **Valdoria**. 
 **Sable** leur demanda leur participation pour deux missions, une court-terme en la participation au raid sur la plateforme de la **Colombe**, plateforme découverte par **la Troupe de la Rose Ardente** suite à une rencontre fortuite avec le prêtre tout juste téléporté et une à plus long terme en la participation au conseil des Nations, organisés à **Valthorne** dans quelques semaines. En échange, **Sable** promet la protection de l'Empire et son aide pour accomplir les objectifs majeurs des aventuriers.
 
-- **Séance 12**
+### **Séance 12**
+
 Les aventuriers continuèrent d'échanger avec **Sable** et **Caleb**, négociant une avance sur la récompense de mission. **Léo** discuta avec les Conseillers pour négocier les éventuels termes de l'alliance entre Edarion et Valthorne qu'elle sera censé initier pendant le Conseil des Nations. 
 Les aventuriers se préparèrent ensuite au raid, effectuant plusieurs achats et améliorant leurs équipements respectifs. **Cide** concocta plusieurs potions tandis que **Léo** enchanta certaines pièces d'équipements comme la hache de **Cain**. Celui-ci profita de son temps libre pour cuisiner plusieurs plats bien réussis.
 Enfin prêts, les aventuriers retournèrent à l'Auberge aux 1000 rencontres afin de dîner et de se reposer avant le raid. 
@@ -78,14 +82,16 @@ Ils reprirent la route et retrouvèrent **la Troupe de la Rose Ardente** sur une
 L'île étant entourée de falaises, les aventuriers durent d'abord escalader celle-ci, non sans difficulté. Si **Cain** faillit glisser sur la première partie de la montée, **Léo** glissa sur la deuxième, et sa volonté de se raccrocher éveilla un nouveau pouvoir caché en elle, avec deux ailes de lumières apparaissant dans son dos et lui permettant de se rattraper. 
 Une fois au sommet, les deux groupes se séparèrent et parcoururent la jungle jusqu'au tour de guet qu'ils capturèrent sans difficulté. Ils se retrouvèrent ensuite à mi-chemin et décidèrent de descendre au niveau inférieur.
 
-- **Séance 13** :
+### **Séance 13**
+
 Ils descendirent donc, non sans difficulté, avant d'utiliser un œuf d'invisibilité pour infiltrer la place, les aventuriers se dirigeant vers la batterie côtière Nord, souhaitant en prendre le contrôle pour détruire le bateau pirate sous son feu tandis que **la Troupe de la Rose Ardente** infiltra le village pirate pour faire exploser les deux autres batteries côtières ainsi que le phare bloquant l'entrée du port. 
 Après un combat bref, les aventuriers prirent le contrôle discrètement de la batterie, et prenant le temps de très bien calibrer les canons, firent exploser le navire pirate. 
 L'explosion envoya un signal à l'équipe de **Rose** qui déclencha les explosifs, détruisant les deux autres batteries et le phare. Le chaos et les flammes créaient par les explosions furent une parfaite diversion pour les aventuriers qui infiltrèrent le village pirate, rejoignant **Rose** et ses collègues se battant contre **Rosuf Tête-Plate**, le chef de la Colombe. Le prêtre corrompu était là aussi, avec le trident. A la fin d'un combat difficile qui vit **Scarlett** et **Carole** tomber inconsciente à de multiples reprises, les aventuriers prévalurent, non sans avoir remarqué la corruption qu'avait subi le prêtre en essayant d'utiliser le trident. 
 En fouillant l'endroit, les aventuriers découvrirent 3 autres artefacts divins et un manifeste prouvant que plusieurs dizaines d'autres artefacts avaient transité par la plateforme pirate jusqu'à la frontière de Valdoria. 
 Épuisés par le combat, les aventuriers rejoignirent **Léora** et son équipage qui avait pris le contrôle et arrêté le restant des forces pirates et remontèrent à bord de son navire pour reprendre la route de la capitale. 
 
-- **Séance 14** :
+### **Séance 14**
+
 Après un long repos réparateur, les aventuriers purent profiter du restant du voyage pour réfléchir sur les événements passés, leurs motivations et objectifs futurs. À la fin de leurs introspections, le navire arrive en vue de la capitale et accoste au port maritime de celle-ci. 
 Les prisonniers sont débarqués et confiés aux forces de l'ordre tandis que les aventuriers rejoignent Zaldrin, qui se présente devant **Rose** et ses compatriotes avant de les emmener vers la Tour d'Ivoire pour y retrouver **Caleb** et **Sable**, à la surprise de **la Troupe de la Rose Ardente**. En chemin, **Léo** put lire la lettre de réponse de son père, juste avant d'arrivée au chef-lieu du pouvoir politique de l'Empire. Les aventuriers et **Zaldrin** rejoignirent alors **Caleb** et, une fois des contrats signés pour les 4 nouveaux aventuriers impliqués dans l'histoire, **Sable** apparut. 
 Les deux Conseillers les remercièrent pour leurs services et leur remirent leurs récompenses, tout en ayant des visages fermés face à l'ampleur du réseau de trafic d'artefacts. Ils décidèrent d'organiser un conseil exceptionnel le lendemain matin, invitant les aventuriers à y participer en tant que témoins. 
@@ -93,7 +99,8 @@ Libres jusqu'au lendemain, les aventuriers se séparèrent alors, non sans se do
 Une fois leurs achats et autres trouvailles terminés, les aventuriers se retrouvèrent à l'auberge des 1000 rencontres pour partager un repas et en apprendre plus sur les origines de leurs compagnons d'armes. 
 Après une longue discussion et un bon repas, les aventuriers se retirent dans leurs chambres, se préparant pour la séance du Conseil le lendemain et se posant une unique question, est-ce que **Cain** va se laver avant ?
 
-- **Séance 15** : 
+### **Séance 15** 
+
 Cain s'est lavé yeaaaaah ! Les aventuriers, reposé et nettoyé, partent avec **Rose** et ses compagnons vers la Tour d'Ivoire. Ils y retrouvent **Zaldrin** qui les accompagne dans une salle d'attente à l'avant dernier étage de la Tour. Les aventuriers peuvent observer l'Histoire de l'empire, gravé en bas-relief sur les murs de la salle ou les allers et venues des gens travaillant dans la Tour au travers du plancher en verre. 
 Après un court moment d'attente voyant la nervosité de **Rose** et sa bande augmenté fortement, les aventuriers sont invités à monter sur la plateforme centrale qui s'élève pour les emmener dans la salle du Conseil. Rencontrant alors pour la première fois la majorité des membres du Conseil d'Edarion, ils sont invités à exposer leurs versions des événements et à répondre aux différentes questions des Conseillers. C'est l'occasion pour **Cide** de partager un peu plus d'informations sur la mission qui l'a vu quitté le Syndicat et qui prouve l'existence d'un autre groupe en la **Cellule des Lames**, qui serait allié avec le Syndicat.
 Deux groupes se distinguent alors parmi les Conseillers, un groupe souhaitant nettoyer dès maintenant les restes de la Colombe et du banditisme dans la Mer d'Elathar, pour sécuriser l'Empire et éviter des attaques internes en cas de conflits majeurs, et un groupe souhaitant au contraire sécuriser encore plus les frontières, se préparant pour l'inévitable conflit future. Les deux groupes étant à égalité dans les votes (4 partout), **Sable** se manifeste et apparait, son vote lançant la mise en place d'un plan de nettoyage de la Mer d'Elathar. 
