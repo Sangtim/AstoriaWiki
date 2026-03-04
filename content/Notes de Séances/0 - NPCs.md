@@ -2,11 +2,10 @@
 
 ### **Aetherforge**
 Capitale d'Edarion, installé sur les îles flottantes de l'archipel d'Aetheris.
+![[Caleb Morwyn 1.png|200]] **Caleb Morwyn** - Conseiller et chef de la Guilde des Arcanistes, porte-parole actuel du Conseil d'Edarion.
 
-- **Caleb Morwyn** - Conseiller et chef de la Guilde des Arcanistes, porte-parole actuel du Conseil d'Edarion.
-![[Caleb Morwyn 1.png|200]]
-- **Sable Vesper** - Conseillère et cheffe de la Guilde des Ombres
-![[Sable Vesper 1.png|200]]
+![[Sable Vesper 1.png|200]] **Sable Vesper** - Conseillère et cheffe de la Guilde des Ombres
+
 - **Aldric Voss** - Conseiller et chef de la Guilde des Marchands de Mana
 ![[Aldric Voss 1.png|200]]
 - **Aric Draegon** - Conseiller et chef de la Guilde des Gardiens
