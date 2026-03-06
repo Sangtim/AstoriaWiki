@@ -3,29 +3,25 @@
 ### **Aetherforge**
 Capitale d'Edarion, installé sur les îles flottantes de l'archipel d'Aetheris.
 
-- **Caleb Morwyn** - Conseiller et chef de la Guilde des Arcanistes, porte-parole actuel du Conseil d'Edarion.
-![[Caleb Morwyn 1.png|200]] 
+![[Caleb Morwyn 1.png|200]] ![[Sable Vesper 1.png|200]] ![[Eldria Lumenveil 1.png|200]] ![[Torvald Forgefeu 1.png|200]]
 
-- **Sable Vesper** - Conseillère et cheffe de la Guilde des Ombres
-![[Sable Vesper 1.png|200]]
+| Nom      | Caleb Morwyn                                                                             | Sable Vesper                                  | Eldria Lumenveil                               | Torvald Forgefeu                                |
+| -------- | ---------------------------------------------------------------------------------------- | --------------------------------------------- | ---------------------------------------------- | ----------------------------------------------- |
+| **Race** | Drakéide                                                                                 | Drow                                          | Demi-elfe                                      | Nain                                            |
+| **Rôle** | Conseiller et chef de la Guilde des Arcanistes, porte-parole actuel du Conseil d'Edarion | Conseillère et cheffe de la Guilde des Ombres | Conseillère et cheffe de la Guilde de l'Aether | Conseiller et chef de la Guilde des Artificiers |
 
-- **Aldric Voss** - Conseiller et chef de la Guilde des Marchands de Mana
-![[Aldric Voss 1.png|200]]
-- **Aric Draegon** - Conseiller et chef de la Guilde des Gardiens
-![[Captain Aric Draegon 1.png|200]]
-- **Cassius Stellanox** - Conseiller et chef de la Guilde des Astromanciens
-![[Cassius Stellanox 1.png|200]]
-- **Eldria Lumenveil** - Conseillère et cheffe de la Guilde de l'Aether
-![[Eldria Lumenveil 1.png|200]]
-- **Lyra Astrael** - Conseillère et cheffe de la Guilde des Ethernautes
-![[Lyra Astrael 1.png|200]]
-- **Orlanth Brindlewort** - Conseiller et chef de la Guilde des Alchimistes
-![[Orlanth Brindlewort 1.png|200]]
-- **Selene Viridia** - Conseillère et cheffe de la Guilde des Technomages
-![[Selene Viridia 1.png|200]]
-- **Torvald Forgefeu** - Conseiller et chef de la Guilde des Artificiers
-![[Torvald Forgefeu 1.png|200]]
+ ![[Aldric Voss 1.png|200]] ![[Captain Aric Draegon 1.png|200]] ![[Lyra Astrael 1.png|200]] ![[Selene Viridia 1.png|200]]
 
+| Nom      | Aldric Voss                                           | Aric Draegon                                 | Lyra Astrael                                       | Selene Viridia                                     |
+| -------- | ----------------------------------------------------- | -------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
+| **Race** | Halfelin                                              | Orque                                        | Tabaxi                                             | Humaine                                            |
+| **Rôle** | Conseiller et chef de la Guilde des Marchands de Mana | Conseiller et chef de la Guilde des Gardiens | Conseillère et cheffe de la Guilde des Ethernautes | Conseillère et cheffe de la Guilde des Technomages |
+![[Cassius Stellanox 1.png|200]] ![[Orlanth Brindlewort 1.png|168]]
+
+| Nom      | Cassius Stellanox                                 | Orlanth Brindlewort                             |
+| -------- | ------------------------------------------------- | ----------------------------------------------- |
+| **Race** | Tieffling                                         | Elfe                                            |
+| **Rôle** | Conseiller et chef de la Guilde des Astromanciens | Conseiller et chef de la Guilde des Alchimistes |
 ### **Fulminis**
 Ville creusés à même la falaise dans une zone où les tempêtes sont constantes.
 
@@ -102,4 +98,4 @@ Grande ville portuaire de l'empire est l'une des plus anciennes, situés sur une
 - Ambassadeur **Darius Kaelthorn**
 ![[Level 3 Partie 1 - Darius Kaelthorn 1.png|200]]
 - Conseillère **Drazhyne Faelthar**
-![[Drazhyne Faelthar 1.png|200]]
+![[Level 3 Partie 1 - Drazhyne Faelthar 1.png|200]]
