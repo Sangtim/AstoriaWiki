@@ -83,7 +83,7 @@ Grande ville portuaire de l'empire est l'une des plus anciennes, situés sur une
 
 | Nom         | Earendil Vareth | Nerys Caldrim | Darius Kaelthorn | Drazhyne Faelthar |
 | ----------- | --------------- | ------------- | ---------------- | ----------------- |
-| **Race**    | Humaine         | Humain        | Humaine          | Halfelin          |
+| **Race**    | Elfe            | Tieffling     | Orque            | Drow              |
 | **Royaume** | Edarion         | Edarion       | Kragmorn         | Kragmorn          |
 | **Rôle**    | Ambassadeur     | Magistrate    | Ambassadeur      | Conseillère       |
 
