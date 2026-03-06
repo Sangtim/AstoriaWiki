@@ -16,6 +16,7 @@ Capitale d'Edarion, installé sur les îles flottantes de l'archipel d'Aetheris.
 | -------- | ----------------------------------------------------- | -------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
 | **Race** | Halfelin                                              | Orque                                        | Tabaxi                                             | Humaine                                            |
 | **Rôle** | Conseiller et chef de la Guilde des Marchands de Mana | Conseiller et chef de la Guilde des Gardiens | Conseillère et cheffe de la Guilde des Ethernautes | Conseillère et cheffe de la Guilde des Technomages |
+
 ![[Cassius Stellanox 1.png|172]]  ![[Orlanth Brindlewort 1.png|143]]
 
 | Nom      | Cassius Stellanox                                 | Orlanth Brindlewort                             |
@@ -69,6 +70,7 @@ Grande ville portuaire de l'empire est l'une des plus anciennes, situés sur une
 | **Race**    | Humaine         | Humain      | Elfe             | Elfe               |
 | **Royaume** | Arcantor        | Arcantor    | Elvaris          | Elvaris            |
 | **Rôle**    | Ambassadrice    | Marchand    | Ambassadeur      | Druide             |
+
 ![[Level 3 Partie 1 - Ismeria Solvaran 1.png|200]] ![[Level 3 Partie 1 - Aldrien Veloras 1.png|133]]          ![[Level 3 Partie 1 - Lysenna Valor 1.png|200]] ![[Level 3 Partie 1 - Othon Varcelis 1.png|200]]
 
 | Nom         | Ismeria Solvaran | Aldrien Veloras | Lysenna Valor | Othon Varcelis |
