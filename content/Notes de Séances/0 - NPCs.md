@@ -16,7 +16,7 @@ Capitale d'Edarion, installé sur les îles flottantes de l'archipel d'Aetheris.
 | -------- | ----------------------------------------------------- | -------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
 | **Race** | Halfelin                                              | Orque                                        | Tabaxi                                             | Humaine                                            |
 | **Rôle** | Conseiller et chef de la Guilde des Marchands de Mana | Conseiller et chef de la Guilde des Gardiens | Conseillère et cheffe de la Guilde des Ethernautes | Conseillère et cheffe de la Guilde des Technomages |
-![[Cassius Stellanox 1.png|200]]  ![[Orlanth Brindlewort 1.png|168]]
+![[Cassius Stellanox 1.png|172]]  ![[Orlanth Brindlewort 1.png|143]]
 
 | Nom      | Cassius Stellanox                                 | Orlanth Brindlewort                             |
 | -------- | ------------------------------------------------- | ----------------------------------------------- |
