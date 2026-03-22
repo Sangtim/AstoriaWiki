@@ -67,3 +67,12 @@ Après un voyage sans encombre au cours duquel la barde enchanta son collier d'o
 Une fois les affaires de police terminées, les aventuriers se rendent chez **Zaldrin**, lui remettant les lingots de métal en échange de la récompense de 150po par personne hormis pour **Dash**, qui reçoit le plan d'un hoverboard. Ils laissent à l'archimage les runes ainsi que la télécommande permettant de les contrôler pour que celui-ci puisse l'étudier. 
 
 Libre de leur temps, les aventuriers décident alors de profiter du festival commençant, non sans que **Cide** aient produits une quantité de potions de soins astronomiques au préalable, séparant son butin avec **Léo**. 
+
+---
+
+### **Récapitulatif
+
+- **Runes** : découvertes de runes permettant de contrôler des monstres à distance et des runes d'amplification de signal permettant de propager un signal sur de longue distance.
+	- Ces runes ont été fabriqués à partir de magie divine corrompu et ont demandé un grand niveau de connaissance perdu et de recherches interdites depuis la Guerre Divine.
+
+- **Alliance** : Une alliance entre plusieurs groupes de malfrats locaux se dessinent, avec un objectif encore inconnu. Les groupes impliqués sont l'**Eclair Noir**, le groupe de bandits de Fulminis, les **Crocs Cendrées**, groupe de bandits de Myrastis et la **Colombe**, semblant fournir les deux en runes.

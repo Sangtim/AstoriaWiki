@@ -179,6 +179,20 @@ Les aventuriers sont invités par **Sable** et **Caleb** à discuter ensuite, pa
 
 Après une semaine de calme relatif, les aventuriers se préparent alors à leur prochaine mission, non sans d'abord être invité chez les parents adoptifs de **Dash** à dîner. 
 
+---
+
+### **Récapitulatif**
+
+- **Alliance** : L'alliance découverte entre l'**Eclair Noir**, les **Crocs Cendrées** et la **Colombe** a été démantelé. Elle a eu lieu à la demande d'un membre de la **Table d'Argent**, la branche de négociateur du **Syndicat**, la plus grande mafia du continent.
+	- Cette alliance avait pour objectif plusieurs cibles stratégiques, des artefacts divins. La **Colombe** a servit à récupérer et à transporter un grand nombre d'artefacts divins en dehors d'**Edarion**.
+
+- **Syndicat** : Le Syndicat a l'air fortement impliqué dans ces vols, mais une autre organisation secrète se dessine, allié au Syndicat. La dernière mission de **Cide** au sein du Syndicat a justement permis de créer cette alliance. 
+
+- **Artefact Divin** : Un certains nombres d'artefacts divins ont pu être récupéré, ceux-ci corrompant l'esprit et le corps des personnes les maniant n'étant pas jugé digne. Plus d'une centaine d'artefacts ont été volés à **Edarion** et ont été envoyés à **Valdoria**.
+
+- **Mouvement de la libération de l'Esprit** : L'organisme terroriste anti-Dieux semble aussi impliqué dans l'affaire d'une manière ou d'une autre, un de ces membres ayant effectivement volé un artefact devant les aventuriers. 
+
+- **10ème Guilde** : En plus des 9 guildes connus gouvernant **Edarion**, une dixième Guilde travaille dans l'ombre, gérant contre-espionnage et récupération d'informations pour l'Empire, sous la gouverne de la Conseillère **Sable Vesper**.
 
 
 
