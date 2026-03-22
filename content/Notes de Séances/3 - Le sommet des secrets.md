@@ -2,9 +2,9 @@
 - **Donneur de quête** : Conseillers d'Edarion **Caleb Morwyn** et **Sable Vesper**
 - **Quête** : Infiltrer le Conseil des Nations pour déterminer les ambitions et motivations de chacun des royaumes présents, ainsi que définir qui sont les ennemis dans l'éventuel guerre à venir.
 - **Lieu de la quête** : Valthorne ([Valdoria](Confédération_de_Valdoria_Wiki))
+---
 
 ### **Séance 16** 
----
 
 Les aventuriers ont pu passer une semaine à se préparer et sont désormais invités chez les parents adoptifs de **Dash**, **Pia** et **Kiran Schlibidi**. Ils passent alors la soirée à manger, boire et à profiter de l'hospitalité des Schlibidi. Ils décident tous de rester dormir chez eux et installèrent quelques couchages dans le salon. Après un réveil difficile encore sous les vapes de l'alcool consommés la veille, les aventuriers font leur au revoir et se dirigent vers l'aéroport pour y retrouver d'abord **Sable** dans une maison vide à proximité. Celle-ci leur partagea les dernières nouvelles sur la purge ayant eu lieu à Edarion, avec de nombreuses arrestations et raids qui ont été fait dans tous l'empire, arrêtant de nombreuses personnes, dont certaines relativement influentes. 
 
@@ -14,8 +14,9 @@ Rapidement l'ambassadeur **Earendil Vareth** et la magistrate **Nerys Caldrim** 
 
 L'aéronef décolla alors, et pris la route de Valthorne et du Conseil des Nations. Pendant le voyage, **Cain** tentant, sans succès, de séduire la tieffeline **Nerys** alors que les aventuriers purent étudier le comportement des différents membres de la délégation, à l'occasion d'un poker auquel **Léonore** participa, gagnant contre l'ambassadeur et à l'occasion du dîner.  Les ambassadeurs prirent alors leurs quartiers pour la nuit, suivit rapidement par les aventuriers.
 
-### **Séance 17**
 ---
+
+### **Séance 17**
 
 Après une nuit de sommeil interrompue uniquement par un bruit dans la chambre de **Nerys**, les aventuriers se réveillèrent et purent voir des fenêtres le **Voile de Mornebrume**, immense voile de brume couvrant toute la région frontalière entre Edarion et Valdoria. La matinée se passe sans encombre, **Cain** se goinfrant de la quasi-totalité des provisions trouvés dans la cuisine de l'équipage, déposant un tas de nourriture devant la cabine du capitaine en revanche pour l'avoir vexé plus tôt dans la matinée. **Teclo** (Dash) nettoya ce tas avant que quelqu'un ne le remarque, sauvant la réputation de l'équipe.
 
@@ -34,8 +35,9 @@ Dans la salle du Conseil, les ambassadeurs d'Elvaris, d'Ondaile, d'Arcantor et d
 
 **Rendall Valerius** accompagne la délégation du Nord jusqu'à la salle avant de faire les présentations de l'organisation du sommet, à savoir un séance par jour, durant toute la matinée, et une compétition entre les membres de délégations le 3ème jour. Il quitte ensuite la salle, discutant avec deux **Gardiens d'Astoria** avant d'aller retrouver sa fille dans la cour et de l'inviter au manoir familial le lendemain soir. 
 
-### **Séance 18**
 ---
+
+### **Séance 18**
 
 Alors que le groupe est séparé en deux, **Teclo** (Dash), **Dice** (Cide) et Cain avec les gardes du corps des délégations devant la salle du Conseil tandis que **Léonore** est dans la cour intérieur du Bastion, son père venant juste de partir. Les 3 aventuriers prirent le temps d'examiner les différents membres des services de sécurités présents dans la pièce, remarquant que tous ont l'air de plus ou moins se connaître. Seul les gardes d'**Elvaris** et de **Kragmorn** semble s'isoler un peu. **Cain** part discuter avec les gardes de **Kragmorn**, semant la confusion chez eux. La discussion se finit par une promesse de se retrouver lors de la compétition pour régler leurs différents. 
 
@@ -53,8 +55,9 @@ A la fin de la soirée, alors que la majorité de la salle a déjà quitté les 
 
 Avant d'aller se coucher, elle passe voir les 3 autres dans leurs quartiers et préparent la suite de leurs activités secrètes. Ceux-ci s'étant entre temps inscrit à la compétition du 3ème jour. 
 
-### **Séance 19**
 ---
+
+### **Séance 19**
 
 Après une nuit de sommeil réparateur, les aventuriers se réveillent, trouvant des instructions sous une cloche en argent dans leurs quartiers. **Léonore** de son côté, part dans la cour intérieure profiter de l'air frais matinal pour s'aérer l'esprit. Elle rejoint ensuite la salle de banquet où, peu après son arrivée, **Merlin Pendragon** arrive avec deux des membres de la délégation de Valdoria. La discussion est immédiatement tendue entre elle et **Merlin**, les deux montrant clairement leur antipathie envers l'autre.
 
@@ -72,8 +75,10 @@ Alors que la situation dégénère, une cinquantaine de chevaliers montés sur d
 
 Les 3 aventuriers prirent ensuite la route du Bastion pour retrouver **Cide** et les ambassadeurs allant bientôt sortir de la première séance. **Léonore** partit directement en direction de la salle du banquet tandis que **Cide**, **Cain** et **Dash** rejoignirent la salle du conseil, non sans avoir d'abord envoyé un rapport détaillé des découvertes de la journée à **Sable**. Ils accompagnèrent l'ambassadeur jusqu'à la salle de banquet qui se déroula sans trop de problèmes. Seul fait notable de ce déjeuner, l'ambassadeur de Valdoria **Othon Varcelis** passa une information à l'autre ambassadeur de Valdoria **Lysenna Valor** qui l'a mis en rage. **Léonore** apprenant juste après que **Merlin** avait forcé un des gardes a échangé sa place avec lui à la compétition et qu'il participerait donc à celle-ci. 
 
-### **Séance 20**
 ---
+
+### **Séance 20**
+
 
 Les aventuriers ont quartier libre jusqu'à l'événement de l'après-midi, une rencontre de tous les ambassadeurs et nobles dans un salon de thé de la ville. 
 
@@ -98,8 +103,10 @@ La soirée touche alors à sa fin et les ambassadeurs sont ramenés au Bastion. 
 Le combat se déroule remarquablement bien, malgré l'assaut anticipé de **Cain**, empêchant ses collègues de se préparer correctement. 
 **Cain** se fait presque immédiatement mettre au sol, mais les 3 autres parviennent à repousser les assauts du paladin, et même à lui infliger de nombreuses attaques, **Léonore** sortant ses ailes d'Aasimar permettant de surprendre son père suffisamment pour le repousser. Le combat se finit sur une égalité, tous les aventuriers hormis **Cain** étant encore debout. **Rendall** soigne alors tout le monde avant de les inviter à rentrer dans le Manoir. 
 
-### **Séance 21**
 ---
+
+### **Séance 21**
+
 
 Après avoir été soigné par **Rendall Valerius**, celui-ci les invite dans le manoir, non sans arrêter sa fille pour lui poser des questions sur ses ailes et comment elle a débloqué ses pouvoirs d'Aasimar. Il vérifia que son identité est restée majoritairement secrète, s'inquiétant des répercussions et des dangers pour sa fille dans le cas contraire. 
 
@@ -119,8 +126,10 @@ Au repas, l'absence de **Merlin Pendragon** se fit remarquer, **Cain** décida a
 
 Les ambassadeurs souhaitant effectuer quelques emplettes, les 3 gardes du corps se préparèrent ensuite à les accompagner dans leur sortie. 
 
-### **Séance 22** 
 ---
+
+### **Séance 22** 
+
 
 **Cain**, **Dice** (Cide) et **Teclo** (Dash), accompagne les ambassadeurs en ville pour qu'ils fassent quelques boutiques. Alors qu'ils traversent la cour intérieure, ils voient **Rendall Valerius** parler avec **Darius Kaelthorn** et **Drazhyne Faelthar** devant le dragon enroulé. Après une courte conversation, la conseillère **Faelthar** monte sur le dragon qui se déploie doucement, dévoilant sa taille gigantesque avant de s'envoler en direction du Nord. 
 
@@ -144,3 +153,5 @@ Tous de retour au Bastion, les aventuriers découvrent les différents documents
 **Dash** s'y dirige alors immédiatement pour essayer de déterminer l'entrée qu'ouvre la clé tandis que **Léo** court prévenir son père, celui-ci ordonnant directement à 25 chevaliers pégases de se rendre au théâtre fouillé l'ensemble du bâtiment, y allant aussi avec sa fille. 
 **Dash** découvre que la clé rouillée permet d'ouvrir une porte dans les sous-sols du théâtre, porte donnant sur les égouts de la ville. 
 Les chevaliers pégases et la garde du théâtre n'ayant rien trouvé, il est décidé de garder le programme de la soirée, sous surveillance maximale.
+
+---
