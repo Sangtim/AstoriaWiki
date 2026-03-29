@@ -4,7 +4,7 @@
 - **Lieu de la quête** : Valthorne ([Valdoria](Confédération_de_Valdoria_Wiki))
 ---
 
-### **Séance 16** 
+### **Séance 16 - L'envol** 
 
 Les aventuriers ont pu passer une semaine à se préparer et sont désormais invités chez les parents adoptifs de **Dash**, **Pia** et **Kiran Schlibidi**. Ils passent alors la soirée à manger, boire et à profiter de l'hospitalité des Schlibidi. Ils décident tous de rester dormir chez eux et installèrent quelques couchages dans le salon. Après un réveil difficile encore sous les vapes de l'alcool consommés la veille, les aventuriers font leur au revoir et se dirigent vers l'aéroport pour y retrouver d'abord **Sable** dans une maison vide à proximité. Celle-ci leur partagea les dernières nouvelles sur la purge ayant eu lieu à Edarion, avec de nombreuses arrestations et raids qui ont été fait dans tous l'empire, arrêtant de nombreuses personnes, dont certaines relativement influentes. 
 
@@ -16,7 +16,7 @@ L'aéronef décolla alors, et pris la route de Valthorne et du Conseil des Natio
 
 ---
 
-### **Séance 17**
+### **Séance 17 - Le voyage**
 
 Après une nuit de sommeil interrompue uniquement par un bruit dans la chambre de **Nerys**, les aventuriers se réveillèrent et purent voir des fenêtres le **Voile de Mornebrume**, immense voile de brume couvrant toute la région frontalière entre Edarion et Valdoria. La matinée se passe sans encombre, **Cain** se goinfrant de la quasi-totalité des provisions trouvés dans la cuisine de l'équipage, déposant un tas de nourriture devant la cabine du capitaine en revanche pour l'avoir vexé plus tôt dans la matinée. **Teclo** (Dash) nettoya ce tas avant que quelqu'un ne le remarque, sauvant la réputation de l'équipe.
 
@@ -37,7 +37,7 @@ Dans la salle du Conseil, les ambassadeurs d'Elvaris, d'Ondaile, d'Arcantor et d
 
 ---
 
-### **Séance 18**
+### **Séance 18 - Le début du Conseil**
 
 Alors que le groupe est séparé en deux, **Teclo** (Dash), **Dice** (Cide) et Cain avec les gardes du corps des délégations devant la salle du Conseil tandis que **Léonore** est dans la cour intérieur du Bastion, son père venant juste de partir. Les 3 aventuriers prirent le temps d'examiner les différents membres des services de sécurités présents dans la pièce, remarquant que tous ont l'air de plus ou moins se connaître. Seul les gardes d'**Elvaris** et de **Kragmorn** semble s'isoler un peu. **Cain** part discuter avec les gardes de **Kragmorn**, semant la confusion chez eux. La discussion se finit par une promesse de se retrouver lors de la compétition pour régler leurs différents. 
 
@@ -57,7 +57,7 @@ Avant d'aller se coucher, elle passe voir les 3 autres dans leurs quartiers et p
 
 ---
 
-### **Séance 19**
+### **Séance 19 - La manifestation tourne à l'émeute**
 
 Après une nuit de sommeil réparateur, les aventuriers se réveillent, trouvant des instructions sous une cloche en argent dans leurs quartiers. **Léonore** de son côté, part dans la cour intérieure profiter de l'air frais matinal pour s'aérer l'esprit. Elle rejoint ensuite la salle de banquet où, peu après son arrivée, **Merlin Pendragon** arrive avec deux des membres de la délégation de Valdoria. La discussion est immédiatement tendue entre elle et **Merlin**, les deux montrant clairement leur antipathie envers l'autre.
 
@@ -77,7 +77,7 @@ Les 3 aventuriers prirent ensuite la route du Bastion pour retrouver **Cide** et
 
 ---
 
-### **Séance 20**
+### **Séance 20 - Le salon de thé**
 
 
 Les aventuriers ont quartier libre jusqu'à l'événement de l'après-midi, une rencontre de tous les ambassadeurs et nobles dans un salon de thé de la ville. 
@@ -105,7 +105,7 @@ Le combat se déroule remarquablement bien, malgré l'assaut anticipé de **Cain
 
 ---
 
-### **Séance 21**
+### **Séance 21 - Diner chez les Valérius**
 
 
 Après avoir été soigné par **Rendall Valerius**, celui-ci les invite dans le manoir, non sans arrêter sa fille pour lui poser des questions sur ses ailes et comment elle a débloqué ses pouvoirs d'Aasimar. Il vérifia que son identité est restée majoritairement secrète, s'inquiétant des répercussions et des dangers pour sa fille dans le cas contraire. 
@@ -128,7 +128,7 @@ Les ambassadeurs souhaitant effectuer quelques emplettes, les 3 gardes du corps 
 
 ---
 
-### **Séance 22** 
+### **Séance 22 - Achat et vol** 
 
 
 **Cain**, **Dice** (Cide) et **Teclo** (Dash), accompagne les ambassadeurs en ville pour qu'ils fassent quelques boutiques. Alors qu'ils traversent la cour intérieure, ils voient **Rendall Valerius** parler avec **Darius Kaelthorn** et **Drazhyne Faelthar** devant le dragon enroulé. Après une courte conversation, la conseillère **Faelthar** monte sur le dragon qui se déploie doucement, dévoilant sa taille gigantesque avant de s'envoler en direction du Nord. 
@@ -155,3 +155,25 @@ Tous de retour au Bastion, les aventuriers découvrent les différents documents
 Les chevaliers pégases et la garde du théâtre n'ayant rien trouvé, il est décidé de garder le programme de la soirée, sous surveillance maximale.
 
 ---
+
+### **Séance 23 - Le théâtre**  
+
+**Cain** et **Cide** sont encore au Bastion. Ils accompagnent alors les deux ambassadeurs ainsi que les nobles de la délégation d'**Edarion** jusqu'au convoi prévu pour les emmener au théâtre.
+
+Pendant ce temps, **Dash** et **Léo** finissent leur tour du théâtre et observent l'arrivée des premiers invités, tous de riches et influentes personnes dans la politique du continent. Alors que le convoi amenant les ambassadeurs et leurs suites arrivent, un espace est fait pour qu'ils puissent accéder à l'escalier central et se rendre dans leurs loges. 
+
+Une fois tout le monde installé, se déroule alors une pièce en 4 actes, chacun sur un thème bien précis et avec de fortes connotations envers les événements en cours. 
+- Un premier acte dénonce le tempérament guerrier de certains, posant **Valdoria** comme un défenseur puissant face à l'oppression.
+- Un deuxième acte met en garde envers les actions secrètes et les mouvements en coulisses d'un certain nombre d'acteurs en parallèle du Conseil.
+- Un troisième acte remet en question l'allégeance de tout le monde, remettant en cause les différentes alliances en place.
+- Le quatrième et dernier acte dénonce la cupidité des Mortels, créant le climat de tension actuel.
+
+Les quatre actes sont entrecoupés d'entracte permettant aux spectateurs de discuter et de profiter de rafraîchissement et de nourritures mis à disposition. Plusieurs faits marquants ont lieu pendant la pièce :
+- Un fanatique religieux tenta de s'introduire dans la loge d'**Ondaile** pendant l'Acte II sans succès, pour voir les Evêques envoyés par la Sainte de ses propres yeux.
+- **Léo** piqua l'ego de **Merlin Pendragon**, l'envoyant faire les 100 pas dans une salle vide pour se calmer.
+- **Darius**, énervé des différentes insultes à peine voilées faites envers **Kragmorn** pendant la pièce, manqua de peu de quitter le théâtre, **Léo** parvenant à le convaincre de rester jusqu'à la fin.
+- L'acte III a été modifié par rapport au script validé (lui-même déjà modifié par rapport à la pièce originale), l'Alliance **Valdoria-Arcantor-Ondaile** ne devant pas être remise en question. **Léo** et **Rendall Valerius** s'affichent donc au côté des ambassadeurs de deux royaumes pour calmer les esprits.
+
+A la fin de l'Acte IV, alors que la foule commence à quitter le théâtre, **Dash** et **Léo** aperçoivent une personne louche se faufilant dans la foule et approchant de la délégation d'Ondaile. Cette personne, reconnut plus tard comme **Quatre**, une ancienne collègue de **Cide** et assassine du Syndicat, fut stoppé dans sa lancée par les actions collectives de **Léo**, **Dash** et **Cide**, ce dernier manquant à peine de se faire tuer dans le processus, cherchant à se balancer sur un chandelier pour rattraper l'assassine, faisant tomber celui-ci sur la foule si ce n'était pour la réaction rapide de **Léo**, le repoussant hors de danger. 
+
+L'assassine parvint à s'échapper sans faire de victime, laissant derrière elle une bague et un bracelet. Si le bracelet est tout à fait normal, la bague est une copie conforme de la bague subtilisée à **Merlin Pendragon** le matin même. Il semblerait que l'objectif de l'assassine ait été de tenter d'assassiner un membre de la délégation d'**Ondaile** en faisant porter le chapeau à **Arcantor**, mettant ainsi à mal l'Alliance entre les royaumes.
