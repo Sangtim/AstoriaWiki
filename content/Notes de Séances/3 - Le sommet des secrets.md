@@ -176,4 +176,32 @@ Les quatre actes sont entrecoupés d'entracte permettant aux spectateurs de disc
 
 A la fin de l'Acte IV, alors que la foule commence à quitter le théâtre, **Dash** et **Léo** aperçoivent une personne louche se faufilant dans la foule et approchant de la délégation d'Ondaile. Cette personne, reconnut plus tard comme **Quatre**, une ancienne collègue de **Cide** et assassine du Syndicat, fut stoppé dans sa lancée par les actions collectives de **Léo**, **Dash** et **Cide**, ce dernier manquant à peine de se faire tuer dans le processus, cherchant à se balancer sur un chandelier pour rattraper l'assassine, faisant tomber celui-ci sur la foule si ce n'était pour la réaction rapide de **Léo**, le repoussant hors de danger. 
 
-L'assassine parvint à s'échapper sans faire de victime, laissant derrière elle une bague et un bracelet. Si le bracelet est tout à fait normal, la bague est une copie conforme de la bague subtilisée à **Merlin Pendragon** le matin même. Il semblerait que l'objectif de l'assassine ait été de tenter d'assassiner un membre de la délégation d'**Ondaile** en faisant porter le chapeau à **Arcantor**, mettant ainsi à mal l'Alliance entre les royaumes.
+L'assassine parvint à s'échapper sans faire de victime, laissant derrière elle une bague et un bracelet. Si le bracelet est tout à fait normal, la bague est une copie conforme de la bague subtilisée à **Merlin Pendragon** le matin même. Il semblerait que l'objectif de l'assassine ait été de tenter d'assassiner un membre de la délégation d'**Ondaile** en faisant porter le chapeau à **Arcantor**, mettant ainsi à mal l'Alliance entre les royaumes
+
+---
+
+### **Séance 24 - La compétition**
+
+Après avoir quitté le théâtre sous les regards approbateurs des délégations, celles d'**Ondaile** en particulier, et avoir passé une bonne nuit de sommeil, **Cain**, **Cide** et **Dash** se réveillent au Bastion, où ils récupèrent leurs ambassadeurs pour aller prendre le petit-déjeuner.
+
+Pendant ce temps, **Léo** s'est réveillé plus tôt pour passer au temple avant de retrouver tout le monde dans la salle du banquet. 
+Le petit-déjeuner se passe sans encombre et les délégations sont invitées à rejoindre la cour intérieure pour monter à bord des calèches mises à disposition.
+
+Après une 30aine de minutes de route, traversant la ville et passant encore une dizaine de minutes sur des routes de campagne pour arriver dans une clairière entourée de plusieurs collines les protégeant des regards. Alors que tout le monde s'installe dans le camp, les ambassadeurs s'installant dans les gradins construits pour l'occasion, les participants sont invités dans la cour devant les gradins. Les aventuriers peuvent voir **Merlin Pendragon** suant plus que de raison et apparaissant un peu pâle.
+
+La première épreuve de la matinée est le **Tireur embusqué**, une épreuve de tir sur une cible mouvante monté sur un cavalier. Seul le meilleur tir de chaque équipe sera compté et les participants peuvent interférer avec les autres équipes en les immobilisant via les enchantements qui leur sont fournis.
+
+Après 10 min, laissant les participants le temps de s'installer et de trouver un bon endroit de tir, le cavalier passe dans la vallée après le son du cor annonçant le début de la compétition. Les elfes réussissent immédiatement un très bon tir, qui ne sera égalé que par **Cain** sur une attaque de dernière chance en fin d'épreuve, malgré les efforts de **Cide**. **Dash** et **Cain** parviennent cependant à bloquer les elfes longuement pendant l'épreuve, les empêchant d'améliorer leur score.
+
+Pendant l'épreuve, **Merlin Pendragon** tombe inconscient et est emmené à l'infirmerie où la décision est prise de le rapatrier jusqu'à la ville.
+
+Un tie-break est mis en place entre **Edarion** et **Elvaris**, gagné de justesse par **Elvaris**.
+
+Pendant ce temps, **Léo**, appelé par **Hannah Rose**, la rejoint dans une clairière à l'abri des regards. Celle-ci explique qu'elle va lui faire subir le test des Aasimar, un test important validant l'éveil des pouvoirs et les intuitions d'un aasimar s'éveillant.
+**Léo** réussit l'épreuve avec difficulté, mais parvient à gagner en puissance et à se faire accepter d'**Hannah**, qui laisse de côté sa froideur initiale après la réussite de l'épreuve.
+
+Tous les aventuriers se retrouvent au déjeuner, les discussions étant relativement légères et de grandes sommes d'argent changeant de main suite au résultat de la matinée. **Léo** part discuter avec les ambassadeurs d'**Arcantor** pour négocier l'alliance avec **Edarion**. La discussion se passe très bien et elle décide ensuite de discuter avec les ambassadeurs d'**Ondaile** pour les mêmes raisons. 
+
+Un détail, cependant, attire leurs attentions, un serveur qui semble déposer un objet sur une table excentré. Objet qui semble être récupéré par **Darius**, l'ambassadeur de **Kragmorn**. **Dash** arrête alors le serveur, le remettant aux autorités prévenu par **Léo**. Celle-ci fait diversion en discutant avec **Darius** pendant que **Cide** subtilise l'objet de sa poche. **Cain** distrait les gardes de **Kragmorn** en lançant un concours de boisson contre le nain de la troupe, gagnant haut la main. 
+
+**Cide** arrive alors à récupérer un petit papier, avec quelques mots dessus : "_3h du matin. Place du peuplier._".
