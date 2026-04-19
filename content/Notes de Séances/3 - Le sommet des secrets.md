@@ -204,4 +204,74 @@ Tous les aventuriers se retrouvent au déjeuner, les discussions étant relative
 
 Un détail, cependant, attire leurs attentions, un serveur qui semble déposer un objet sur une table excentré. Objet qui semble être récupéré par **Darius**, l'ambassadeur de **Kragmorn**. **Dash** arrête alors le serveur, le remettant aux autorités prévenu par **Léo**. Celle-ci fait diversion en discutant avec **Darius** pendant que **Cide** subtilise l'objet de sa poche. **Cain** distrait les gardes de **Kragmorn** en lançant un concours de boisson contre le nain de la troupe, gagnant haut la main. 
 
-**Cide** arrive alors à récupérer un petit papier, avec quelques mots dessus : "_3h du matin. Place du peuplier._".
+**Cide** arrive alors à récupérer un petit papier, avec quelques mots dessus : "_3h du matin. Place du saule pleureur._".
+
+--- 
+
+### **Séance 25 - La deuxième épreuve**
+
+Après avoir pu déjeuner tranquillement, interrompu uniquement par les événements impliquant **Darius**, les participants, incluant **Dash**, **Cide** et **Cain** se prépare à la seconde épreuve, le **Roi de la colline**. 
+
+Le groupe A composé des équipes de **Kragmorn**, d'**Elvaris** et d'**Arcantor** passe d'abord. **Elvaris** et **Arcantor** se détestant particulièrement, ils se battent ensemble, sous les yeux de **Kragmorn**. Après de multiples échanges, **Arcantor** parvient à terrasser **Elvaris**, puis se fait abattre par **Kragmorn** qui gagne donc cette première phase de groupe et accède à la finale.
+
+Vient ensuite le tour du groupe B composé d'**Edarion**, de **Valdoria** et d'**Ondaile**. Les aventuriers ont signé une alliance temporaire avec **Ondaile**, ceux-ci leur devant une faveur suite aux événements de la veille au théâtre. C'est donc à 6 contre 3 que l'épreuve commence. 
+Malgré une défense exemplaire, les combattants de **Valdoria** arrivant à abattre le moine d'**Ondaile** tandis que leur mage vaporisait **Cide**, ils furent cependant débordés et c'est donc **Dash** et **Cain** qui se retrouvèrent ensuite face à une paladine d'**Ondaile** fortement amoché ainsi que leur clerc. Ils réussirent à avoir le dessus de justesse, accédant aussi à la phase finale.
+
+Pendant ce temps, **Léo** retourne au Bastion accompagné de l'escorte emmenant le serveur et **Merlin Pendragon** jusqu'au Bastion. **Léo** décida une fois arrivé de fouiller de nouveau les quartiers de **Nerys Caldrim**, cherchant une trace de la boîte en bois qu'elle a récupéré la veille. Ne trouvant rien, elle part ensuite à la prison pour interroger le serveur, accompagné de **Léon**. 
+
+Elle découvre alors que celui-ci n'est qu'une petite main, travaillant avec le receleur libraire déjà arrêté et un certain **Chris Schyving**, propriétaire de la menuiserie de la planche tordue, mais aussi usurier et travaillant sur le marché noir. Il força le serveur à transmettre document et message au sein du bastion pour rembourser la dette importante que celui-ci avait encourue. La famille du serveur étant menacé, celui-ci n'avait d'autres choix que d'obtempérer. 
+
+**Léon** et le chevalier pégase présent à l'interrogatoire, décidèrent de rassembler plus d'informations pour capturer le maximum de personne des réseaux clandestins de la ville, tout en envoyant des gens surveiller et protéger la famille du serveur. 
+
+**Léo** se dirigea ensuite vers le manoir familial pour faire part de ses découvertes à son père, arrêté sur la route par la présence d'une vieille femme mendiant sur le bord de la rue. Intrigué par cette présence inhabituelle, **Léo** s'approcha et offrit 3 pièces d'or à la vieille femme, du nom de **Frayda**. Celle-ci se mit alors à briller d'une lumière étrange et dit "_Pendragon. Jonas. C'est un piège. Attention._" avant de s'effondrer dans les bras de **Léo**. 
+
+Choqué par cette rencontre, **Léo** repartit vers le manoir pour en faire part à son père. Ils décidèrent alors qu'en l'absence de **Hannah Rose**, partit déclarer l'éveil de **Léo** en tant qu'Aasimar, **Rendall Valerius** lui-même accompagnerait **Jonas** pour le protéger d'un éventuel danger et de le surveiller par la même occasion. **Léon** quant à lui, s'occuperait de la protection du Griffon de **Jonas**. Le fils **Pendragon** fut aussi déplacer pour être mis dans une prison secrète de la ville.
+
+Alors que **Léo** était en proie au jeu du pouvoir politique, les 3 autres aventuriers affrontaient **Kragmorn** en finale. Après un combat maîtrisé de la part de nos aventuriers, ils parvinrent à remporter la finale, hissant **Edarion** sur la première place du podium de la Compétition. 
+
+L'ensemble des délégations furent ensuite ramenées au Bastion où **Rendall Valerius** remit à nos 3 aventuriers des bourses contenant 400po et un feu d'artifice aux couleurs d'**Edarion** fut lancé, fêtant leur victoire.
+
+Alors que la nuit battait son plein, les aventuriers s'affairaient pour préparer le RDV secret de **Darius**. **Léo** et **Cide** prirent la route pour investiguer les 3 possibles localisations correspondant avec le lieu du RDV, installant des mouchards aux endroits stratégiques sur deux d'entre eux. **Dash** observa les allée et venues dans le couloir d'**Edarion**, ne voyant cependant rien. **Cain**, quant à lui, s'endormit dans un tas de foin dans la Cour Intérieur pour attendre le départ de **Darius**. Il avait gagné auparavant un concours de boisson contre un des gardes de **Kragmorn**.
+
+Vers 2h du matin, **Cide** se réveilla et pris la route du site le plus probable de rencontre, se perchant sur un toit à proximité pour observer et vers 2h30 du matin, **Cain** fut réveiller par une figure encapuchonnée quittant le Bastion, dont la carrure semble correspondre avec celle de **Darius**.
+
+---
+
+### **Séance 26 - Le dernier Conseil**
+
+Réveillé en sursaut, **Cain** tenta sans succès de suivre la figure et de sortir du Bastion. N'y arrivant pas et manquant de finir la nuit en prison, il repartit dormir dans l'écurie. 
+
+Pendant ce temps, **Cide**, déjà sur son poste d'observation sur un toit au-dessus de la place du saule pleureur, vit passé une silhouette encapuchonnée. Il la suivit jusqu'à arriver dans une autre place avec une horloge brisé, place où la silhouette s'installe sur un banc et discute avec une autre personne portant un masque de corbeau. **Cide** parvient à entendre une partie de la conversation, parlant de plan et de matériel prêt et d'un déclenchement prochain. La discussion se termine de manière solennelle sur la phrase énigmatique : "_Pour le Voile_".
+
+Il passe ensuite la nuit dans une auberge, les portes du Bastion étant déjà fermé pour la nuit. Le lendemain matin, **Léonore** est réveillé par des tambourinements à sa porte, qu'elle ouvre pour découvrir **Léon** accompagné de **Wolfram** et **Cassian**. Ils discutent un peu, rattrapant le temps perdu avant de rejoindre **Rendall Valerius** pour définir leurs prochaines actions.
+
+**Dash** récupère **Cain** dans l'écurie ainsi que **Cide** qui arrive de la ville à pied. Ils vont ensuite récupérer leurs ambassadeurs pour les emmener au petit-déjeuner puis à la séance du Conseil de la matinée, gardé uniquement par **Jonas** en l'absence de **Hannah**. 
+Une fois la séance démarrée, la troupe complète des aventuriers, accompagné de **Rendall Valerius**, le général pégase **Rollin Vitacco** ainsi que **Wolfram Lombardo** et **Cassian Valerius**, utilise le symbole magique secret dans la salle des archives du poste de commandement des forces pégases pour se téléporter dans la prison secrète où est maintenue **Merlin Pendragon**.
+
+Après une séance d'interrogatoire musclé où ils récupèrent plusieurs informations :
+- Confirmation que les **Pendragon** travaillent pour récupérer le pouvoir à **Valdoria**.
+- Potentiel lien entre les **Pendragon** et **Kragmorn**.
+- **Merlin** a obéi sous les ordres de son père pour préparer l'assassinat des ambassadeurs d'**Ondaile**. 
+- Le **Voile** ne semble pas parler à **Merlin**, mais il a entendu le mot prononcé avec mention d'une **Cellule Arcanique**.
+
+Les aventuriers repartent ensuite et quittent la ville pour rejoindre la clairière où va atterrir l'aéronef amenant les nouveaux ambassadeurs **Daniella Silvestri** et **Worthington Burge**. Un plan de "passation" est mis en place avec **Rendall Valerius** pour arrêter **Nerys** et **Earendil** à la sortie du Conseil.
+
+C'est en rentrant vers la ville en compagnie des ambassadeurs qu'arrive alors **Rincevent Pendragon**, volant dans une traînée de feu jusqu'au Bastion où il atterrit dans une violente explosion. Accourant sur place, les aventuriers peuvent le voir en proie avec **Rendall Valerius**, le premier, demandant à ce que **Merlin Pendragon** lui soit remis immédiatement. **Jonas**, alerter par le bruit, sort de la salle du Conseil pour les rejoindre dans la cour et les éloigner du Bastion pour discuter plus calmement.
+
+Cinq chevaliers pégases ainsi que **Dash** partent alors protéger l'entrée de la salle du Conseil. **Cain** et **Cide** protègent les nouveaux ambassadeurs et **Léo** restent avec **Léon**, **Cassian** et **Wolfram** pour protéger le griffon de **Jonas**.
+Ces derniers peuvent voir une explosion violente en ville, détruisant le manoir des **Pendragon** en ville. **Rincevent Pendragon** est ensuite vu quitter la ville, repartant en volant vers **Eryndral**.
+
+**Rendall Pendragon** et **Jonas** arrivent peu de temps après au Bastion pour la fin du Conseil. Alors que **Jonas** ouvre la porte, un souffle glacé traverse la pièce. **Dash** entre dans la pièce et observe les ambassadeurs immobiles, tous mort et momifié, comme si la totalité de l'eau de leurs corps avait été aspirée. **Dash** arrive à identifier les différents ambassadeurs avec leurs habits et remarquent l'absence des ambassadeurs d'**Ondaile** et d'**Edarion**. 
+
+**Rendall**, forcé par les événements, assignent à résidence immédiatement la totalité des forces restantes des délégations avant d'ordonner l'emprisonnement des délégations, précisant cependant que pour nos aventuriers, il ne s'agit que d'apparences et qu'ils seront "aidés" dans leur fuite avec pour objectif de découvrir ce qu'il s'est passé.
+
+---
+
+### **Récapitulatif**
+
+- Alliance potentielle entre **Edarion** et **Valthorne**/**Valdoria** si les dirigeants d'**Ondaile** et d'**Arcantor** sont convaincus. 
+- Les artefacts divins volés arrivés en **Valdoria** semblent repartir ensuite vers **Edarion**, avec l'aide supposé des **Pendragon**.
+- Un nom, le **Voile** est donné à l'organisation contrôlant la **Cellule des Lames** et découverte d'une deuxième cellule, la **Cellule Arcanique** travaillant avec les **Pendragon**.
+- **Pendragon** travaillant sans doute avec **Kragmorn** pour leur fournir une raison suffisante de déclencher la guerre.
+- Plusieurs tentatives pour affaiblir ou même briser l'alliance **Arcantor**-**Valdoria**-**Ondaile**.
+- Utilisation de matériel anti-magie pour effacer les traces après l'assassinat des ambassadeurs, objet ayant déjà été utilisé par le **Mouvement de la Libération de l'Esprit**.
