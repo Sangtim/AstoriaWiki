@@ -54,3 +54,4 @@ title: Astoria Wiki
 	- [[1.1 - Le Festival de la Marée]]
 	- [[2 - Le commerce de runes]]
 	- [[3 - Le sommet des secrets]]
+	- [[4 - La Traque]]
