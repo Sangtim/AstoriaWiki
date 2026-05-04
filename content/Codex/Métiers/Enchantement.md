@@ -2,13 +2,13 @@ Permet d'enchanter des objets à partir d'essence de créatures et d'objets non 
 - **Caractéristiques** : Caractéristique de sort
 - **Collecte** : Permet de récupérer des essences sur les cadavres de créatures. La qualité de l'essence dépend de la force de la créature. L'enchanteur aura deux chances d'extraction de l'essence de la créature. 
 
-| Créature | Difficulté | Récompense          |
-| -------- | ---------- | ------------------- |
-| CR 1-3   | DC 12      | Essence commune     |
-| CR 4-6   | DC 15      | Essence peu commune |
-| CR 7-9   | DC 18      | Essence rare        |
-| CR 10-14 | DC 21      | Essence très rare   |
-| CR 15-30 | DC 25      | Essence légendaire  |
+| Créature | Difficulté | Récompense          | Prix de l'essence |
+| -------- | ---------- | ------------------- | ----------------- |
+| CR 1-3   | DC 12      | Essence commune     | 50 po             |
+| CR 4-6   | DC 15      | Essence peu commune | 200 po            |
+| CR 7-9   | DC 18      | Essence rare        | 2 000 po          |
+| CR 10-14 | DC 21      | Essence très rare   | 20 000 po         |
+| CR 15-30 | DC 25      | Essence légendaire  | 100 000 po        |
 - **Enchantement** - plusieurs types d'enchantement sont disponibles : 
 
 | Type d'enchantement              | Essence     | Ingrédients supplémentaires                              | ME    | Charge | Harmonisation |

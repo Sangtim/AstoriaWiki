@@ -28,13 +28,13 @@ La forge de l'objet se découpe en plusieurs étapes, chacune permettant de réc
 
 - **Etape 1** : Le choix des matériaux
 
-| Matériau   | Propriété                                                                                                             |
-| ---------- | --------------------------------------------------------------------------------------------------------------------- |
-| Commun     | Aucune propriété magique                                                                                              |
-| Peu Commun | Résiste à la rouille                                                                                                  |
-| Rare       | Peu gagner des propriétés d'armes ou armures                                                                          |
-| Très rare  | Fait 2d4 de dégâts supplémentaires en cas de coup critique (type de dégâts dépendant du type de matériau) ou un +1 AC |
-| Légendaire | Inflige 1d6 de dégâts supplémentaires sur les ennemis dont provient le matériau ou un +2 AC                           |
+| Matériau   | Propriété                                                                                                             | Prix des matériaux |
+| ---------- | --------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Commun     | Aucune propriété magique                                                                                              | 50 po              |
+| Peu Commun | Résiste à la rouille                                                                                                  | 200 po             |
+| Rare       | Peu gagner des propriétés d'armes ou armures                                                                          | 2 000 po           |
+| Très rare  | Fait 2d4 de dégâts supplémentaires en cas de coup critique (type de dégâts dépendant du type de matériau) ou un +1 AC | 20 000 po          |
+| Légendaire | Inflige 1d6 de dégâts supplémentaires sur les ennemis dont provient le matériau ou un +2 AC                           | 100 000 po         |
 - **Etape 2** : La forge de la pièce
 Le forgeron choisit un style de forge, définissant la difficulté du jet à effectuer et les effets de celui-ci.
 
@@ -77,12 +77,12 @@ La forge est imprévisible. A chaque étape, le forgeron lance 1D10 pour déterm
 - **Etape 6** : La pierre de puissance 
 La pièce est forgé et il ne reste que la pierre de puissance à ajouter. Le forgeron lance alors un dé 20 et ajoute à ce score son score totale de modificateur de Forge. 
 
-| Résultat | Effet                                                                                                            | Enchantement      |
-| -------- | ---------------------------------------------------------------------------------------------------------------- | ----------------- |
-| 1-5      | Un objet impeccable mais la magie ne l'habite pas                                                                | Impossible        |
-| 6-10     | L'objet ne rouille pas ou ne se tache pas apparaissant toujours propre                                           | Impossible        |
-| 11-15    | L'objet possède le sort de lumière, permettant de l'illuminer pendant 1h                                         | Possible          |
-| 16-18    | L'objet vibre et brille doucement si une créature hostile est à moins de 18m                                     | Possible          |
-| 19-24    | Une fois par long repos, l'objet peut-être chargé d'éclair, infligeant ou protégeant d'1d6 dégâts                | Possible et +1 ME |
-| 25-27    | Les critiques permettent d'infliger 2d6 dégâts supplémentaire ou d'en protéger le porteur au prochain coup subit | Possible et +2 ME |
-| 28+      | L'objet est infusé par un élément, infligeant 1d8 dégât de cette élément ou accordant résistance à cette élément | Possible et +3 ME |
+| Résultat | Effet                                                                                                            | Enchantement      | Rareté nécessaire |
+| -------- | ---------------------------------------------------------------------------------------------------------------- | ----------------- | ----------------- |
+| 1-5      | Un objet impeccable mais la magie ne l'habite pas                                                                | Impossible        | -                 |
+| 6-10     | L'objet ne rouille pas ou ne se tache pas apparaissant toujours propre                                           | Impossible        | -                 |
+| 11-15    | L'objet possède le sort de lumière, permettant de l'illuminer pendant 1h                                         | Possible          | -                 |
+| 16-18    | L'objet vibre et brille doucement si une créature hostile est à moins de 18m                                     | Possible          | -                 |
+| 19-24    | Une fois par long repos, l'objet peut-être chargé d'éclair, infligeant ou protégeant d'1d6 dégâts                | Possible et +1 ME | Rare +            |
+| 25-27    | Les critiques permettent d'infliger 2d6 dégâts supplémentaire ou d'en protéger le porteur au prochain coup subit | Possible et +2 ME | Très rare +       |
+| 28+      | L'objet est infusé par un élément, infligeant 1d8 dégât de cette élément ou accordant résistance à cette élément | Possible et +3 ME | Légendaire        |

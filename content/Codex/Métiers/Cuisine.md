@@ -26,8 +26,15 @@ Permet de créer des petits plats à partir d'ingrédients achetés ou récolter
 La cuisine se découpe en plusieurs étapes, chacune permettant d'accumuler des Modificateur de Cuisine qui améliore le résultat finale.
 
 - **Etape 1** : Le choix des ressources
-Un plat nécessite un nombre fixe de ressources égale à une ressource par portion du plat (une portion donnera un bonus à un aventurier pour une journée complète).
+Un plat donnera un nombre de portions en fonction de la rareté de la resources utilisés (une portion donnera un bonus à un aventurier pour une journée complète).
 
+| Rareté      | Nombre de portions | Coût des Ingrédients |
+| ----------- | ------------------ | -------------------- |
+| Commune     | 1                  | 50 po                |
+| Peu commune | 4                  | 200 po               |
+| Rare        | 8                  | 2 000 po             |
+| Très rare   | 12                 | 20 000 po            |
+| Légendaire  | 15                 | 100 000 po           |
 - **Etape 2** : La préparation des ingrédients
 Le cuisinier choisit un style de préparation, définissant la difficulté du jet et son effet.
 
@@ -70,12 +77,12 @@ La cuisine peut révélé des surprises. A chaque étape, un dé 10 sera lancé,
 - **Etape 6** : La mise en assiette
 Le plat est prêt est doit être mise en assiette pour être dégusté. L'alchimiste lance un dé 20 auquel il ajoute le modificateur de cuisine (MC).
 
-| Résultat | Effet                                                                                                          |
-| -------- | -------------------------------------------------------------------------------------------------------------- |
-| 1-5      | Le plat est cramé, -1 à tout les jets de ceux mangeant leur portion                                            |
-| 6-10     | Le plat est réussi                                                                                             |
-| 11-15    | Le plat est bon, octroyant 5 PV temporaire                                                                     |
-| 16-18    | Le plat est très bon, octroyant 10 PV temporaire                                                               |
-| 19-24    | Le plat est délicieux, octroyant 15 PV temporaire et avantage sur un jet au choix avant le prochain long repos |
-| 25-27    | Le plat est magique, octroyant 20 PV temporaire et avantage sur un type de jet jusqu'au prochain long repos    |
-| 28+      | Le plat est divin, octroyant 25 PV temporaire et avantage à tous les jets jusqu'au prochain long repos         |
+| Résultat | Effet                                                                                                          | Rareté nécessaire |
+| -------- | -------------------------------------------------------------------------------------------------------------- | ----------------- |
+| 1-5      | Le plat est cramé, -1 à tout les jets de ceux mangeant leur portion                                            | -                 |
+| 6-10     | Le plat est réussi                                                                                             | -                 |
+| 11-15    | Le plat est bon, octroyant 5 PV temporaire                                                                     | -                 |
+| 16-18    | Le plat est très bon, octroyant 10 PV temporaire                                                               | -                 |
+| 19-24    | Le plat est délicieux, octroyant 15 PV temporaire et avantage sur un jet au choix avant le prochain long repos | Rare +            |
+| 25-27    | Le plat est magique, octroyant 20 PV temporaire et avantage sur un type de jet jusqu'au prochain long repos    | Très rare +       |
+| 28+      | Le plat est divin, octroyant 25 PV temporaire et avantage à tous les jets jusqu'au prochain long repos         | Légendaire        |

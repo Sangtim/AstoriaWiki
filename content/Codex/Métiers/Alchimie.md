@@ -29,13 +29,13 @@ L'alchimie se découpe en plusieurs étapes, chacune permettant d'accumuler des 
 - **Etape 1** : Le choix des ressources
 Une potion nécessite un nombre de ressources égales à son niveau de rareté. 
 
-| Rareté      | Ingrédients |
-| ----------- | ----------- |
-| Commune     | 1           |
-| Peu commune | 2           |
-| Rare        | 3           |
-| Très rare   | 4           |
-| Légendaire  | 5           |
+| Rareté      | Coût des Ingrédients |
+| ----------- | -------------------- |
+| Commune     | 50 po                |
+| Peu commune | 200 po               |
+| Rare        | 2 000 po             |
+| Très rare   | 20 000 po            |
+| Légendaire  | 100 000 po           |
 - **Etape 2** : La préparation des ingrédients alchimique
 L'alchimiste choisit un style de préparation, définissant la difficulté du jet et son effet.
 

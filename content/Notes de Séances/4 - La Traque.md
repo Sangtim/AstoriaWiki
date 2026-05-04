@@ -29,3 +29,31 @@ Elle n'eut pas le temps d'observer plus que ça qu'une figure surgit de l'ombre 
 Coincé, l'assassin prit alors la décision de fuir, non sans d'abord envoyé un couteau tuant instantanément **Earendil**. Il faillit y réchapper, mais une flèche bien placée de **Cide**, aidé par **Léo**, vint à bout de celui-ci. 
 
 Ils fouillèrent alors les deux morts, récupérant quelques objets magiques tandis que les gardes d'**Ondaile** libéraient leurs ambassadeurs, choqués par leurs aventures, mais indemnes. Ils trouvèrent sur l'assassin une missive lui indiquant un lieu où aller pour récupérer de nouvelles instructions. Ils décidèrent alors de suivre cette piste, laissant au garde d'**Ondaile** le soin de ramener leurs ambassadeurs jusqu'à **Valthorne** et d'expliquer la situation. 
+
+---
+
+### **Séance 28 - La Traque**
+
+Les aventuriers, après leur combat contre l'assassin, quitte alors la grotte et prennent la direction de l'Est, en suivant le chemin forestier.
+
+Leur voyage est ininterrompu, jusqu'à l'arrivée de la nuit et d'une tempête, les obligeant à s'arrêter dans une clairière à proximité d'un ruisseau pour y poser leur campement. **Cide** posa des pièges pour protéger le camp pendant que **Dash** ramassait du petit bois pour faire un feu et quelques fruits comestibles, **Léo** s'occupa d'installer des tentes de fortunes et **Cain** se créa une cabane en argile, les autres aventuriers doutant cependant fortement de sa solidité.
+
+Après un repas copieux pour compenser le manque du déjeuner, les aventuriers prirent leur tour de garde tour à tour et profitèrent d'un repos bien mérité. 
+
+**Cain** pris le premier tour de garde et subit la majorité de la tempête, le trempant totalement. Il aperçut pendant son tour de garde une lumière vacillante traverser la route, sans doute un cavalier avec une torche. 
+
+**Léo** pris le second tour, trouvant un meilleur endroit pour se poser à l'abri de la pluie et pu entendre un bourdonnement mélodieux venant de la vallée voisine, se notant d'y faire un tour pendant leur voyage.
+
+**Cide** et **Dash** prirent les deux derniers tours de garde, sans événements importants, **Cide** parvenant tout de même à utiliser les étoiles visibles pour définir précisément leur orientation.
+
+Ils repartirent après le petit-déjeuner et voyagèrent jusqu'à la vallée voisine où ils s'enfoncèrent dans la forêt, cherchant la source du vrombissement entendu la veille par **Léo**. Ils trouvèrent alors une pierre runique, symbole druidique et chargé d'essence de la Nature, vestige d'un temps avant la Guerre Divine.
+
+Après avoir résolu l'énigme de la pierre, à savoir produire différentes fréquences de bruit, les aventuriers furent pris par une vision, perdant la totalité de leur sens hormis l'ouïe, avec laquelle ils entendent les bruits d'armée en marche. Puis la vision revint, voyant un point lumineux parcourir l'espace noir devant eux, dessinant ainsi la carte du continent avec en surbrillance les zones les plus dangereuses et propices au conflit. 
+
+Si ces zones étaient majoritairement des frontières avec des conflits connus, la cité d'**Ondaile** est particulièrement brillante et, une fois la vision terminée, les aventuriers supposèrent alors qu'une attaque pourrait se préparer sur **Ondaile** depuis les **Tréfonds Obscurs**.
+
+Ils repartirent ensuite, reprenant la route, esquivant une patrouille de cavaliers au passage jusqu'à arriver à un petit village du nom de **Vallentia**. **Léo**, déguisé, partit en reconnaissance pour récupérer des informations et acheta des tentes au passage avec de retrouver ses compagnons et de continuer sa route.
+
+Ils voyagèrent alors tout le reste de la journée pour arriver dans une zone très vallonnée, passant devant de multiples entrées de mines abandonnées, s'arrêtant dans l'une d'elles pour y passer la nuit.
+
+Le lendemain, ils reprirent la route jusqu'à un camp minier abandonné au pied d'une falaise creusé à flanc de colline. En s'aventurant discrètement dans le camp, ils entendirent les bruits de quatre créatures à l'entrée de la mine. **Dash** s'approchant à découvert, elle vit 4 duergars en armure, ceux-ci l'attaquant sur le champ !
