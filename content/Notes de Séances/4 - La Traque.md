@@ -57,3 +57,26 @@ Ils repartirent ensuite, reprenant la route, esquivant une patrouille de cavalie
 Ils voyagèrent alors tout le reste de la journée pour arriver dans une zone très vallonnée, passant devant de multiples entrées de mines abandonnées, s'arrêtant dans l'une d'elles pour y passer la nuit.
 
 Le lendemain, ils reprirent la route jusqu'à un camp minier abandonné au pied d'une falaise creusé à flanc de colline. En s'aventurant discrètement dans le camp, ils entendirent les bruits de quatre créatures à l'entrée de la mine. **Dash** s'approchant à découvert, elle vit 4 duergars en armure, ceux-ci l'attaquant sur le champ !
+
+---
+
+### **Séance 29 - Les Tréfonds Obscurs**
+
+**Dash** sortant à découvert, les 4 duergars protégeant l'entrée de la mine l'attaque sur-le-champs, forçant **Cain**, **Cide** et **Léo** de rentrer dans le combat. 
+
+Après un combat difficile à proximité d'une rivière, les aventuriers parviennent à prendre le dessus et les quatre duergars sont tués. **Dash** et **Cain** fouillent alors les cadavres, trouvant plusieurs documents, de l'or et une boîte en bois, tandis que **Cide** et **Léo** rentrent dans la grotte pour vérifier qu'aucun renfort n'est en chemin.
+
+S'étant assuré de la sécurité provisoire du lieu, le groupe se rassemble pour observer le butin. Dans les documents récupérés, se trouve un croquis représentant le visage de l'assassin tué par le groupe il y a quelques jours et une liste d'instruction, demandant à ce que ce même assassin soit dirigé vers la cité drow de **Dunspeirinn**. La boîte en bois devait lui être donné. Dans celle-ci, se tiennent une clé ainsi qu'un parchemin marqué du sceau de la Maison Drow **Vesper** autorisant l'accès à son porteur à des quartiers interdits.
+
+Les aventuriers cherchent alors les quartiers des duergars pour s'y reposer et de décider du chemin à prendre. Ils échangent via le parchemin avec **Sable** et **Caleb**. Les deux font part de leur inquiétude concernant l'implication des Tréfonds Obscurs dans les machinations globales du continent et demandent plus d'informations, pressant cependant les aventuriers à la prudence.
+
+Les aventuriers se rendent compte aussi que **Sable Vesper** pourrait être un ancien membre de la Maison contrôlant **Dunspeirinn**. Ils choisissent alors de se rendre sur place pour en savoir plus. 
+
+Après un long repos bien mérité pendant lequel **Cain** lie une amitié avec des loups, le groupe se dirige vers un ascenseur, installé plus profondément dans le réseau de cavernes et permettant de descendre dans les Tréfonds Obscurs.
+
+Après une longue et lente descente en ascenseur, le groupe foule pour la première fois le sol des Tréfonds Obscurs, réseau de cavernes humide où coulent de nombreuses rivières et où poussent de nombreux champignons. Les Tréfonds étant le foyer de multiples créatures dangereuses, ils souhaitent en savoir plus sur leur destination et attendent donc un gnome des profondeurs tirant un chariot de marchandises qu'ils ont vu arriver depuis l'ascenseur.
+
+Ils font ainsi connaissance avec **Andvariu**, transporteur et marchand se rendant à **Dunspeirinn** pour y vendre sa marchandise et profiter des derniers jours de la **Semaine du Dévoreur**, festival horrifique ayant lieu dans la ville chaque année. 
+En discutant avec le marchand tout en faisant route avec lui, les aventuriers en apprennent plus sur les mœurs et rumeurs des Tréfonds, apprenant que pour la première fois depuis mémoire de mortel, les Tréfonds sont actuellement en paix depuis plus de 2 mois. 
+
+Après une demi-journée de route, les aventuriers arrivent en vue de la ville, gardée étroitement par de nombreuses patrouilles et avec ce qui semble être un camp militaire à proximité direct. 
