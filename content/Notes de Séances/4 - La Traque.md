@@ -79,4 +79,33 @@ Après une longue et lente descente en ascenseur, le groupe foule pour la premi�
 Ils font ainsi connaissance avec **Andvariu**, transporteur et marchand se rendant à **Dunspeirinn** pour y vendre sa marchandise et profiter des derniers jours de la **Semaine du Dévoreur**, festival horrifique ayant lieu dans la ville chaque année. 
 En discutant avec le marchand tout en faisant route avec lui, les aventuriers en apprennent plus sur les mœurs et rumeurs des Tréfonds, apprenant que pour la première fois depuis mémoire de mortel, les Tréfonds sont actuellement en paix depuis plus de 2 mois. 
 
-Après une demi-journée de route, les aventuriers arrivent en vue de la ville, gardée étroitement par de nombreuses patrouilles et avec ce qui semble être un camp militaire à proximité direct. 
+Après une demi-journée de route, les aventuriers arrivent en vue de la ville, gardée étroitement par de nombreuses patrouilles et avec ce qui semble être un camp militaire à proximité direct.
+
+---
+
+### **Séance 30 - Dunspeirinn**
+
+Les aventuriers, postés en surplomb de la ville de **Dunspeirinn**, discute encore quelques minutes avec le marchand **Andvariu** avant que celui-ci ne les quitte pour partir vers la ville. 
+
+Les aventuriers partent ensuite eux-mêmes vers la ville, observant un nombre important de patrouilles et de postes de garde sur la route, avec même plusieurs driders observés.
+
+À l'arrivée aux portes de la ville, les aventuriers se trouvent coincés dans une file d'attente dans laquelle **Dash** discute avec quelques mercenaires attendant aussi, donnant même une pièce à l'un deux en échange de quelques informations.
+
+Une fois la sécurité passée, les aventuriers entrent dans la ville et profitent d'être dans le quartier du **Venin Sombre**, quartier marchand de la ville pour faire des emplettes.
+
+Alors que le groupe achète quelques brochettes de viande marinées délicieuses, ils furent accostés par un mendiant, repoussé immédiatement par un coup de pied bien placé de la part de **Cain**. 
+
+**Léo** et **Cide** acquirent des capes leur permettant d'être plus discret, **Dash** plusieurs caisses de champignons explosifs, **Cain** des ingrédients de cuisine. 
+
+**Cide**, achetant quelques ingrédients alchimiques, discuta avec le vendeur pour en apprendre plus sur le poison utilisé par l'assassin. Ce poison est identifié comme les **Larmes de Minuit**, un poison mortel très cher. Il échangea une fiole du poison en échange de la recette. 
+Il acheta aussi en parallèle une deuxième recette de poison, celui de la **Teinture Pâle**.
+
+Ces dépenses importantes attirèrent l'attention de nombreuses personnes, jaugeant leur niveau de dangerosité pour essayer de profiter eux-mêmes de leurs richesses.
+
+Une fois leurs emplettes terminées, **Léo** continua à chercher pour trouver des partitions de musiques des Tréfonds Obscurs. En cherchant, ils trouvèrent un vieux drow aveugle dans un recoin vendant quelques instruments et partitions. **Léo** acheta ces partitions et en joua même une directement sur place, tirant une larme au vieil homme. 
+
+Celui-ci n'est cependant pas le seul à écouter la barde et la rue est sortie de cette torpeur musicale par un lent applaudissement. En se retournant, ils peuvent voir une drow richement habillé, gardé par une escorte de soldats d'élites drows. Celle-ci est identifiée par l'aveugle en tant que **Iiva Freneld**, Matriarche de la Maison Mineure Freneld.
+
+Celle-ci, appréciant la performance de **Léo**, l'invita à se représenter à la Taverne de l'Araignée Noire, le lendemain à 18h pétante. 
+
+Après cette rencontre inattendue, les aventuriers se rendent dans le **Faubourg des Lames Noires**, quartier réservé au surfaciens où ils trouvèrent la Taverne du **Rat Jonglant** où ils passèrent la nuit.
