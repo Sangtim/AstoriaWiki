@@ -109,3 +109,31 @@ Celui-ci n'est cependant pas le seul à écouter la barde et la rue est sortie d
 Celle-ci, appréciant la performance de **Léo**, l'invita à se représenter à la Taverne de l'Araignée Noire, le lendemain à 18h pétante. 
 
 Après cette rencontre inattendue, les aventuriers se rendent dans le **Faubourg des Lames Noires**, quartier réservé au surfaciens où ils trouvèrent la Taverne du **Rat Jonglant** où ils passèrent la nuit.
+
+---
+
+### **Séance 31 - Le Favori**
+
+Au réveil, le groupe prend son petit-déjeuner avant de se séparer en deux. **Cain** et **Dash** partent à la recherche d'information, faisant la connaissance de **Trix Fujii**, une elfe receleuse d'informations qui leur apprend que **Nerys** a été aperçu entrant dans la Spire de la ville il y a 2 jours. Elle leur donne aussi des informations sur des vendeurs d'artefacts magiques.
+
+**Cide** et **Léo** retourne voir **Imonim Barriervs**, le marchand de tissu qui leur avait vendu leur cape la veille pour acheter une nouvelle tenue pour la représentation de **Léo** dans la soirée.
+
+Le groupe se retrouve une fois **Léo** parée de cette nouvelle tenue et font un tour dans le quartier du **Noyau de l'Ombre** pour y trouver la boutique de la **Toile Ethérée**, possédé par un certain **Driznar Noqutyl**. Après avoir fait quelques emplettes, les aventuriers repartant avec 4 nouveaux objets magiques, **Léo** part répéter pour la soirée tandis que les trois autres vont à l'Arène pour observer quelques épreuves de la Semaine du Dévoreur.
+
+Ils assistent ainsi à deux épreuves, une où des Matriarches drows déchus de différentes villes s'affrontent pour la survie de leurs Maisons et une autre où des mages drows s'attaquent à coup d'illusions.
+
+Pendant ces épreuves, ils font plusieurs découvertes, une étant que des invités d'autres villes sont présents, à nouveau du jamais-vu dans les Tréfonds, et l'autre et qu'un des participants du combat d'illusions semblent avoir fait une reconnaissance à la surface il y a peu.
+
+À la fin des épreuves, les aventuriers se retrouvent avant de rejoindre l'auberge pour se préparer pour la soirée. **Dash** récupéra ainsi les champignons achetés par les mercenaires qu'elle avait engagé la veille et elle décida de fabriquer de la poudre et quelques grenades à partir d'une partie des champignons explosifs.
+
+Une fois le groupe prêt, les aventuriers retournèrent dans le quartier du **Noyau de l'Ombre** pour rejoindre la Taverne de l'**Araignée Noire** pour la représentation de **Léo**.
+
+Alors que **Léo** se prépare dans les coulisses, les trois autres sont installés à une table cachée du reste de la salle, mais qui leur permet d'observer ce qu'il s'y passe. Ils aperçoivent alors la Matriarche **Iiva Freneld** s'approcher et prendre place sur la meilleure table, accompagnée de deux Drows masculins d'une beauté saisissante. Chose à noter, la Matriarche et les deux Drows semblent parler sur un pied d'égalité, et les aventuriers supposent alors que ceux-ci sont les Consorts d'une Matriarche plus puissante. 
+
+**Léo** monte alors sur scène et se produit devant l'assemblée, parlant de sa vie, ses pertes et de ses peurs pour le futur dans une mélodie envoûtante et d'une grande tristesse. Elle ne laissa pas la foule insensible et de nombreux membres de l'assemblée furent happer dans la représentation, en faisant le clou du spectacle de la soirée. Après cette magnifique représentation, **Léo** rejoint ses compères et est accosté à table par un des deux drows, un qui semblait la regarder avec intérêt à la fin de sa musique.
+
+Celui-ci est vraisemblablement un maître des illusions vu que les aventuriers peuvent le voir leur parler alors même qu'une copie conforme discute avec la Matriarche au même moment. Celui-ci se présente sous le nom de **Rinnor Quavith**, consort favori de la Matriarche **Prae'anelle Duskryn** de la ville de **Blingdenroche**. Il souhaite faire appel à la troupe pour l'aider à s'enfuir, leur apprenant qu'il est dans la ville en gage de confiance dans l'Alliance entre les trois plus grandes villes Drows des Tréfonds.
+
+Il est prêt à fournir de multiples informations en échange de sa liberté. Les aventuriers discutent avec lui pour définir un plan d'action, se promettant de se retrouver le lendemain à proximité de l'arène juste avant la **Procession des Affamés** marquant la fin du festival. 
+
+Une fois cette discussion terminée et la soirée touchant à sa fin, les aventuriers repartent vers leur auberge, **Léo** récupérant cependant avant le collier de la Matriarche en guise de récompense, un bijou de très haute qualité valant plusieurs centaines de pièces d'or.
