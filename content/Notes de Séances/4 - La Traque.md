@@ -137,3 +137,31 @@ Celui-ci est vraisemblablement un maître des illusions vu que les aventuriers p
 Il est prêt à fournir de multiples informations en échange de sa liberté. Les aventuriers discutent avec lui pour définir un plan d'action, se promettant de se retrouver le lendemain à proximité de l'arène juste avant la **Procession des Affamés** marquant la fin du festival. 
 
 Une fois cette discussion terminée et la soirée touchant à sa fin, les aventuriers repartent vers leur auberge, **Léo** récupérant cependant avant le collier de la Matriarche en guise de récompense, un bijou de très haute qualité valant plusieurs centaines de pièces d'or.
+
+---
+
+### **Séance 32 - L'échapée**
+
+Les aventuriers se réveillent le matin à l'auberge du **Rat Jonglant** pour découvrir que **Gontrant** les a rejoints pour les aider à sortir de la ville. 
+
+Les aventuriers discutent un peu avant d'être contactés par **Rinnor** qui leur partage de nombreuses informations sur la **Procession**, changeant les plans d'échappée des aventuriers. Les aventuriers vont désormais devoir s'infiltrer dans le cortège pour sortir de la ville qui est fermée, le tout sans attirer l'attention des potentiellement trois Matriarches présentes à cet événement.
+
+Le groupe se sépare alors en deux : un groupe composé de **Gontrant** et **Léo** qui part acheter les déguisements nécessaires pour entrer dans la parade, retrouvant ainsi le vendeur de tissu **Imonim Barriervs** qui leur fait payer les vêtements avec un fort surplus pour compenser la publicité oubliée par **Léo** lors de la représentation de la veille.
+
+Un deuxième groupe, composé de **Dash**, **Cain** et **Cide** se dirige vers l'arène pour se procurer le cadavre d'un Drow. En faisant le tour du bâtiment, ils observent les allées et venues de groupes d'esclaves tirant des chariots pour récupérer les morts de l'arène et les emmener dans le **Quartier des Bêtes** pour qu'ils servent de repas. 
+
+Profitant qu'un de ces convois parte à l'instant avec plusieurs cadavres de mages Drows, dont deux correspondant au profil recherché, les aventuriers le suivent, cherchant à subtiliser discrètement l'un de ces cadavres. **Dash** et **Cain** surgissent dans une petite ruelle, bloquent le passage du chariot et font diversion tandis que **Cide**, sous potion d'invisibilité, s'empare du cadavre le moins abîmé.
+
+À la surprise du voleur, le cadavre n'en était pas un, et le drow redressa la tête avec un air d'étonnement lorsqu'il commença à le tirer par les pieds. **Cide** changea donc de plan et récupéra le deuxième cadavre, plus amoché, le faisant disparaître dans son sac sans fond. Le Drow survivant profita de l'arrêt du chariot pour descendre de celui-ci et se cacher derrière une caisse.
+
+Le chariot repris alors sa route et **Dash** et **Cain** purent observer le drow les regardant. Commençant à s'avancer vers lui, **Cide** enleva son invisibilité et fit signe au Drow de se taire. Le groupe discuta avec celui-ci, tentant de signer un accord de silence autour des événements récents. Le Drow sembla accepter, mais son air calculateur ne plaît pas au groupe et **Cide** profita de son inattention pour lui verser la moitié de la fiole de poison puissant qu'il possédait dans la gorge, renversant l'autre moitié sur son visage, tuant le Drow dans d'atroces souffrances. Ils récupérèrent alors ce cadavre, l'échangeant avec l'autre qu'ils laissèrent dans un coin sombre de la rue. 
+
+Ils rejoignent ensuite leurs compagnons, ceux-ci les attendant à l'auberge après avoir visité un peu les quartiers accessibles de la ville.
+
+Une fois au complet, les aventuriers vaquent à leurs occupations en attendant l'heure de la **Procession**. **Dash** tenta de faire des grenades, n'y parvenant pas, encore choqué de la mort atroce du Drow, **Cide** termina son Ocarina, **Léo** se représenta dans le quartier marchand pour réduire le nombre de client du marchand de tissu et **Cain** se saoula à la bière naine, voyant dans son coma éthylique le visage de sa mère et de son père, une guerrière orque et un inventeur nain. 
+
+L'heure de la **Procession des Affamés** approchant, les aventuriers se rendirent à proximité de la rue principale pour rejoindre le cortège. Une fois dans celui-ci, ils le suivirent jusqu'à sortir de la ville, où **Rinnor** les contacta pour qu'ils le rejoignent, cachés derrière un amas rocheux en bordure de cortège. **Cide** et **Léo** le rejoignirent et lui donnèrent le corps avant d'être interrompu par **Nilokoph**, Favori de la deuxième Matriarche, qui avait vu **Rinnor** quitter le cortège et qui voulait aussi faire partie du plan de fuite.
+
+Accompagnés de cette surprise non souhaitée, les aventuriers réussirent à quitter la zone, esquivant habilement de nombreuses patrouilles de gardes. Une fois suffisamment loin de la ville et du camp militaire, le groupe put reprendre sa marche plus tranquillement, discutant et échangeant des informations sur l'attaque qui va avoir lieu sur la surface.
+
+C'est à ce moment qu'un Manteleur fondit sur eux, le groupe triomphant de celui-ci après un combat difficile, en partie grâce à des actions héroïques de **Cain** et **Gontrant**, ceux-ci escaladant la paroi rocheuse avant de sauter sur le monstre volant pour l'abattre. 
