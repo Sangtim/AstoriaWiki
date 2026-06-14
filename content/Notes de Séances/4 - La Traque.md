@@ -165,3 +165,39 @@ L'heure de la **Procession des Affamés** approchant, les aventuriers se rendire
 Accompagnés de cette surprise non souhaitée, les aventuriers réussirent à quitter la zone, esquivant habilement de nombreuses patrouilles de gardes. Une fois suffisamment loin de la ville et du camp militaire, le groupe put reprendre sa marche plus tranquillement, discutant et échangeant des informations sur l'attaque qui va avoir lieu sur la surface.
 
 C'est à ce moment qu'un Manteleur fondit sur eux, le groupe triomphant de celui-ci après un combat difficile, en partie grâce à des actions héroïques de **Cain** et **Gontrant**, ceux-ci escaladant la paroi rocheuse avant de sauter sur le monstre volant pour l'abattre. 
+
+---
+
+### **Séance 33 - La route de Slum**
+
+Après avoir dépecé le monstre et récupéré des matériaux utilisables, les aventuriers reprennent leur route avant d'être interrompus, au bout de quelques minutes, par l'apparition d'un orbe ressemblant à un œil au milieu du groupe, que seule **Dash** arriva à percevoir. 
+
+Comprenant qu'ils sont observés et donc repérés, le groupe se lance alors dans une course effrénée en direction de **Slum**, décidant de prendre un raccourci dans un terrain escarpé proposé par **Nilokoph**. En prenant ce chemin, ils aperçoivent plusieurs obstacles les séparant de leur objectif et décident de prendre le chemin leur semblant le plus sécurisé.
+
+Ils arrivèrent cependant rapidement devant une falaise d'une trentaine de mètres qu'ils doivent escalader. **Dash** passa par-dessus grâce à son hoverboard, utilisant les dernières charges de celui-ci et installa une corde pour aider les autres. 
+
+**Cain** décida de faire appel à ses compétences naines pour grimper sans aide, réussissant à grimper une quinzaine de mètres avant de glisser et de retomber tout en bas, manquant de peu de mourir dans la chute. 
+
+Le groupe repris alors l'ascension avec prudence et tous parvinrent à monter jusqu'au tour de **Cide**, celui-ci devant surveiller l'ascension de **Cain** pour l'aider, mais qui fut finalement sauvé par celui-ci lorsque son inattention lui fit perdre l'équilibre. **Cain** le rattrapa alors par le col et le propulsa jusqu'en haut de la falaise avant de finir lui-même l'ascension.
+
+Le groupe au complet en haut reprit son chemin, arrivant après quelques kilomètres de marche devant un grand canyon d'une quinzaine de mètres de large et dont le fond est imperceptible. **Léo** fit appel au côté sombre de ses pouvoirs d'aasimar pour invoquer ses ailes et traverser le canyon, attaché à une corde tenu par **Dash** et **Cide** et aidé dans son envol par **Cain** qui l'envoya sur la moitié du trajet tel un lanceur de poids. 
+
+Finissant le reste du trajet en vol, elle attacha la corde et **Cain** sauta directement dessus, glissant dessus tel une Tyrolienne avec sa ceinture en guise de poulie. Bien que réussissant la traversée, le cuir de la ceinture mis le feu par friction à la corde qui se sectionna après son passage. 
+
+**Cide** renvoya avec une flèche une deuxième corde et entreprit la traversée en funambule sur la corde tirée, glissant à la toute fin, mais parvenant à se rattraper à la corde et à se propulser jusqu'au rebord. 
+
+**Nilokoph** passa sans trop de soucis, mais **Rinnor** ne traversa que la moitié du chemin avant de glisser, encore fatigué de l'escalade quelques heures plus tôt. Il utilisa son sort de téléportation pour essayer de rejoindre le rebord, ratant et s'écrasant contre la falaise avant de tomber, rattraper cependant par **Léo** et **Cain**.
+
+**Dash** termina la traversée aussi avant de couper la corde, empêchant d'éventuels poursuivants d'utiliser la même méthode.
+
+Ils arrivèrent ensuite, après de nouveaux kilomètres de marche, dans une forêt dense de champignons multicolores. À peine arrivé, ils entendirent, venant d'un côté, le bruit de pattes de la cavalerie de **Dunspeirinn** et plongèrent sur le côté dans un terrier abandonné. Ils réussirent à esquiver ainsi la patrouille, ceux-ci ne semblant pas être très vigilant.
+
+Reprenant leur chemin, le manque de vigilance de la patrouille se fit comprendre alors que **Léo**, **Cain** et **Cide** furent pris par les vapeurs hallucinogènes des spores des champignons de la forêt. **Cide** plus particulièrement eu une discussion avec la déesse **Lolth** sous l'effet de ces champignons, celle-ci lui demandant de tuer **Nilokoph** en échange de pouvoir puissant. 
+
+Se réveillant de sa transe, il ne put se retenir et attaqua **Nilokoph** avec une dague, lui tranchant la carotide. **Dash** maîtrisa **Cide** alors que **Léo** et **Cain**, sortant de leur torpeur, arrivèrent à stabiliser et à soigner **Nilokoph**, lui sauvant la vie. 
+
+Le groupe repartit ensuite, plus prudent que jamais, mais avec un niveau de fatigue élevé les obligeant à bivouaquer avant d'arriver à **Slum**. Ils trouvèrent une petite cabane abandonnée à proximité d'une mare d'eau fraîche qui semblait parfaite, avant de découvrir que la cabane était habitée par un duergar en décomposition et possédé par une araignée parasite. 
+
+Après un combat où **Cain**, affaibli par les événements de la journée, tomba au sol et fut sauvé par **Léo**. Ils purent alors nettoyer rapidement la cabane et y passer une nuit bien mérités avant de reprendre leur chemin.
+
+Ils trouvèrent un passage sous un champignon les emmenant devant un wagon et des rails qu'ils prirent pour arriver, après 4h de route, à **Slum**, ville construite aléatoirement sur les flancs de la grotte, le toit de celle-ci percé et permettant d'apercevoir le soleil. 
