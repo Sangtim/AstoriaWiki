@@ -201,3 +201,37 @@ Le groupe repartit ensuite, plus prudent que jamais, mais avec un niveau de fati
 Après un combat où **Cain**, affaibli par les événements de la journée, tomba au sol et fut sauvé par **Léo**. Ils purent alors nettoyer rapidement la cabane et y passer une nuit bien mérités avant de reprendre leur chemin.
 
 Ils trouvèrent un passage sous un champignon les emmenant devant un wagon et des rails qu'ils prirent pour arriver, après 4h de route, à **Slum**, ville construite aléatoirement sur les flancs de la grotte, le toit de celle-ci percé et permettant d'apercevoir le soleil. 
+
+---
+
+### **Séance 34 - Slum**
+
+Arrivés dans la ville de **Slum**, le groupe se dirige vers une taverne où **Rinnor** doit retrouver son contact. Celle-ci arrive avec fracas, se révélant être la mère de **Rinnor**, **Chareyl**. Celle dernière leur donne des informations sur les différents chemins de fer qu'ils peuvent prendre pour se rendre à **Ondaile**, **Edarion** ou **Valdoria**.
+
+Se séparant après avoir défait le pacte de sang, **Léo** remarque qu'ils sont observés et interpelle l'observateur, un jeune adolescent du nom d'**Elias**. Celui-ci les guide, contre paiement, jusqu'au QG de sa guilde pour y récupérer des informations. 
+
+En chemin, **Cide** observe la répartition des pouvoirs de la ville, séparée entre deux camps distincts, le plus faible étant celui vers lequel ils se dirigent. 
+
+Arrivant au QG, ils font la rencontre de **Yui Ginger**, cheffe de la bande du **Masque Eclaté**, un des deux groupes majeurs de la ville. Ceux-ci sont en grande difficulté face à leur concurrent, les **Crocs Pâles**, vu qu'ils sont affiliés au **Syndicat** et ont été fortement renforcés en termes d'effectifs, de moyens et d'artefacts depuis l'alliance entre le **Syndicat** et le **Voile**.
+
+**Yui** propose alors un marché aux aventuriers, leur offrant des informations sur le **Voile** en échange d'une aide pour inverser la séparation des pouvoirs dans la ville, en désignant quatre cibles à abattre : les 4 chefs des **Crocs Pâles**.
+- **Varok** : Chef de guerre et maître des duels
+- **Kazren** : Pillard et maître des raids
+- **Sylva** : Stratège et assassine du clan
+- **Veyra** : Shaman et guide spirituelle
+
+En analysant les forces et faiblesses de chacun d'après les informations fournies par **Yui**, les aventuriers se préparent à les affronter.
+**Varok** et **Veyra** semblent les plus accessibles : le premier s'occupe des recrutements et affronte régulièrement des candidats, tandis que la deuxième aime s'isoler avec ses loups dans la forêt au fond de la crevasse.
+**Kazren** semble sortir de sa cachette uniquement lors de vol de cargaison de grande valeur.
+
+**Dash** prépare donc un traqueur qu'il mit sur le collier de **Léo** pendant que **Yui** se chargeait de faire circuler la rumeur de l'existence du collier. **Cide** et **Cain**, préparèrent de la viande empoisonnée pour tuer un maximum de loup et diminuer les forces de **Veyra**.
+
+Après une nuit de sommeil, les aventuriers se dirigèrent vers leur première cible, **Varok**, **Cide**, **Cain** et **Léo** participèrent au processus de recrutement, à savoir un tournoi dans l'arène tandis que **Dash** se perchait dans les gradins pour observer la scène.
+
+Ils sont 18 à participer ce matin-là : les trois aventuriers et 15 habitants de la ville dont deux qui semble assez redoutable. Après de multiples duels épuisant petit à petit les aventuriers, **Cain** se retrouva contre **Cide** et envoya celui-ci dans les gradins, ce dernier jouant la comédie pour se faire passer pour mort. 
+
+**Cain**, **Léo** et un dernier habitant fort de la ville se retrouvèrent alors en finale, **Cain** affronta **Léo**, qui lui mit discrètement des buffs avant d'elle aussi faire croire à sa défaite. Un dernier rapide combat vit la victoire de **Cain**, non sans peine, celui-ci ayant subi de multiples blessures pendant le combat. 
+
+**Varok**, ayant observé les machinations du groupe d'en haut, descend dans l'arène pour affronter **Cain**. Après un combat difficile, **Cain** manquant de peu d'y passer, il réussit à prendre le dessus et à tuer **Varok**, sans que les autres membres du groupe n'aient à intervenir. 
+
+Un garde fit alors signer un papier à **Cain** avant de partir, traînant le corps sans vie de leur chef derrière eux. 
