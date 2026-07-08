@@ -235,3 +235,23 @@ Ils sont 18 à participer ce matin-là : les trois aventuriers et 15 habitants d
 **Varok**, ayant observé les machinations du groupe d'en haut, descend dans l'arène pour affronter **Cain**. Après un combat difficile, **Cain** manquant de peu d'y passer, il réussit à prendre le dessus et à tuer **Varok**, sans que les autres membres du groupe n'aient à intervenir. 
 
 Un garde fit alors signer un papier à **Cain** avant de partir, traînant le corps sans vie de leur chef derrière eux. 
+
+### **Séance 35 - La mère des Loups**
+
+Le groupe retourne au QG du **Masque Eclaté** pour se reposer un peu. Après avoir mangé un bout et fait une pause, ils repartent, guidés par **Elias**, vers la forêt au fond de la crevasse. 
+
+Ils prennent des chemins détournés pour arriver à leur destination discrètement et, après quelques dizaines de minutes de marche, ils quittent les derniers niveaux de la ville pour arriver sur un chemin rocheux s'enfonçant dans la forêt. 
+
+Certains des aventuriers se sentent observés, et des cris de loups s'élèvent de la forêt. Se rendant compte de la taille de celle-ci, les aventuriers décident de s'aventurer plus loin dans la forêt pour déposer la viande empoisonnée.
+
+Alors qu'ils s'enfoncent sous les arbres, ils tombent dans une embuscade, avec une flèche dirigée vers **Dash** se dévie pour frapper **Cain** et deux loups sortent des profondeurs pour attaquer le groupe.
+
+Ceux-ci lancent la viande empoisonnée vers les loups qui tombent dans le piège, subissant de gros dégâts. **Sylva** utilisa alors des tactiques de guérilla, attaquant puis disparaissant dans la forêt. **Dash** manqua de se faire avoir instantanément par un sort de la druidesse, survivant de peu et se réfugiant derrière son lance-flammes qu'il commença à utiliser, brûlant progressivement la forêt.
+
+Alors que le groupe peine à se débarrasser des loups, **Sylva** appelle à son aide un ours-hibou, celui-ci surgissant de la forêt.
+
+Au prix d'encore plusieurs minutes de combat où **Dash** et **Cain** manquèrent à plusieurs reprises de tomber au sol, ils réussirent à vaincre la druidesse, récupérant son corps avant de courir vers la sortie alors que le feu de forêt se propage de manière incontrôlée.
+
+Le groupe, arrivant à l'orée de la forêt, s'arrête un instant pour récupérer la corde de **Sylva** avant d'abandonner le corps et de repartir en ville, mettant **Cain** sous potion d'invisibilité pour éviter de détruire sa couverture. 
+
+De retour au QG, ils peuvent enfin se poser pour la nuit, faisant leur rapport à **Yui** mais finissant la journée avec 2 des 4 cibles assassinées. 
