@@ -255,3 +255,31 @@ Au prix d'encore plusieurs minutes de combat où **Dash** et **Cain** manquèren
 Le groupe, arrivant à l'orée de la forêt, s'arrête un instant pour récupérer la corde de **Sylva** avant d'abandonner le corps et de repartir en ville, mettant **Cain** sous potion d'invisibilité pour éviter de détruire sa couverture. 
 
 De retour au QG, ils peuvent enfin se poser pour la nuit, faisant leur rapport à **Yui** mais finissant la journée avec 2 des 4 cibles assassinées. 
+
+### **Séance 36 - L'assaut de Slum**
+
+Après une nuit de repos, les aventuriers se réveillent le lendemain alors que la guilde est en pleine effervescence. Ils descendent dans la salle commune pour voir un grand nombre de personnes réunies et discutant fortement avant que **Yui** ne ramène le calme, déclarant la mort des deux Capitaines des **Crocs Pâles** et leur retrait défensif de nombreuses parties de la ville. 
+
+**Yui** ordonne alors l'assaut de **Slum**, visant à débarrasser la ville de l'influence du **Syndicat**. De nombreux groupes sont formés et des plans sont mis en place pour attaquer les différentes positions à tous les niveaux de la ville et reprendre le contrôle de celle-ci. 
+
+Les aventuriers sont invités à participer de la manière de leur choix aux hostilités. Ils commencent d'abord par se séparer en deux groupes, **Cide** et **Dash** restant au QG pour fabriquer des potions de soins et des grenades tandis que **Léo** et **Cain**, accompagnés d'**Elias**, se rendent à la taverne rejoindre **Rinor** et ainsi récupérer son oreillette de communication. 
+
+En se rendant sur place, **Léo** décide de tendre un piège aux forces ennemies, en se pavanant avec son collier dans les rues, à distance de **Cain** et d'**Elias**. Sa machination fut très réussie et attira quatre bandits qui la détroussèrent de sa bourse et de son collier. Cependant, voulant aussi son sac sans fond, sa cuirasse et son épée, **Léo** décida de fuir sans les leur donner, prenant de nombreux coups au passage et manquant de ne pas y arriver sans l'aide de **Cain** qui subtilisa au passage son sac sans fond, l'utilisant pour gagner la confiance des brigands. 
+
+Rejoignant **Léo** après le départ des bandits, ils récupèrent l'oreillette avant de rejoindre leurs compagnons et de se préparer à l'assaut, remarquant déjà des signes de combats au passage. 
+
+**Cain** ayant gagné la confiance des bandits et ayant déjà prouvé sa valeur dans l'arène, estime qu'il peut entrer facilement dans le QG adverse. Il part donc du QG du **Masque Eclaté** au niveau 6 de la face Nord de la crevasse pour rejoindre le QG des **Crocs Pâles** au niveau 6 de la face Sud, utilisant les passerelles du niveau 5 pour cela.
+
+Les trois autres devant être plus discrets, ils descendent jusqu'au niveau 3 avant de traverser sur l'autre face et de remonter discrètement, pour rejoindre **Cain** au niveau 6 alors qu'il s'apprête à rentrer dans le bâtiment du Syndicat. La traversée de la ville, jusque-là, ne fut pas de tout repos, les combats ayant englouti la ville dans le chaos, le sang et le poison. 
+
+La situation tendue joua cependant en la faveur de **Cain** qui se vit immédiatement confié une dizaine de guerriers et la tâche de sécuriser le niveau 5 en proie au combat. Il s'y rendit et distribua ses troupes de manières à ce qu'elles se fassent massacrer par leurs adversaires. 
+
+Pendant ce temps, **Léo**, **Dash** et **Cide** observaient les allées et venues dans le QG du niveau 6 depuis un toit en bordure de la place centrale. **Dash** et **Cide**, repérant un laboratoire alchimique semblant fournir poison et potion aux troupes du **Syndicat** décidèrent de le détruire en le faisant tomber dans le vide, celui-ci reposant à moitié dans le vide grâce à des pilotis. 
+
+**Cide** escalada donc la falaise et plaça les grenades fabriquées par **Dash** sur les supports, faisant exploser le tout et entraînant le bâtiment dans sa chute, celui-ci dégringolant les 6 niveaux telle une avalanche de pierre, entraînant de nombreux autres bâtiments dans sa chute. 
+
+Privées de potions, les troupes des **Crocs Pâles** furent rapidement submergées et les niveaux 1 à 4 furent sécurisés par les troupes de **Yui**. 
+
+**Cain**, profitant du chaos général, lança une insurrection au niveau 5 qui se rendit donc, les troupes du **Crocs Pâles** se rangeant sous la bannière de **Cain** pour prendre d'assaut le niveau 6. 
+
+L'assaut de celui-ci fut principalement marqué par l'attaque de l'entrepôt principal du Syndicat, creusé à même la roche et protégé par une grande porte en pierre et de nombreuses meurtrières. L'assaut fut sanglant et la moitié des troupes de **Cain** y passèrent, mais, avec l'aide de **Dash**, jetant des grenades empoisonnées dans les meurtrières, de **Cide** tirant avec précision dans celles-ci pour tuer les archers derrière, et de **Léo**, détruisant la porte avec ses sorts tandis que **Cain** menait la charge avec ses troupes, l'entrée de l'entrepôt fut sécurisé, le reste encore à découvrir. 
