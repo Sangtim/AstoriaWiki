@@ -14,7 +14,6 @@ Permet de créer des potions à partir d'ingrédients alchimiques et de collecte
 - **Récompense** : L'alchimiste peut additionner le/les résultat(s) de son/ses jets pour obtenir un score de collecte (SC). Il peut ensuite dépenser ces SC pour obtenir un certains nombres de matériaux d'alchimie.  
 	- Exemple : Je fais 3 jets de collecte sur une créature très grande, j'obtiens au dés : 5, 10 et 18 pour un total de 33 SC. Je dépense ensuite ces SC pour obtenir une ressource légendaire (25 SC) et une ressource commune (2 SC) et peu commune (5 SC) pour un total de 32 SC dépensés.
 
-
 | Coût en SC | Récompense                | Modificateur d'Alchimie |
 | ---------- | ------------------------- | ----------------------- |
 | 2 SC       | Une ressource commune     | -                       |

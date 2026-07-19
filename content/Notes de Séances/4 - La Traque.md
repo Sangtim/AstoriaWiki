@@ -283,3 +283,27 @@ Privées de potions, les troupes des **Crocs Pâles** furent rapidement submerg�
 **Cain**, profitant du chaos général, lança une insurrection au niveau 5 qui se rendit donc, les troupes du **Crocs Pâles** se rangeant sous la bannière de **Cain** pour prendre d'assaut le niveau 6. 
 
 L'assaut de celui-ci fut principalement marqué par l'attaque de l'entrepôt principal du Syndicat, creusé à même la roche et protégé par une grande porte en pierre et de nombreuses meurtrières. L'assaut fut sanglant et la moitié des troupes de **Cain** y passèrent, mais, avec l'aide de **Dash**, jetant des grenades empoisonnées dans les meurtrières, de **Cide** tirant avec précision dans celles-ci pour tuer les archers derrière, et de **Léo**, détruisant la porte avec ses sorts tandis que **Cain** menait la charge avec ses troupes, l'entrée de l'entrepôt fut sécurisé, le reste encore à découvrir. 
+
+### **Séance 37 - La Prise de Slum**
+
+Se tenant devant le couloir menant dans les profondeurs de la falaise et dans l'entrepôt supposé des **Crocs Pâles**, les aventuriers avancent prudemment, désamorçant des pièges manquant de tuer **Cide**, sauvé par **Léo** et détruisant l'araignée mécanique de **Dash**.
+
+Au bout du couloir, une grande porte en pierre est entrouverte par **Cide** qui trafique le mécanisme ; les aventuriers, ainsi que leurs 10 alliés de fortune, peuvent voir une grande salle, creusée à même la roche, le plafond soutenu par 6 énormes colonnes en pierre. Dans cette salle, un amas de richesses énorme, et surtout une vingtaine de brigands, des civils et les deux chefs encore vivants du gang des **Crocs Pâles**, **Kazren** et **Veyra**. 
+
+Le combat débute avec **Dash**, qui traversa la porte et attaqua immédiatement les ennemis, lançant le combat. La bataille fut difficile, gagnée uniquement grâce à plusieurs actions héroïques de la part des aventuriers et de leurs alliés. 
+
+**Cide** rattrapa une grenade empoisonnée en vol pour la relancer, sauvant ainsi **Léo**, **Cain** et leurs alliés de ses effets néfastes. **Dash** et **Cain** boostèrent fortement la vitalité des alliés et des aventuriers, leur permettant de mieux résister aux coups des ennemis. **Léo** parvint à empêcher **Kazren** de s'enfuir, lui transperçant le crâne de sa rapière alors qu'il s'apprêtait à passer à travers un portail de téléportation. Sans compter les alliés, qui prirent l'ascendant sur les brigands alors que **Cain**, **Dash** et **Léo** était tombé au sol et que **Cide** avait dû fuir face à la présence terrifiante de **Kazren**. 
+
+Le tout permis aux aventuriers de gagner, malgré les explosions multiples, les fumigènes, l'écroulement d'une colonne et d'une partie du plafond qu'elle soutenait, et de faire deux prisonniers, **Veyra** et un brigand. 
+
+En fouillant la salle, après que la cohue soit retombée, **Léo** put trouver une boîte, contenant 6 artefacts divins mineurs, dont deux épuisés. **Dash** désarma **Veyra**, récupérant sur elle deux dagues longues et fines qui furent identifiées par la suite sous le nom des **Lames du Retour**, deux dagues permettant à son porteur d'être lancé ensemble et revenant ensuite automatiquement dans leurs fourreaux. **Dash** trouva aussi une petite clé.
+
+**Cide** fouilla **Kazren**, récupérant sur son cadavre une **Perle de pouvoir**, qu'il donna à **Léo**. 
+
+La clé de **Veyra** permit d'ouvrir un coffre contenant de multiples manuscrits et livres de comptes détaillant les activités du groupe et son lien avec le **Syndicat**. 
+
+Les aventuriers se soignèrent un peu puis interrogèrent **Veyra** avec **Yui**, récupérant des informations sur le **Syndicat**, le vol des artefacts divins et leur envoi vers un endroit appelé le **Mirage** situé en mer d'**Elathar** à **Edarion**. **Léo** croisa ces informations avec ses connaissances personnelles acquises durant son voyage à **Edarion** et se rappela de l'existence d'une anomalie mouvante créant un champ gigantesque de brume sur la mer appelé le **Mirage**. 
+
+Forts de ces informations, les aventuriers se préparent à quitter la ville, **Yui** leur donnant en récompense pour leur service un **Miroir de Communication**, permettant de communiquer au travers de miroirs avec une personne connue par les aventuriers. 
+
+Juste avant d'aller dormir et de partir vers **Edarion**, les aventuriers préparent un plan pour trouver le **Mirage**, en installant un traqueur sur les artefacts divins récupérés et en les envoyant dans le chemin de fer de transport prévu à cet effet, espérant que des gens du **Syndicat** ou du **Voile** récupèrent ensuite ces artefacts pour les emmener sur le **Mirage**. 
