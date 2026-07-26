@@ -55,3 +55,4 @@ title: Astoria Wiki
 	- [[2 - Le commerce de runes]]
 	- [[3 - Le sommet des secrets]]
 	- [[4 - La Traque]]
+	- [[4.1 - Slum]]

@@ -54,11 +54,11 @@ Le cuisinier choisit un style d'assaisonnement, définissant la difficulté du j
 - **Etape 4** : La cuisson des ingrédients
 Le cuisinier choisit un style de cuisson, définissant la difficulté du jet et son effet.
 
-| Style               | Jet                   | Coût                            | DC  | Effet                          |
-| ------------------- | --------------------- | ------------------------------- | --- | ------------------------------ |
-| Cuisson simple      | Intelligence (Arcana) | Emplacement de sort de niveau 1 | 12  | +1 MC si réussite, -1 si échec |
-| Cuisson élémentaire | Intelligence (Arcana) | Emplacement de sort de niveau 2 | 15  | +2 MC si réussite, -1 si échec |
-| Cuisson légendaire  | Intelligence (Arcana) | Emplacement de sort de niveau 3 | 20  | +3 MC si réussite, -1 si échec |
+| Style               | Jet                                      | DC  | Effet                          |
+| ------------------- | ---------------------------------------- | --- | ------------------------------ |
+| Cuisson simple      | Sagesse (Survie) ou Intelligence(Nature) | 12  | +1 MC si réussite, -1 si échec |
+| Cuisson élémentaire | Sagesse (Survie) ou Intelligence(Nature) | 15  | +2 MC si réussite, -1 si échec |
+| Cuisson légendaire  | Sagesse (Survie) ou Intelligence(Nature) | 20  | +3 MC si réussite, -1 si échec |
 - **Etape 5** : Les événements de la cuisine
 La cuisine peut révélé des surprises. A chaque étape, un dé 10 sera lancé, permettant de déterminer ce qu'il se passe.
 
