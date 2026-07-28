@@ -27,18 +27,19 @@ title: Astoria Wiki
 ---
 - **Lore** :
 	- **Panthéon :**
-		- [Aelrith](Aelrith_Wiki.md)
-		- [Elvara](Elvara_Wiki)
-		- [Erythis](Erythis_Wiki)
-		- [Kraëlor](Kraëlor_Wiki.md)
-		- [Lolth](Lolth_Wiki)
-		- [Morgrin](Morgrin_Wiki)
-		- [Nivara](Nivara_Wiki.md)
-		- [Sylvannor](Sylvannor_Wiki.md)
-		- [Thalvorys](Thalvorys_Wiki)
-		- [Thyrenia](Thyrenia_Wiki.md)
-		- [Tiamat](Tiamat_Wiki)
-		- [Xarion](Xarion_Wiki)
+		- [[Panthéon Complet]]
+			- [Aelrith](Aelrith_Wiki.md)
+			- [Elvara](Elvara_Wiki)
+			- [Erythis](Erythis_Wiki)
+			- [Kraëlor](Kraëlor_Wiki.md)
+			- [Lolth](Lolth_Wiki)
+			- [Morgrin](Morgrin_Wiki)
+			- [Nivara](Nivara_Wiki.md)
+			- [Sylvannor](Sylvannor_Wiki.md)
+			- [Thalvorys](Thalvorys_Wiki)
+			- [Thyrenia](Thyrenia_Wiki.md)
+			- [Tiamat](Tiamat_Wiki)
+			- [Xarion](Xarion_Wiki)
 	- **Royaume** :
 		- [Confédération de Valdoria](Confédération_de_Valdoria_Wiki.md)
 		- [Empire Kragmorn](Empire_Kragmorn_Wiki.md)
