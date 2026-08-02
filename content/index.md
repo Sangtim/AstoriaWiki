@@ -57,3 +57,4 @@ title: Astoria Wiki
 	- [[3 - Le sommet des secrets]]
 	- [[4 - La Traque]]
 	- [[4.1 - Slum]]
+	- [[5 - Le Mirage]]
