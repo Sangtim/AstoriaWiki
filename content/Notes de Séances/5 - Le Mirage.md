@@ -45,3 +45,30 @@ Elle propose donc un poker aux aventuriers, n'acceptant d'écouter leurs demande
 Avant de se quitter, la Capitaine pirate leur donne rendez-vous dans trois jours pour se rendre dans le **Mirage**. 
 
 Retournant à leur voilier pour le rendre à son propriétaire, non sans avoir lié une amitié avec l'espadon capricieux, les aventuriers prennent leurs quartiers dans le **Zéphyr**, devant se rendre en ville le lendemain pour retrouver le groupe de **Rose**. 
+
+### **Séance 41 - Holtier**
+
+Au réveil, après le petit-déjeuner, **Zaldrin** prend les commandes du **Zéphyr** pour se diriger vers la ville portuaire de **Holtier**. Arrivant sur place après une petite heure de trajet, les aventuriers peuvent remarquer plusieurs choses.
+- La sécurité de la ville a l'air renforcée, avec des patrouilles policières et un périmètre d'interdiction de vol au-dessus de la ville sans autorisation préalable, créant des bouchons dans les arrivées d'aéronefs dans la ville.
+- Une grande foire est prévue dans l'après-midi, où de multiples collectionneurs et marchands vendront des objets magiques. 
+
+Avant cela, les aventuriers font un stop dans un café pour retrouver **Rose**, **Scarlett**, **Carol** et **Fayre**, rattrapant le temps perdu et échangeant des anecdotes sur leurs dernières missions.
+
+Les aventuriers se séparent alors pour se préparer à leurs prochaines missions. 
+
+**Cide** se dirige vers une boutique d'alchimie pour acheter quelques ressources alchimiques et emprunter le matériel pour fabriquer une potion de respiration, réussissant à en produire deux. 
+
+**Cain** cherche un tailleur et prend commande d'une tenue, qu'il pourra récupérer d'ici deux jours.
+
+**Dash** trouve une armurerie pour acheter munitions, fusil à pompe et chevrotines.
+
+Enfin, **Léo** trouve une boutique d'enchantement pour acheter une table d'enchantement portative à garder dans son sac, qu'elle pourra aussi récupérer d'ici deux jours.
+
+Une fois leurs emplettes terminées, les aventuriers se retrouvent à la foire sur la place centrale, grand rassemblement de multiples étals d'objets magiques en tout genre. Le groupe se sépare pour flâner devant les étals, achetant plusieurs objets piquant leur intérêt. 
+
+Leurs achats sont interrompus par un épais voile de fumée tombant sur l'un des étals, les marchandises de celui-ci ayant totalement disparu lorsque la fumée se dissipe. Le groupe se lance immédiatement à la poursuite des voleurs, à part **Cain** qui décide de rentrer dans une tente dans un des coins de la foire. 
+
+Dans cette tente, il se voit offrir un bébé hyène vert et jaune, semblant posséder la capacité de se téléporter. 
+
+Pendant ce temps, les autres réussissent à coincer les voleurs, mais ceux-ci s'échappent, laissant cependant derrière eux leur butin. Retrouvant la totalité des objets dérobés, le groupe s'interroge sur les raisons du vol, découvrant qu'un des objets achetés par **Léo**, une assiette de stabilisation, pourrait en être la cause, celle-ci semblant bien plus puissante qu'elle n'en a l'air.
+

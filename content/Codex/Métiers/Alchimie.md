@@ -86,5 +86,5 @@ La concoction est prête est doit être mise en bouteille. L'alchimiste lance un
 | 19-24    | Une potion très rare est réussi                 |
 | 25-27    | Une potion légendaire est réussi                |
 | 28+      | La potion est sublimée                          |
-Chaque fourchette de résultat supérieur à celui nécessaire permet de créer une potion supplémentaire avec la concoction.
-_Exemple_ : Je cherche à faire une potion de soin majeure qui est donc peu commune. Je dois faire pour réussir un score d'alchimie entre 11 et 15. Je fais un score de 20 au total ce qui me permet de produire non pas une seule potion mais 3 car deux fourchettes au dessus de l'objectif.
+Chaque double fourchette de résultat supérieur à celui nécessaire permet de créer une potion supplémentaire avec la concoction.
+_Exemple_ : Je cherche à faire une potion de soin majeure qui est donc peu commune. Je dois faire pour réussir un score d'alchimie entre 11 et 15. Je fais un score de 20 au total ce qui me permet de produire non pas une seule potion mais 2 car deux fourchettes au dessus de l'objectif.
