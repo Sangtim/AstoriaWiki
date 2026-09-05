@@ -29,7 +29,7 @@ Permet d'enchanter des objets à partir d'essence de créatures et d'objets non 
 - **Sorts** : Les emplacements de sorts ou sorts peuvent être fournis par l'enchanteur mais aussi par ses compagnons qui peuvent l'assister dans l'enchantement. Dans le cas de sorts, il est nécessaire de lancer le sort qui sera enchanté dans l'objet.
 - **Charge** : Nombre d'utilisation par long repos du sort en question
 - **Enchantement superposé** : Les objets de rang très rare ou légendaire peuvent être enchanté plusieurs fois, 2 fois pour un objet très rare et 3 fois pour un objet légendaire.
-- **Infusion élémentaire** : Ces infusions permettent d'imbuer un objet avec un élément, accordant à une arme 1d4/1d8/1d12 de dégâts supplémentaires de cette élément et pour les armures  résistance (dégâts divisés par 2)/résistance amélioré (dégâts divisés par 3)/immunité(aucun dégâts subis) pour les dégâts de cet élément.
+- **Infusion élémentaire** : Ces infusions permettent d'imbuer un objet avec un élément, accordant à une arme 1d6/1d8/1d12 de dégâts supplémentaires de cette élément et pour les armures  résistance (dégâts divisés par 2)/résistance amélioré (dégâts divisés par 3)/immunité(aucun dégâts subis) pour les dégâts de cet élément.
 
 L'enchantement de l'objet se déroule en plusieurs étapes, permettant d'accumuler des Modificateur d'enchantement (ME), qui définisse le résultats final. 
 

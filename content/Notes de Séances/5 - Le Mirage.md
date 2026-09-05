@@ -25,6 +25,8 @@ Pour en découvrir plus sur cette Capitaine Pirate, ils se rendent ensuite au ma
 
 De retour au **Zéphyr**, une brève discussion avec **Caleb** et **Sable** les amènent à la conclusion qu'une négociation avec la Capitaine serait sans doute la meilleure stratégie pour obtenir ce qu'ils souhaitent. De l'aide leur sera apportée aussi avec le **groupe de la Rose** qui est en route vers leur position. 
 
+---
+
 ### **Séance 40 - Valeria Draynor**
 
 Les aventuriers se séparent, profitant de leur soirée pour s'atteler à diverses tâches. 
@@ -45,6 +47,8 @@ Elle propose donc un poker aux aventuriers, n'acceptant d'écouter leurs demande
 Avant de se quitter, la Capitaine pirate leur donne rendez-vous dans trois jours pour se rendre dans le **Mirage**. 
 
 Retournant à leur voilier pour le rendre à son propriétaire, non sans avoir lié une amitié avec l'espadon capricieux, les aventuriers prennent leurs quartiers dans le **Zéphyr**, devant se rendre en ville le lendemain pour retrouver le groupe de **Rose**. 
+
+---
 
 ### **Séance 41 - Holtier**
 
@@ -72,3 +76,50 @@ Dans cette tente, il se voit offrir un bébé hyène vert et jaune, semblant pos
 
 Pendant ce temps, les autres réussissent à coincer les voleurs, mais ceux-ci s'échappent, laissant cependant derrière eux leur butin. Retrouvant la totalité des objets dérobés, le groupe s'interroge sur les raisons du vol, découvrant qu'un des objets achetés par **Léo**, une assiette de stabilisation, pourrait en être la cause, celle-ci semblant bien plus puissante qu'elle n'en a l'air.
 
+---
+
+### **Séance 42 - La Tempête**
+
+Les aventuriers, après avoir quitté la foire, vaquent à leurs occupations. **Dash** et **Carol** partent dans une forge fabriquer une machine pour les aider dans l'attaque sur le Serpent de Mer. **Léo** et **Rose** partent dans le nord de la ville pour donner un concert devant les bars et restaurants. **Cain** fait un tour à la banque pour déposer son argent avant de faire un tour sur les quais, où il fait une rencontre étonnante. Enfin, **Cide** trouve une auberge et profite de la soirée pour se reposer.
+
+Durant la nuit, une violente tempête frappe la ville, réveillant une partie des aventuriers. À leur réveil, ils découvrent une ville ravagée. **Léo**, **Cain** et **Dash** vont vers les quais, découvrant au fur et à mesure de leur avancée l'ampleur des dégâts et aidant plusieurs personnes en les sortant des décombres de leurs maisons. 
+
+**Cide** part vers l'est, se rendant dans les quartiers plus sombres de la ville à la recherche d'informations. En chemin, il tombe sur un entrepôt avec une activité anormale ; il s'approche et voit de nombreux policiers et le maire de la ville discuter : apparemment, de nombreuses provisions stockées dans l'entrepôt ont été volées dans la nuit. 
+
+Il croise ensuite un informateur, et celui-ci le redirige vers un entrepôt en bordure de mer. Il y rejoint alors les trois autres pour constater que l'entrepôt a, lui aussi, été pillé dans la nuit, avec des traces d'un navire amarré qui aurait fait le trajet sous la tempête. Le gardien du phare semble corroborer ces suppositions avec une potentielle observation de mouvements durant la nuit. 
+
+**Cain** et **Léo** se rendent à la mairie, comprenant à partir des cartes maritimes que le navire semble se diriger directement vers le **Mirage**, offrant à celui-ci un ravitaillement nécessaire après plusieurs semaines ou mois dans une dimension parallèle. 
+
+---
+
+### **Séance 43 - Le Ravitaillement**
+
+À l'aéroport de la ville, les aventuriers retrouvent le maire, qui discute avec **Zaldrin**. Après quelques secondes, ils aperçoivent aussi une frégate militaire fonçant sur eux, que **Dash** reconnaît comme étant une frégate logistique de l'armée Edarienne, amenant des provisions de secours et des matériaux de reconstruction à la ville.
+
+Pour fêter ce sauvetage inespéré, le maire organise une soirée, et les aventuriers y sont bien évidemment invités. Ils passent alors le reste de la journée à aider dans la ville et à se préparer pour la suite, avant de tous se retrouver dans les jardins de la mairie, où des tables remplies de plats simples mais réconfortants sont mises à disposition des plus démunis de la ville.
+
+Les aventuriers passent alors une soirée de repos, permettant de relâcher la pression avant les futures épreuves qui les attendent. **Léo** et **Rose** lancent un concert remarquable, entraînant la foule dans une liesse effrénée. **Cide** retrouve la tatoueuse, qui lui fait un tatouage gratuit augmentant ses capacités pour qu'il fasse mieux face à ses ennemis. **Cain** tente de lancer un commerce de bière, ne pouvant cependant pas rivaliser avec la bière gratuite proposée par le maire. Et **Dash** profite de la soirée pour se reposer.
+
+Après cette journée de générosité, d'entraide et de repos, les aventuriers retournent au **Zéphyr**, celui-ci décollant pour retrouver **Valeria Draynor** et son navire pour se diriger vers le **Mirage** et les dangers qu'il renferme.
+
+---
+
+### **Séance 44 - Le Mirage** 
+
+Sur le navire pirate de la Capitaine **Valeria Draynor**, les aventuriers discutent avec elle et ses lieutenants pour définir le plan d'action.
+
+**Dash** se retrouve sur un petit navire de pêche de tête, servant d'appât au Serpent de mer. Après plusieurs heures de voyage à se préparer, la tension montant progressivement, les aventuriers aperçoivent enfin le **Mirage**, d'abord phénomène étrange à l'horizon, puis devant un mur gigantesque de brume remplissant tout leur champ de vision.
+
+Rentrant dans celui-ci, le groupe se retrouve avec une visibilité restreinte, ne voyant qu'à quelques mètres, dans une ambiance humide, spectrale et angoissante. Après quelques heures de trajet à vitesse très limité, **Dash**, sur le navire de tête, fut secouer par une onde sur la mer jusque-là calme et plate. 
+
+Peu de temps après, il fut attaqué par le serpent de mer, qui engloutit son navire, **Dash** parvenant de justesse à esquiver le coup en sautant à l'eau avec sa machine de propulsion aquatique, l'Espadon. 
+
+Ayant absorbé les tonneaux d'huile lumineuse, le Serpent se mit à briller fortement dans la brume, révélant sa véritable taille, dépassant les 1,5 km de long. Le combat se lança immédiatement, le Serpent soufflant une vague de froid sur le navire, tuant plusieurs membres de l'équipage sur le coup. 
+
+Les aventuriers réussirent à surmonter le Serpent, grâce aux flèches d'acide de **Cide** brûlant la moitié du visage du Serpent, à la brutalité de **Cain**, sautant sur le Serpent et le coupant en deux à coups de hache, au manœuvre de **Dash** utilisant ses machines pour tourner autour du monstre et de le bombarder de grenade et au sauvetage héroïque de **Léo**, sautant devant **Cide** et le sauvant d'une mort certaine, permettant à celui-ci de porter le coup fatal à la bête. 
+
+Une fois la créature vaincue, le sauvetage de l'équipage et du navire fut lancé, celui-ci ayant pris de gros dégâts pendant le combat. 
+
+La situation stabilisée, le trajet repris, arrivant sur l'île clignotante peu de temps après, tirant l'immense cadavre du Serpent derrière le navire. Celui-ci fut dépecé, les aventuriers récupérant des morceaux de choix en récompense pour leur bravoure. 
+
+**Valeria Draynor** leur souhaita alors bonne chance, alors que le groupe prit la route vers le laboratoire du **Syndicat** pour y découvrir ce qu'il s'y cache. 
