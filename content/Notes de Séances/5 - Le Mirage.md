@@ -123,3 +123,33 @@ Une fois la créature vaincue, le sauvetage de l'équipage et du navire fut lanc
 La situation stabilisée, le trajet repris, arrivant sur l'île clignotante peu de temps après, tirant l'immense cadavre du Serpent derrière le navire. Celui-ci fut dépecé, les aventuriers récupérant des morceaux de choix en récompense pour leur bravoure. 
 
 **Valeria Draynor** leur souhaita alors bonne chance, alors que le groupe prit la route vers le laboratoire du **Syndicat** pour y découvrir ce qu'il s'y cache. 
+
+---
+
+### **Séance 45 - Le laboratoire #1**
+
+Les aventuriers rejoignent ainsi le laboratoire du **Syndicat**, construit sous les ruines d'un ancien phare. Ils descendent discrètement dans celui-ci et prennent par surprise les quelques gardes de l'entrée ; ceux-ci réussissent cependant à déclencher l'alarme, des renforts arrivant rapidement dans la salle. 
+
+Après un combat rapide, montrant une nouvelle fois l'efficacité au combat du groupe, celui-ci se débarrasse des différents ennemis, les identifiant comme des membres du **Voile** et non du **Syndicat**. En explorant un peu plus le laboratoire, ils remarquent qu'il s'agit d'un complexe assez grand, contenant des lieux de vie et des lieux de recherche.
+
+En fouillant les laboratoires de recherche et d'expérimentation, ils découvrent des éléments inquiétants, l'avancée sur les runes de contrôle étant importante, permettant désormais de contrôler des êtres humains. Un rire dément les attire dans les prisons du laboratoire où ils découvrent un vieil homme fou qui les prévient de faire attention aux couleurs avant de chanter une petite comptine.
+
+En continuant à fouiller le laboratoire, ils se séparent du **groupe de la Rose**, essayant d'encercler une source de bruit sourd qu'ils ont entendue. Cette source de bruit s'avère être un groupe de quatre géants de pierre qui tombe sur le **groupe de la Rose** en premier. Le combat se déclenche et les quatre aventuriers se retrouvent vite submergés. Heureusement, Cain et **Cide** arrivent rapidement sur les lieux, **Dash** et **Léo** juste derrière, sauvant **Rose** et son groupe et vainquant les géants. 
+
+Après avoir pris un repos bien mérité dans les quartiers du **Voile**, ils récupèrent les bougies transportées par les géants pour activer un cercle magique faisant apparaître un long escalier en colimaçon descendant dans les profondeurs. 
+
+Les attendant en bas, après plus d'une heure de descente, se trouve le gardien du laboratoire.
+
+---
+
+### **Séance 46 - Le laboratoire #2**
+
+Se retrouvant coincés dans la salle du gardien, une salle gigantesque complètement noire, sauf un unique puits de lumière éclairant une figure sans doute humaine à une époque, mais transformée en monstre avec des ajouts mécaniques installés sur tout le corps. 
+
+Ils sentent une certaine réticence de la part de la cyborg à attaquer, mais elle lance tout de même les hostilités. Après un combat difficile, les aventuriers parviennent à la vaincre, la libérant de sa malédiction. Sur elle, ils récupèrent un cristal contenant son essence et sont transportés par une vision montrant son passé, expliquant que sa malédiction semble originaire du 4e Primordial. 
+
+En continuant dans la deuxième partie du laboratoire, ils entendent le chef du laboratoire qui essaie de détruire des preuves. Ils arrivent rapidement à le tuer et fouillent le reste du laboratoire, trouvant des preuves que le **Voile** semble chercher à amasser de vastes quantités d'énergie pour ses besoins et que ses expériences semblent affiner la couche entre les Plans, ce qui permet en partie à des démons de pénétrer sur le Plan Matériel. 
+
+Après avoir fouillé l'ensemble du laboratoire, ils repartent, libérant le vieux fou, qui s'avère être un aasimar non éveillé, raison pour laquelle il a le mieux tenu aux expériences atroces du **Voile**. 
+
+Retrouvant **Valeria Draynor**, ils repartent ensuite et quittent le **Mirage** sur le navire réparé comme possible. Ils sont accueillis à la sortie par 3 frégates militaires d'**Edarion** qui récupèrent les aventuriers pour les escorter jusqu'à la Tour du Conseil où ils font leur rapport au Conseil et apprennent que, pendant leur absence, **Kragmorn** a lancé son offensive sur **Valdoria** et **Edarion**, en même temps que les **Drows** ont attaqué **Ondaile**. Les **Pendragons** ont aussi trahi **Valdoria**, se déclarant indépendants et rendant la ville de **Caelum** sans défense, celle-ci tombant aux mains du Nord.

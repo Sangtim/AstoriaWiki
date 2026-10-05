@@ -58,3 +58,5 @@ title: Astoria Wiki
 	- [[4 - La Traque]]
 	- [[4.1 - Slum]]
 	- [[5 - Le Mirage]]
+	- [[5.1 - Aetherforge]]
+	- [[6 - Le Voile de Mornebrume]]
